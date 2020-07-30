@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows GSK Server 2008 Windows GSK Server 2008 Windows GSK Server 2008 Windows G
+  description: "\"Windows HPC Server 2008\" atitinka fiksuoto palaikymo trukmės strategiją."
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e208be03e69f56dc9f77409668c4f4f538a57997
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "829559"
+name: Windows GSK Server 2008 Windows GSK Server 2008 Windows GSK Server 2008 Windows G
+summary: "\"Windows HPC Server 2008\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\nTai taikoma šiems leidimams: Standard, be Hyper-V\n\n> [!IMPORTANT]\n> Palaikymas baigėsi. Žiūrėkite toliau pateiktas išsiskyrimo gaires.\n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/29/2008
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 2
+  startDate: 04/29/2009
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 12/30/2008
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](https://aka.ms/AA1ovn4)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Standartinis\n* be Hyper-V"
