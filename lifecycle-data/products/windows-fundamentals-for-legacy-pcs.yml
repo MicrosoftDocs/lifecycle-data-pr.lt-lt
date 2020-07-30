@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Senstelėjusiems kompiuteriams skirti "Windows" pagrindai
+  description: Senstelėjusiems kompiuteriams skirti "Windows" pagrindai atitinka fiksuoto palaikymo trukmės strategiją.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b0ea32a5421ba068c5fa75f46633c104fdb3eff5
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "829044"
+name: Senstelėjusiems kompiuteriams skirti "Windows" pagrindai
+summary: >+
+  Senstelėjusiems kompiuteriams skirti "Windows" pagrindai atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/31/2006
+  end: 04/14/2009
+  extendedEnd: 04/08/2014
+releases:
+- version: Service Pack 3
+  startDate: 10/07/2008
+  endDate: 04/08/2014
+- version: Original Release
+  startDate: 05/31/2006
+  endDate: 10/12/2010
+content: "\n## <a name=\"links\"></a>Nuorodos \n* [Pakeitimų paketų strategija](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Šis produktas atitinka tą pačią palaikymo trukmės strategiją kaip ir \"Windows XP\"."
