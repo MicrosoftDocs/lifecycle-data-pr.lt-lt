@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Rodyti originalų straipsnį anglų kalba: 3055555'
+  description: Microsoft Internet Security and Acceleration Server 2006 taip fiksuoto palaikymo trukmės strategija.
+  ms.date: 07/30/2020
+  ms.openlocfilehash: 6e2ed1ecf6b002767d3aaf13d12cc14da3042fac
+  ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
+  ms.translationtype: MT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 07/30/2020
+  ms.locfileid: "878866"
+name: 'Rodyti originalų straipsnį anglų kalba: 3055555'
+summary: "Microsoft Internet Security and Acceleration Server 2006 taip [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategija.\n\nTai taikoma šiems leidimams: \"Enterprise\", \"Standard\"\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas. \n"
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 10/17/2006
+  end: 01/10/2012
+  extendedEnd: 01/10/2017
+releases:
+- version: Service Pack 1
+  startDate: 07/02/2008
+  endDate: 01/10/2017
+- version: Original Release
+  startDate: 10/17/2006
+  endDate: 07/14/2009
+content: "\n## <a name=\"links\"></a>Nuorodos \n* [Pakeitimų paketų strategija](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Įmonės\n* Standartinis"
