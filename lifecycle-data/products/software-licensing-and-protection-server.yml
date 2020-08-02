@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Programinės įrangos licencijavimo ir apsaugos serveris
+  description: Programinės įrangos licencijavimo ir apsaugos serveris atitinka fiksuotą palaikymo trukmės strategiją.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9a42af57f9f0bfd7232e67126c6d9923413e06f6
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "829082"
+name: Programinės įrangos licencijavimo ir apsaugos serveris
+summary: >
+  Programinės įrangos licencijavimo ir apsaugos serveris atitinka [fiksuotą](/lifecycle/policies/fixed) palaikymo trukmės strategiją.
+
+
+  Tai taikoma šiems leidimams: "Enterprise", "Standard"
+
+
+  > [!IMPORTANT]
+
+  > Dėl programinės įrangos licencijavimo ir apsaugos serverio (SLPS) pardavimo "Microsoft" palaiko PLPS iki 2009 m. rugsėjo 24 d.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/30/2007
+  end: 09/24/2009
+  extendedEnd: 09/24/2009
+releases:
+- version: Original Release
+  startDate: 12/30/2007
+  endDate: 01/09/2018
+content: "\n## <a name=\"links\"></a>Nuorodos \n* [Programinės įrangos licencijavimo ir apsaugos serveris (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Įmonės\n* Standartinis"

@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Rodyti originalų vertinimų programa "Microsoft Visual Studio 2005"
+  description: "\"Microsoft Visual Studio 2005\" atitinka fiksuoto palaikymo trukmės strategiją."
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 576095a27901552e7a275b0a349ed5e1edee8099
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "829081"
+name: Rodyti originalų vertinimų programa "Microsoft Visual Studio 2005"
+summary: "\"Microsoft Visual Studio 2005\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\nTai taikoma šiems leidimams: Professional, Standard, Standard Edition akademinei licencijai, \"Team Edition for Database Professionals\", \"Team Edition for Software Architects\", \"Team Edition for Software Developers\", \"Team Edition for Software Testers\", \"Team Suite\", \"Team Test Load Agent\", \"Microsoft Office System\", \"VB Express\", \"Visual C# Express\", \"Visual C++ Express\", \"Visual J# Express\", \"Visual Web Developer Express\" įrankiams\n\n"
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/27/2006
+  end: 04/12/2011
+  extendedEnd: 04/12/2016
+releases:
+- version: Service Pack 1
+  startDate: 12/14/2006
+  endDate: 04/12/2016
+- version: Original Release
+  startDate: 01/27/2006
+  endDate: 01/08/2008
+content: "\n## <a name=\"links\"></a>Nuorodos \n* [Visual J# palaikymo informacija](https://msdn.microsoft.com/vstudio/bb188593)\n* [Migracijos gairės](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Visual Studio produkto informacija](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Baigėsi šio produkto palaikymas. Toliau pateikiamos nuorodos į migraciją.\n> [!NOTE]\n> Microsoft Visual Studio 2005 team Edition duomenų bazės specialistams išleistas 2007 m. kovo 2 d.\n\n## <a name=\"editions\"></a>Leidimai \n* Profesinės\n* Standartinis\n* Standard Edition akademinė licencija\n* Team Edition duomenų bazės profesionalams\n* Team Edition programinės įrangos architektams\n* \"Team Edition\", skirtas programinės įrangos kūrėjams\n* Team Edition programinės įrangos testeriai\n* Liukso numeris \"Team\"\n* Komandos bandymo apkrovos agentas\n* Įrankiai, skirti Microsoft Office sistemai\n* VB Express\n* Vaizdinis C# Express\n* Visual C ++ Express\n* Visual J# Express\n* Visual Web Developer Express"
