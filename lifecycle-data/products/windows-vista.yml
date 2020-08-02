@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: "\"Windows Vista\" sistema"
+  description: "\"Windows Vista\" laikosi fiksuoto palaikymo trukmės strategijos."
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e2e6ab946bf405ed524f07047d055a786d7174dc
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "829198"
+name: "\"Windows Vista\" sistema"
+summary: "\"Windows Vista\" laikosi [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategijos.\n\nTai taikoma šiems leidimams: Business, Business N, Enterprise, Enterprise X64, Home Basic, Home Basic 64-bit, Home Basic N, Home Basic N 64-bit, Home Premium, Home Premium 64-bit, Starter, Ultimate, Ultimate 64-bit\n\n> [!IMPORTANT]\n> Šio produkto palaikymas baigėsi, rasite toliau, jei norite gauti informaciją apie perkėlimą.\n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 01/25/2007
+  end: 04/10/2012
+  extendedEnd: 04/11/2017
+releases:
+- version: Service Pack 2
+  startDate: 04/29/2009
+  endDate: 04/11/2017
+- version: Service Pack 1
+  startDate: 02/04/2008
+  endDate: 07/12/2011
+- version: Original Release
+  startDate: 01/25/2007
+  endDate: 04/13/2010
+content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [\"Windows\" naujinimo ir perkėlimo aspektai](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Pakeitimų paketų strategija](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Verslo\n* Verslo N (Business N)\n* Įmonės\n* Įmonė X64\n* Pagrindinis pagrindinis puslapis\n* Pagrindinis pagrindinis 64 bitų\n* Pagrindinis Pagrindinis Pagrindinis N\n* Pagrindinis Pagrindinis N 64 bitų\n* Pradžia Premium (Home Premium)\n* Pradžia Premium 64 bitų\n* Starter\n* Galutinis\n* Galutinis 64 bitų"
