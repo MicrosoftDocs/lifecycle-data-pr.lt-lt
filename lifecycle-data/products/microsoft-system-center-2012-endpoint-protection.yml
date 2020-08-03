@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft System Center 2012 galinio punkto apsauga
+  description: "\"Microsoft System Center 2012 Endpoint Protection\" atitinka fiksuoto palaikymo trukmės strategiją."
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 831df2c41a088376f7cb34fb117163dc45ade4ed
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "858977"
+name: Microsoft System Center 2012 galinio punkto apsauga
+summary: "\"Microsoft System Center 2012 Endpoint Protection\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\nTai taikoma šiems leidimams: \"Mac\"\n\n"
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 05/30/2012
+  end: 07/11/2017
+  extendedEnd: 07/12/2022
+releases:
+- version: Service Pack 2
+  startDate: 05/12/2015
+  endDate: 07/12/2022
+- version: Service Pack 1
+  startDate: 12/15/2012
+  endDate: 07/12/2016
+- version: Original Release
+  startDate: 05/30/2012
+  endDate: 01/14/2014
+content: "\n## <a name=\"links\"></a>Nuorodos \n* [Techninės priežiūros informacija](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [Migracijos gairės](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [Pakeitimų paketų strategija](/lifecycle/policies/fixed#service-packs)\n* [Sistemos centro dokumentacija](/system-center/#pivot=components&panel=components-all)\n\n> [!NOTE]\n> Klientai turi likti dabartinis su naujausia anti-kenkėjiškų programų platformos naujinimas turi būti visiškai palaikomas.\n\n## <a name=\"editions\"></a>Leidimai \n* skirta \"Mac\""

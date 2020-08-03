@@ -1,0 +1,24 @@
+### YamlMime:Lifecycle
+metadata:
+  title: "\"Windows 10\" \"Surface Hub\""
+  description: "\"Windows 10\" \"Surface Hub\" atitinka fiksuoto palaikymo trukmės strategiją."
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d5c994b23c967ac3138bc695168ac1bbeec1856b
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "858798"
+name: "\"Windows 10\" \"Surface Hub\""
+summary: "\"Windows 10\" \"Surface Hub\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\n\n"
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 03/25/2016
+  end: 10/14/2025
+releases:
+- version: Original Release
+  startDate: 03/25/2016
+  endDate: 10/14/2025
+content: "\n## <a name=\"links\"></a>Nuorodos \n* [\"Windows\" naujinimai (\"Surface Hub\")](/surface-hub/manage-windows-updates-for-surface-hub)\n\n> [!NOTE]\n> Peržiūrėkite \"Windows\" naujinimų (\"Surface Hub\") puslapį, kad įsitikintumėte, jog gaunate naujausius \"Surface Hub\" naujinimus."

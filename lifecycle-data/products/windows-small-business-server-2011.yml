@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Small Business Server 2011
+  description: Windows Small Business Server 2011 po fiksuoto palaikymo strategija.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 61033305f4abf2b1c63cd15f8ae3dce88331fa7e
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "858961"
+name: Windows Small Business Server 2011
+summary: >
+  Windows Small Business Server 2011 po [fiksuoto](/lifecycle/policies/fixed) palaikymo strategija.
+
+
+  Tai taikoma šiems leidimams: "Essentials", "Premium Add-On", "Standard
+
+
+  > [!IMPORTANT]
+
+  > Šio produkto pakuotės palaikymo data nustatoma pagal atskirus komponento produkto gyvavimo ciklus. Peržiūrėkite atskiro komponento produkto gyvavimo ciklą, kad nustatytumėte jo palaikymo trukmę.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 03/09/2011
+releases:
+- version: Original Release
+  startDate: 03/09/2011
+content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](https://aka.ms/AA1ovn4)\n* [\"Windows Small Business Server 2011 Standard\" perkėlimas į \"Windows Server Essentials\"](/windows-server-essentials/migrate/migrate-windows-small-business-server-2011-standard-to-windows-server-essentials)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Pagrindai\n* Premium priedas\n* Standartinis"

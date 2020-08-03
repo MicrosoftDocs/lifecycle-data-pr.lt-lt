@@ -1,0 +1,22 @@
+### YamlMime:Lifecycle
+metadata:
+  title: "\"Visio Online\" 2 planas"
+  description: "\"Visio Online\" 2 planas atitinka \"Modern Lifecycle\" strategiją."
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 5320f94b79e36743b0fb70999b363dd7f5466fb6
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "859063"
+name: "\"Visio Online\" 2 planas"
+summary: "\"Visio Online\" 2 planas atitinka [\"Modern](/lifecycle/policies/modern) Lifecycle\" strategiją.\n\n\n"
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 09/22/2015
+releases:
+- version: Original Release
+  startDate: 09/22/2015
+content: ''

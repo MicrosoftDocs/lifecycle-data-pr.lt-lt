@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Rodyti originalų straipsnį anglų:299
+  description: "\"Microsoft Lync 2010\" atitinka fiksuoto palaikymo trukmės strategiją."
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 2a5d4651d05052e79c1c28309fc8ad530e584aec
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "858884"
+name: Rodyti originalų straipsnį anglų:299
+summary: "\"Microsoft Lync 2010\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\nTai taikoma šiems leidimams: palydovui, dalyviui, grupės pokalbiui, standartiniams\n\n"
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/25/2011
+  end: 04/12/2016
+  extendedEnd: 04/13/2021
+releases:
+- version: Original Release
+  startDate: 01/25/2011
+  endDate: 04/13/2021
+content: "\n\n\n## <a name=\"editions\"></a>Leidimai \n* Palydovas\n* Dalyvis\n* Grupinis pokalbis\n* Standartinis"

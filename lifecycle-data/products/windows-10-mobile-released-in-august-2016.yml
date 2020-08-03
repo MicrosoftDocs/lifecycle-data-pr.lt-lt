@@ -1,0 +1,24 @@
+### YamlMime:Lifecycle
+metadata:
+  title: "\"Windows 10 Mobile\", išleista 2016 m. rugpjūčio mėn."
+  description: "\"Windows 10 Mobile\", išleista 2016 m. rugpjūčio mėn."
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b9e0a074c7472ba059b79bac77a05a001e76d8c3
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "858851"
+name: "\"Windows 10 Mobile\", išleista 2016 m. rugpjūčio mėn."
+summary: "\"Windows 10 Mobile\", išleista 2016 m. rugpjūčio mėn. [Fixed](/lifecycle/policies/fixed)\n\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas.\n"
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 08/16/2016
+  end: 10/09/2018
+releases:
+- version: Original Release
+  startDate: 08/16/2016
+  endDate: 10/09/2018
+content: "\n## <a name=\"links\"></a>Nuorodos \n* [DUK apie įrenginio OS palaikymo trukmę](/lifecycle/faq/device-operating-systems)\n* [\"Windows 10 Mobile\" nutraukė palaikymą 2019 m. gruodžio 10 d.](/lifecycle/announcements/windows-10-mobile-end-of-support)"

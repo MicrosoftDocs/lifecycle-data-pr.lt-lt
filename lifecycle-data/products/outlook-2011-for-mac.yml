@@ -1,0 +1,24 @@
+### YamlMime:Lifecycle
+metadata:
+  title: "\"Outlook 2011\", skirta \"Mac\""
+  description: "\"Outlook 2011 for Mac\" atitinka fiksuoto palaikymo trukmės strategiją."
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 61a62fb9ad78ceb10de85cd875d2435072b9c770
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "858823"
+name: "\"Outlook 2011\", skirta \"Mac\""
+summary: "\"Outlook 2011 for Mac\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas. \n"
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/09/2010
+  end: 10/10/2017
+releases:
+- version: Original Release
+  startDate: 12/09/2010
+  endDate: 10/10/2017
+content: "\n\n> [!NOTE]\n> Pagrindinis \"Microsoft Office for Mac 2011\" palaikymas buvo išplėstas, kaip parodyta siekiant visiems klientams suteikti standartinį palaikymo trukmės perėjimą"
