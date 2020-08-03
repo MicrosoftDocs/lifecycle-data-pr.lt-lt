@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Rodyti originalų straipsnį arba 2007 m. 10 000 "Microsoft System Center" konfigūravimo tvarkytuvą
+  description: "\"Microsoft System Center Configuration Manager 2007 R2\" atitinka fiksuoto palaikymo trukmės strategiją."
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0da71b9a2886e1a7012339ebef9a5fbe64f8811e
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "829646"
+name: Rodyti originalų straipsnį arba 2007 m. 10 000 "Microsoft System Center" konfigūravimo tvarkytuvą
+summary: "\"Microsoft System Center Configuration Manager 2007 [R2\"](/lifecycle/policies/fixed) atitinka fiksuoto palaikymo trukmės strategiją.\n\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas. Žiūrėkite toliau pateiktas išsiskyrimo gaires.\n"
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 11/29/2008
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 11/29/2008
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](/mem/configmgr/core/migration/planning-for-migration)\n* [Papildomos migracijos gairės](/mem/configmgr/core/migration/migrate-data-between-hierarchies)"
