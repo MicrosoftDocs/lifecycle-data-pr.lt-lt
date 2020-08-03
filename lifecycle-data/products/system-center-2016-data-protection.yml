@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Sistemos centras 2016 duomenų apsauga
+  description: "\"System Center 2016\" duomenų apsauga atitinka fiksuoto palaikymo trukmės strategiją."
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 7b2a2ebb813f79280e3a37ee9346697f601538a4
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "859184"
+name: Sistemos centras 2016 duomenų apsauga
+summary: "\"System Center 2016\" duomenų apsauga atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\n\n"
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 10/28/2016
+  end: 01/11/2022
+  extendedEnd: 01/11/2027
+releases:
+- version: Original Release
+  startDate: 10/28/2016
+  endDate: 01/11/2027
+content: "\n## <a name=\"links\"></a>Nuorodos \n* [Informacija apie gaminį](/system-center/)"

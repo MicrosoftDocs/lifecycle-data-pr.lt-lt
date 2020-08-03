@@ -1,0 +1,42 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Rodyti originalų straipsnį anglų kalba: 3115555'
+  description: Microsoft SQL Server 2012 po fiksuoto palaikymo strategija.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 28bafe1de891ae8c50f7ef276817ede7a380c8b1
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "858859"
+name: 'Rodyti originalų straipsnį anglų kalba: 3115555'
+summary: >+
+  Microsoft SQL Server 2012 po [fiksuoto](/lifecycle/policies/fixed) palaikymo strategija.
+
+
+  Tai taikoma šiems leidimams: "Business Intelligence", "Developer", "Enterprise", "Enterprise Core", "Express", "Embedded Systems", "Standard", "Web"
+
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 05/20/2012
+  end: 07/11/2017
+  extendedEnd: 07/12/2022
+releases:
+- version: Service Pack 4
+  startDate: 10/05/2017
+  endDate: 07/12/2022
+- version: Service Pack 3
+  startDate: 12/01/2015
+  endDate: 10/09/2018
+- version: Service Pack 2
+  startDate: 06/10/2014
+  endDate: 01/10/2017
+- version: Service Pack 1
+  startDate: 11/07/2012
+  endDate: 07/14/2015
+- version: Original Release
+  startDate: 05/20/2012
+  endDate: 01/14/2014
+content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [Pakeitimų paketų strategija](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Verslo įžvalgos\n* Kūrėjas\n* Įmonės\n* Įmonės branduolys\n* Express\n* įterptųjų sistemų\n* Standartinis\n* Interneto"

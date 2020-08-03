@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio Team Foundation Server 2013
+  description: Visual Studio Team Foundation Server 2013 taip fiksuoto palaikymo trukmės strategija.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b24e1b9ebaf9855024973bfa2ff6b7d90e3af408
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "859144"
+name: Visual Studio Team Foundation Server 2013
+summary: >+
+  Visual Studio Team Foundation Server 2013 taip [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategija.
+
+
+  Tai taikoma šiems leidimams: Visi, Leidimo valdymas
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/15/2014
+  end: 04/09/2019
+  extendedEnd: 04/09/2024
+releases:
+- version: Update 5
+  startDate: 07/20/2015
+  endDate: 04/09/2024
+- version: Original Release
+  startDate: 01/15/2014
+  endDate: 10/11/2016
+content: "\n## <a name=\"links\"></a>Nuorodos \n* [Informacija apie gaminį](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [Techninės priežiūros informacija](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Leidimo valdymo serverio TFS 2013, 4 naujinimas bus palaikomas pagal strategijos gaires iki 4/9/2024.\n\n## <a name=\"editions\"></a>Leidimai \n* Visus\n* Išleidimo valdymas"

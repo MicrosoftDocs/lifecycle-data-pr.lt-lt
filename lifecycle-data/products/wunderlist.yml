@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Wunderlist (Wunderlist)
+  description: Wunderlist atitinka fiksuoto palaikymo trukmės strategiją.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: dd978a839e950577c0854ee914df4114d50a9865
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "858837"
+name: Wunderlist (Wunderlist)
+summary: "Wunderlist atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\n\n> [!IMPORTANT]\n> Paramai šiam produktui taikomos jo įsigijimo sąlygos. Baigėsi šio produkto palaikymas. Žiūrėkite toliau pateiktas išsiskyrimo gaires. \n"
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 06/02/2015
+  end: 05/06/2020
+  extendedEnd: 05/06/2020
+releases:
+- version: Original Release
+  startDate: 06/02/2015
+  endDate: 05/06/2020
+content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](https://www.wunderlist.com/blog/join-us-on-our-new-journey)"

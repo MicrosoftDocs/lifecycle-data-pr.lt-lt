@@ -1,0 +1,24 @@
+### YamlMime:Lifecycle
+metadata:
+  title: "\"InMage Scout\" azure svetainėje atkūrimo"
+  description: "\"InMage Scout\" \"Azure\" svetainės atkūrimo metu taikoma šiuolaikinės palaikymo trukmės strategija."
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e7dc0cfa718919e8546b0d28c28ff8c0d3347d3b
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "858921"
+name: "\"InMage Scout\" azure svetainėje atkūrimo"
+summary: "\"InMage Scout\" \"Azure\" svetainės atkūrimo metu taikoma [šiuolaikinės](/lifecycle/policies/modern) palaikymo trukmės strategija.\n\n\n"
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 08/01/2014
+  end: 12/31/2020
+releases:
+- version: Original Release
+  startDate: 08/01/2014
+  endDate: 12/31/2020
+content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](https://aka.ms/asr-scout-doc)"

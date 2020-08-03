@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Rodyti originalų svetainėje "Microsoft Office 2013"
+  description: "\"Microsoft Office 2013\" atitinka fiksuoto palaikymo trukmės strategiją."
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 57eeaf9939d11f53914fef0e92795621dfb9db44
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "859209"
+name: Rodyti originalų svetainėje "Microsoft Office 2013"
+summary: "\"Microsoft Office 2013\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\nTai taikoma šiems leidimams: \"Home and Business\", \"Home and Student\", \"Professional\", \"Professional Plus\", \"Professional Plus Home Use Program\", \"Standard\", \"Web Apps Server\"\n\n"
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/09/2013
+  end: 04/10/2018
+  extendedEnd: 04/11/2023
+releases:
+- version: Service Pack 1
+  startDate: 02/25/2014
+  endDate: 04/11/2023
+- version: Original Release
+  startDate: 01/09/2013
+  endDate: 04/14/2015
+content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Pakeitimų paketų strategija](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 1 pakeitimų paketas netaikomas Web Apps Server edition. \n\n## <a name=\"editions\"></a>Leidimai \n* Namai ir verslas\n* Namai ir studentas\n* Profesinės\n* Profesionalus Plius\n* Professional Plus Naudojimo namuose programa\n* Standartinis\n* Žiniatinklio programų serveris"
