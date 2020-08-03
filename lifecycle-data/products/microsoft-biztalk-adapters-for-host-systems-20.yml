@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft BizTalk adapteriai, skirti pagrindinio kompiuterio sistemoms 2.0
+  description: Microsoft BizTalk adapteriai, skirti pagrindinio kompiuterio sistemoms 2.0 po fiksuoto palaikymo trukmės strategija.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f80e0cf76eebd3d54f478080a80929cb15778886
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "829747"
+name: Microsoft BizTalk adapteriai, skirti pagrindinio kompiuterio sistemoms 2.0
+summary: >+
+  Microsoft BizTalk adapteriai, skirti pagrindinio kompiuterio sistemoms 2.0 po [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategija.
+
+
+  Tai taikoma šiems leidimams: Programuotojas, Standartinis
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 06/21/2009
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 06/21/2009
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Kūrėjas\n* Standartinis"
