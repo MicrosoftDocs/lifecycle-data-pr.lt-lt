@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Alacris tapatybės patvirtinimo serveris/klientas
+  description: Alacris tapatybės tikrinimo serverio/kliento pagal fiksuoto palaikymo trukmės strategija.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 3c817b079ec484ac744b3c1d50059fec448161a8
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "829977"
+name: Alacris tapatybės patvirtinimo serveris/klientas
+summary: >
+  Alacris tapatybės tikrinimo serverio/kliento pagal [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategija.
+
+
+
+  > [!IMPORTANT]
+
+  > Baigėsi šio produkto palaikymas.
+products:
+- m365
+policyType: fixed-mainstream-only
+supportDates:
+  start: 03/07/2006
+  end: 12/31/2007
+releases:
+- version: Original Release
+  startDate: 03/07/2006
+  endDate: 12/31/2007
+content: "\n## <a name=\"links\"></a>Nuorodos \n* [DUK apie palaikymo trukmę – bendrieji klausimai](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Neįtraukiamos anksčiau nepalaikomos versijos. Paramai šiam produktui taikomos jo įsigijimo sąlygos."

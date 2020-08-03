@@ -1,0 +1,24 @@
+### YamlMime:Lifecycle
+metadata:
+  title: "\"Excel for Mac 2011\""
+  description: "\"Excel for Mac 2011\" atitinka fiksuoto palaikymo trukmės strategiją."
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 6fbc511fd70af039109ad1e301de765ad20e836c
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "829815"
+name: "\"Excel for Mac 2011\""
+summary: "\"Excel for Mac 2011\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\n\n"
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/09/2010
+  end: 10/10/2017
+releases:
+- version: Original Release
+  startDate: 12/09/2010
+  endDate: 10/10/2017
+content: "\n\n> [!NOTE]\n> Pagrindinis \"Microsoft Office for Mac 2011\" palaikymas yra išplėstas, kaip parodyta, kad klientams būtų suteikta standartinė palaikymo trukmės perėjimo laiko juosta."
