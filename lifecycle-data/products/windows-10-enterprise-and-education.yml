@@ -1,0 +1,51 @@
+### YamlMime:Lifecycle
+metadata:
+  title: "\"Windows 10 Enterprise\" ir \"Education\""
+  description: "\"Windows 10 Enterprise\" ir \"Education\" atitinka \"Modern Lifecycle\" strategiją."
+  ms.date: 07/30/2020
+  ms.openlocfilehash: 959937e0ef4ac9c0cc65ecb1a6ef8aa332a835a8
+  ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
+  ms.translationtype: MT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 07/30/2020
+  ms.locfileid: "879193"
+name: "\"Windows 10 Enterprise\" ir \"Education\""
+summary: "\"Windows 10 Enterprise\" ir \"Education\" atitinka [\"Modern](/lifecycle/policies/modern) Lifecycle\" strategiją.\n\nTai taikoma šiems leidimams: Švietimo, įmonių\n\n> [!IMPORTANT]\n> \"Microsoft\" toliau palaikys bent vieną \"Windows 10\" pusmetinį kanalą iki 2025 m. spalio 14 d.\n"
+products:
+- windows
+policyType: modern-on-prem
+supportDates:
+  start: 07/29/2015
+  end: 10/14/2025
+releases:
+- version: Version 2004
+  startDate: 05/27/2020
+  endDate: 12/14/2021
+- version: Version 1909
+  startDate: 11/12/2019
+  endDate: 05/10/2022
+- version: Version 1903
+  startDate: 05/21/2019
+  endDate: 12/08/2020
+- version: Version 1809
+  startDate: 11/13/2018
+  endDate: 05/11/2021
+- version: Version 1803
+  startDate: 04/30/2018
+  endDate: 11/10/2020
+- version: Version 1709
+  startDate: 10/17/2017
+  endDate: 10/13/2020
+- version: Version 1703
+  startDate: 04/11/2017
+  endDate: 10/08/2019
+- version: Version 1607
+  startDate: 08/02/2016
+  endDate: 04/09/2019
+- version: Version 1511
+  startDate: 11/10/2015
+  endDate: 10/10/2017
+- version: Version 1507
+  startDate: 07/29/2015
+  endDate: 05/09/2017
+content: "\n## <a name=\"links\"></a>Nuorodos \n* [\"Windows\" kaip tarnyba (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Informacija apie gaminį](/windows/windows-10/)\n* [\"Windows\" palaikymo trukmės informacijos lapas](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [DUK apie palaikymo trukmę - \"Windows\" produktai](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Jei ne atidedama, vėlesni \"Windows 10\" pusmetinio kanalo funkcijų naujinimai gali būti įdiegti iki nurodytos pagrindinio palaikymo datos pabaigos.\n\n## <a name=\"editions\"></a>Leidimai \n* Švietimo\n* Įmonės"
