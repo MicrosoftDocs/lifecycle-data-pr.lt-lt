@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: "\"Microsoft\" prijungtų paslaugų sistema 3.0"
+  description: "\"Microsoft Connected Services Framework 3.0\" atitinka fiksuoto palaikymo trukmės strategiją."
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f30c38e094a3b58f587d59871bd573607df04273
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "829714"
+name: "\"Microsoft\" prijungtų paslaugų sistema 3.0"
+summary: "\"Microsoft Connected Services Framework 3.0\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\nTai taikoma šiems leidimams: atsiskaitymo standartinis verslo įvykis, užsakymų tvarkymo standartinis verslo įvykis, serveris, standartinis, standartinis serveris su standartiniais verslo įvykiais\n\n"
+products:
+- connected-services-framework
+policyType: fixed
+supportDates:
+  start: 06/30/2006
+  end: 07/12/2011
+  extendedEnd: 07/12/2016
+releases:
+- version: Original Release
+  startDate: 06/30/2006
+  endDate: 07/12/2016
+content: "\n\n\n## <a name=\"editions\"></a>Leidimai \n* Atsiskaitymo standartinis verslo įvykis\n* Užsakymų tvarkymo standartinis verslo įvykis\n* Server\n* Standartinis\n* Standartinis serveris su standartiniais verslo įvykiais"

@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft antigenas
+  description: "\"Microsoft\" antigenas atitinka fiksuoto palaikymo trukmės strategiją."
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 74b4c26a7bc5ff2ca5747a7dc50d91825ee5cd2c
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "829774"
+name: Microsoft antigenas
+summary: "\"Microsoft\" antigenas atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\nTai taikoma šiuos leidimus: 9.0 Exchange, Enterprise Manager 9.0, SMTP šliuzai, pašto šiukšlių tvarkytuvas\n\n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 07/17/2006
+  end: 04/08/2014
+  extendedEnd: 12/31/2015
+releases:
+- version: Original Release
+  startDate: 07/17/2006
+  endDate: 12/31/2015
+content: "\n\n> [!NOTE]\n> Pasikeitė \"Forefront\" prekės ženklo saugos produktų planas.Šis produktas nutraukiamas nuo 2015 m. gruodžio 31 d.\n\n## <a name=\"editions\"></a>Leidimai \n* 9.0, skirta \"Exchange\"\n* Įmonės vadovas 9,0\n* SMTP šliuzai\n* Šlamšto tvarkytuvas"
