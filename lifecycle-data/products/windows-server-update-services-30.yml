@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: "\"Windows Server Update Services 3.0\""
+  description: "\"Windows Server Update Services 3.0\" atitinka fiksuoto palaikymo trukmės strategiją."
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b5e6ed046b5497010706f64c93962f1c4af0e2a0
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "829919"
+name: "\"Windows Server Update Services 3.0\""
+summary: "\"Windows Server Update Services 3.0\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\n\n> [!IMPORTANT]\n> Palaikymas baigėsi. Žiūrėkite toliau pateiktas išsiskyrimo gaires.\n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 07/10/2007
+  end: 07/10/2012
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 2
+  startDate: 08/25/2009
+  endDate: 01/14/2020
+- version: Service Pack 1
+  startDate: 04/17/2008
+  endDate: 10/12/2010
+- version: Original Release
+  startDate: 07/10/2007
+  endDate: 07/14/2009
+content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [Pakeitimų paketų strategija](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Parama buvo pratęsta nuo 2017 m.111 7 iki 2020 m. 14 d."
