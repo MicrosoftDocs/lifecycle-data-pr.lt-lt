@@ -1,0 +1,22 @@
+### YamlMime:Lifecycle
+metadata:
+  title: "\"Windows 10\" \"IoT Core\" paslaugos"
+  description: "\"Windows 10 IoT Core\" paslaugos atitinka šiuolaikinės palaikymo trukmės strategiją."
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e2e64958c91092f2890a4d871de3fd7b96614d65
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "870969"
+name: "\"Windows 10\" \"IoT Core\" paslaugos"
+summary: "\"Windows 10 IoT Core\" paslaugos atitinka [šiuolaikinės](/lifecycle/policies/modern) palaikymo trukmės strategiją.\n\n\n"
+products:
+- windows
+policyType: modern-online
+supportDates:
+  start: 11/13/2018
+releases:
+- version: Original Release
+  startDate: 11/13/2018
+content: "\n## <a name=\"links\"></a>Nuorodos \n* [\"Windows 10\" \"IoT\" pagrindinės paslaugos](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> \"Windows 10 IoT Core Services\" yra prenumerata, siūlanti programinės įrangos palaikymą kaip paslaugą, įskaitant naujinimo valdymą su įrenginių naujinimo centru ir geresnę saugą su įrenginio sveikatos patvirtinimu, jei naudojate palaikomą \"Windows 10\" \"IoT\" pagrindinės programinės įrangos versiją."
