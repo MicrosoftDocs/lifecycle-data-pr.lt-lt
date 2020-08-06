@@ -1,0 +1,24 @@
+### YamlMime:Lifecycle
+metadata:
+  title: "\"Windows XP\" bendrinamo kompiuterio įrankių rinkinys 1,0"
+  description: "\"Windows XP\" bendrinamo kompiuterio įrankių rinkinio 1,0 seka komponento gyvavimo ciklo strategiją."
+  ms.date: 08/05/2020
+  ms.openlocfilehash: 44d78a0c6bf4b91055ebcc9516c2c0b1f20f6984
+  ms.sourcegitcommit: cc83950a649c02cedd0a5a869702e8e5605d18ec
+  ms.translationtype: MT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 08/05/2020
+  ms.locfileid: "883476"
+name: "\"Windows XP\" bendrinamo kompiuterio įrankių rinkinys 1,0"
+summary: "\"Windows XP\" bendrinamo kompiuterio įrankių rinkinio 1,0 seka [komponento](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) gyvavimo ciklo strategiją.\n\n\n"
+products:
+- windows
+policyType: component
+supportDates:
+  start: 08/24/2005
+  end: 01/10/2012
+releases:
+- version: Original Release
+  startDate: 08/24/2005
+  endDate: 01/10/2012
+content: ''
