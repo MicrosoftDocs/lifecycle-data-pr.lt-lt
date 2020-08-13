@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: SQL Server 2016
-  description: SQL Server 2016 po fiksuoto palaikymo strategija.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 1b41e2eeed9a3b7fa2038070a84e468866dd633c
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: SQL serverio 2016
+  description: SQL serverio 2016 atitinka nustatytą gyvavimo ciklo strategiją.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: e54ceed1e30fb7075b341e068c5d65d7c9e95858
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: lt-LT
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "859016"
-name: SQL Server 2016
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "892767"
+name: SQL serverio 2016
 summary: >+
-  SQL Server 2016 po [fiksuoto](/lifecycle/policies/fixed) palaikymo strategija.
+  SQL serverio 2016 atitinka [nustatytą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.
 
 
-  Tai taikoma šiems leidimams: programoje "Developer", "Enterprise", "Enterprise Core", "Express", "Standard", "Web
+  Tai taikoma šiems leidimams: programuotojams, įmonėms, "Enterprise Core", Express, Standard, Web
 
 products:
 - sql-server
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 06/01/2016
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Pakeitimų paketų strategija](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Kūrėjas\n* Įmonės\n* Įmonės branduolys\n* Express\n* Standartinis\n* Interneto"
+content: "\n## <a name=\"links\"></a>Saitus \n* [Paslaugų paketo strategija](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Leidimų \n* Kūrėjas\n* Enterprise\n* \"Enterprise Core\"\n* Express\n* Standartinis\n* Interneto"

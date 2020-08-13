@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Išraiška
-  description: Išraiška atitinka fiksuoto palaikymo trukmės strategiją.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: ee3c7cfc6f62fb00775e13137084c8e509ac5d8c
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  title: Reiškinys
+  description: Išraiška atitinka nustatytą gyvavimo ciklo strategiją.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: c81accb05bdbd957a699685c83074735956a009e
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: lt-LT
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "867374"
-name: Išraiška
-summary: "Išraiška atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\nTai taikoma šiems leidimams: \"Blend\", \"Design\", \"Encoder\", \"Studio\"\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas. \n"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893396"
+name: Reiškinys
+summary: "Išraiška atitinka [nustatytą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\nTai taikoma šiems leidimams: blend, dizainas, Encoder, Studio\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas. \n"
 products:
 - expression
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 07/27/2007
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Išraiškos mišinio pradžios data yra 2007 m. liepos 13 d. \n\n## <a name=\"editions\"></a>Leidimai \n* Mišinys\n* Dizainas\n* Encoder\n* Studio"
+content: "\n\n> [!NOTE]\n> Reiškinio mišinio pradžios data yra liepos 13, 2007. \n\n## <a name=\"editions\"></a>Leidimų \n* Mišinys\n* Dizainas\n* Koduotuvo\n* Studio"

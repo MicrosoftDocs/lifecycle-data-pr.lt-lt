@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Rodyti originalų straipsnį mes: Microsoft XML Core Services 4.0'
-  description: "\"Microsoft XML Core Services 4.0\" atitinka fiksuoto palaikymo trukmės strategiją."
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 06e9c5a8f669333fa8c5c49b71c4563aaa03ff6f
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: "\"Microsoft XML Core Services 4,0\""
+  description: "\"Microsoft XML Core Services 4,0\" atitinka fiksuotą gyvavimo ciklo strategiją."
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 311394fe73d17ea11fe92712511a42af1f509295
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: lt-LT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "829607"
-name: 'Rodyti originalų straipsnį mes: Microsoft XML Core Services 4.0'
-summary: "\"Microsoft XML Core Services 4.0\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\n\n"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893063"
+name: "\"Microsoft XML Core Services 4,0\""
+summary: "\"Microsoft XML Core Services 4,0\" atitinka [fiksuotą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\n\n"
 products:
 - vs
 policyType: fixed-mainstream-only
@@ -21,4 +21,4 @@ releases:
 - version: Service Pack 3
   startDate: 12/28/2009
   endDate: 04/12/2014
-content: "\n\n> [!NOTE]\n> XML Core Services 4.0 palaikymas baigėsi. Palaikymas buvo prieinamas tik 3 pakeitimų paketui."
+content: "\n\n> [!NOTE]\n> Baigėsi \"XML Core Services 4,0\" palaikymas. Palaikymas galimas tik 3 pakeitimų pakete."

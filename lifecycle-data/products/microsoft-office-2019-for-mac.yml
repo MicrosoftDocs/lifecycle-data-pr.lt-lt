@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Rodyti originalų rajoną Hotel 2019/MAC
-  description: "\"Microsoft Office 2019 for Mac\" atitinka fiksuoto palaikymo trukmės strategiją."
-  ms.date: 07/28/2020
-  ms.openlocfilehash: ee537a1a128351f1b720e245f9725a267dcd6df5
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  title: "\"Microsoft Office 2019 for Mac\""
+  description: "\"Microsoft Office 2019 for Mac\" atitinka fiksuotą gyvavimo ciklo strategiją."
+  ms.date: 08/12/2020
+  ms.openlocfilehash: dae679faff1601ea2c617f4413d29e48299c750c
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: lt-LT
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "871035"
-name: Rodyti originalų rajoną Hotel 2019/MAC
-summary: "\"Microsoft Office 2019 for Mac\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\nTai taikoma šiems leidimams: akademinei, namams ir verslui, \"Home and Student\", \"Standard\"\n\n"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "892582"
+name: "\"Microsoft Office 2019 for Mac\""
+summary: "\"Microsoft Office 2019 for Mac\" atitinka [fiksuotą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\nTai taikoma šiems leidimams: akademinių, namų ir verslo, namų ir studentų, standartinių\n\n"
 products:
 - office
 policyType: fixed-mainstream-only
@@ -21,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 09/24/2018
   endDate: 10/10/2023
-content: "\n\n\n## <a name=\"editions\"></a>Leidimai \n* Akademinių\n* Namai ir verslas\n* Namai ir studentas\n* Standartinis"
+content: "\n\n\n## <a name=\"editions\"></a>Leidimų \n* Akademinių\n* Namai ir verslas\n* Namai ir mokiniai\n* Standartinis"
