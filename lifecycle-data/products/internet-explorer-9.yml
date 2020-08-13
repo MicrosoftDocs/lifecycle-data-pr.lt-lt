@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: "\"Internet Explorer 9\""
-  description: "\"Internet Explorer 9\" laikosi komponento palaikymo trukmės strategijos."
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 595ea8f1727166a645aa139d28dc093b4b6f2b41
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: "\"Internet Explorer 9\" atitinka komponento gyvavimo ciklo strategiją."
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 56f6d95703597d63faee14b9b135d0d6611e80c8
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: lt-LT
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "858915"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893618"
 name: "\"Internet Explorer 9\""
-summary: "\"Internet Explorer 9\" laikosi [komponento](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) palaikymo trukmės strategijos.\n\n\n"
+summary: "\"Internet Explorer 9\" atitinka [komponento](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) gyvavimo ciklo strategiją.\n\n\n"
 products:
 - internet-explorer
 policyType: component
@@ -19,4 +19,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 03/15/2011
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](https://www.microsoft.com/itpro/microsoft-edge)\n* [DUK apie \"Internet Explorer\" palaikymo trukmės strategiją](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Nuo 2016 m. sausio 12 d. tik naujausia \"Internet Explorer\" versija, skirta palaikomai operacinei sistemai, gaus techninį palaikymą ir saugos naujinimus."
+content: "\n## <a name=\"links\"></a>Saitus \n* [Perkėlimo nurodymai](https://www.microsoft.com/itpro/microsoft-edge)\n* [\"Internet Explorer\" palaikymo trukmės strategijos DUK](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Nuo sausio 12 d., 2016, tik naujausia Palaikomos operacinės sistemos \"Internet Explorer\" versija gaus techninės pagalbos ir saugos naujinimų."
