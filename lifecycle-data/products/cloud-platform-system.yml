@@ -1,18 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Debesies platformos sistema
-  description: Debesies platformos sistema atitinka fiksuoto palaikymo trukmės strategiją.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 931caf3fc06338dfa6ec97f0a7bc079c9be6a4a9
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Debesies platformos sistema atitinka nustatytą gyvavimo ciklo strategiją.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 132fd3832cd1d0927fe7ce6af7eb8e0a21e8d308
+  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
   ms.translationtype: MT
   ms.contentlocale: lt-LT
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "859041"
+  ms.lasthandoff: 08/12/2020
+  ms.locfileid: "891888"
 name: Debesies platformos sistema
 summary: >+
-  Debesies platformos sistema atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.
+  Debesies platformos sistema atitinka [nustatytą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.
 
+
+  Tai taikoma šiems leidimams: Standard
 
 products:
 - azure
@@ -25,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> Debesies platformos sistemos palaikymas pratęsiamas taip, kaip parodyta, kad visiems klientams būtų suteikta standartinė perėjimo nuo palaikymo trukmės laiko juosta.\n> [!NOTE]\n> Debesies platformos sistemos standartas pradėtas 2017 m. rugsėjo 18 d."
+content: "\n\n> [!NOTE]\n> Debesies platformos sistemos palaikymas išplečiamas, kaip parodyta, siekiant visiems klientams suteikti standartinę gyvavimo trukmės perėjimo laiko planavimo juostą.\n> [!NOTE]\n> Debesies platformos sistemos standartas, išleistas rugsėjo 18, 2017.\n\n## <a name=\"editions\"></a>Leidimų \n* Standartinis"

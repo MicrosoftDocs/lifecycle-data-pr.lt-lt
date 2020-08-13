@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: "\"Dynamics 365\" maketas"
-  description: "\"Dynamics 365\" maketas atitinka šiuolaikinės palaikymo trukmės strategiją."
-  ms.date: 07/28/2020
-  ms.openlocfilehash: b3dff3d9a8e33fd57896f487fdf4e5702dd1dfd6
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  description: "\"Dynamics 365\" maketas atitinka šiuolaikinės naudojimo trukmės strategiją."
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 1995274fb40f9ea278629e50c290def57f7f113d
+  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
   ms.translationtype: MT
   ms.contentlocale: lt-LT
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "870931"
+  ms.lasthandoff: 08/12/2020
+  ms.locfileid: "891851"
 name: "\"Dynamics 365\" maketas"
-summary: "\"Dynamics 365\" maketas atitinka [šiuolaikinės](/lifecycle/policies/modern) palaikymo trukmės strategiją.\n\n\n"
+summary: "\"Dynamics 365\" maketas atitinka [šiuolaikinės](/lifecycle/policies/modern) naudojimo trukmės strategiją.\n\n\n"
 products:
 - dynamics
 policyType: modern-online
@@ -21,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 09/30/2018
   endDate: 12/31/2021
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Maketas ir nuotolinė pagalba](/dynamics365/mixed-reality/layout/faq)"
+content: "\n## <a name=\"links\"></a>Saitus \n* [Maketas ir nuotolinė pagalba](/dynamics365/mixed-reality/layout/faq)\n* [Pranešimas apie \"Dynamics 365\" maketo perėjimą](https://dynamics.microsoft.com/mixed-reality/layout-transition/)"
