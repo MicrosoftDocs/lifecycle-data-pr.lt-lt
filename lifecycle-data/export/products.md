@@ -1,27 +1,27 @@
 ---
-title: Eksportuoti produktus
+title: Gyvavimo ciklo duomenų eksportavimas
 description: Produkto gyvavimo ciklo informacijos eksportavimas
-ms.date: 08/17/2020
-ms.openlocfilehash: 01a34995c0dd1fc9fb0c5f75c4460357e091ccce
-ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
+ms.date: 08/18/2020
+ms.openlocfilehash: 80145edf59e6406d32292d846ae3f263cddd294a
+ms.sourcegitcommit: 6bed901441570ef084842edd1b7e5dfbc192c99a
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "899811"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "902411"
 ---
-# <a name="export"></a>Eksportuoti
+# <a name="lifecycle-data-export"></a>Gyvavimo ciklo duomenų eksportavimas
 
 > [!IMPORTANT]
 > Šis puslapis yra tobulinamas.
 
 ## <a name="export-all-products"></a>Visų produktų eksportavimas
-Eksportuokite visus produktus nenaudodami filtrų.
+Visų produktų eksportavimo trukmės duomenis, spustelėję toliau:
 
 > [!div class="nextstepaction"]
 > [Visų produktų eksportavimas](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-category"></a>Produktų eksportavimas pagal kategoriją
-Pasirinkite norimą eksportuoti grupavimą:
+## <a name="export-products-by-family-and-group"></a>Produktų eksportavimas pagal šeimą ir grupę
+Pasirinkite šeimą, tada – grupę, kurią eksportuosite. Pastaba: eksportavimas prasidės pasirinkus grupės reikšmę. 
 
 > [!div class="op_multi_selector" title1="Šeimos" title2="Grupės"]
 > - [(.NET | Visi](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ Pasirinkite norimą eksportuoti grupavimą:
 > - [("Windows" | Saugumo](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [("Windows" | Server](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-year"></a>Produktų eksportavimas pagal palaikymo metų pabaigą
-Pasirinkite metus, kad eksportuotumėte produktų pabaigos paslaugą tais metais:
+## <a name="export-products-by-end-of-support-date"></a>Produktų eksportavimas pagal palaikymo datą
+Pasirinkite metus, kad pamatytumėte produktus, kurie pasiekia palaikymo pabaigą. Pastaba: eksportavimas prasidės, kai bus pažymėta metų reikšmė.
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
