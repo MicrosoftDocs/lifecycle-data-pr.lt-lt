@@ -2,12 +2,12 @@
 title: Gyvavimo ciklo duomenų eksportavimas
 description: Produkto gyvavimo ciklo informacijos eksportavimas
 ms.date: 08/19/2020
-ms.openlocfilehash: d116baffd1a01f45fafeb184fddda1a0736e694a
-ms.sourcegitcommit: 7058ee1673709d6dd4bed24f043690e0da2c6bb4
+ms.openlocfilehash: a9831c67fa9c42ad557eb3d02d4a7c71621b92d2
+ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
 ms.translationtype: MT
 ms.contentlocale: lt-LT
 ms.lasthandoff: 08/19/2020
-ms.locfileid: "902644"
+ms.locfileid: "903662"
 ---
 # <a name="lifecycle-data-export"></a>Gyvavimo ciklo duomenų eksportavimas
 
@@ -46,6 +46,7 @@ Pasirinkite šeimą, tada – grupę, kurią eksportuosite. Pastaba: eksportavim
 > - [(Reiškinys | Visi](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Expression')
 > - [(Reiškinys | Reiškinys](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Expression'%20and%20parent/parent/name%20eq%20'Expression')
 > - [("Microsoft 365" | Visi](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20365')
+> - [("Microsoft 365" | Įmonės mobilumas + sauga)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20365'%20and%20parent/parent/name%20eq%20'Enterprise%20Mobility%20%2B%20Security')
 > - [("Microsoft 365" | Tapatybės valdymas)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20365'%20and%20parent/parent/name%20eq%20'Identity%20Management')
 > - [("Microsoft Connected" tarnybų sistema | Visi](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Connected%20Services%20Framework')
 > - [("Microsoft Connected" tarnybų sistema | Prijungtos paslaugos sistema)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Connected%20Services%20Framework'%20and%20parent/parent/name%20eq%20'Connected%20Services%20Framework')

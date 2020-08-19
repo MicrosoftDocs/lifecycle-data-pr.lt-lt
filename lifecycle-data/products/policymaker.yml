@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Politikas
+  description: Strategijos formuotojas laikosi nustatytos trukmės palaikymo strategijos.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: d1b7d7ac98ec91c5118023494257fde96fbf2c6f
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.translationtype: MT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "904325"
+name: Politikas
+summary: >+
+  Strategijos formuotojas laikosi [nustatytos](/lifecycle/policies/fixed) trukmės palaikymo strategijos.
+
+
+  Tai taikoma šiems leidimams: taikomosios programos saugai, "Outlook" leidimui, profesionalioms "9,0", "Registry Extension 2,0", "Share Manager 1,0", programinės įrangos naujinimui 1,0, programinės įrangos naujinimui 2,0, standartinei "1,0"
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/01/2007
+  end: 01/12/2010
+releases:
+- version: Original Release
+  startDate: 01/01/2007
+  endDate: 01/12/2010
+content: "\n\n> [!NOTE]\n> Šio produkto palaikymas priklauso nuo jo įsigijimo sąlygų.\n\n## <a name=\"editions\"></a>Leidimų \n* Taikomosios programos sauga\n* \"Outlook\" leidimas\n* Profesionalus 9,0\n* Registro plėtinys 2,0\n* Bendrinimo tvarkytuvas 1,0\n* Programinės įrangos naujinimas 1,0\n* Programinės įrangos naujinimas 2,0\n* Standartinis 1,0\n* Standartinis 2,0"
