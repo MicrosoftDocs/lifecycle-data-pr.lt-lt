@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Rodyti originalų straipsnį anglų kalba: 3114555'
-  description: "\"Microsoft Commerce Server 2009\" atitinka fiksuoto palaikymo trukmės strategiją."
+  title: „Microsoft Commerce Server 2009“
+  description: „Microsoft Commerce Server 2009“ atitinka fiksuotąją ciklo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: ca4dbecaf633f9551ab9af5e9a7fec7b0fe9f99e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "829720"
-name: 'Rodyti originalų straipsnį anglų kalba: 3114555'
-summary: "\"Microsoft Commerce Server 2009\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\nTai taikoma šiems leidimams: \"Enterprise\", \"Standard\"\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas.\n"
+name: „Microsoft Commerce Server 2009“
+summary: "„Microsoft Commerce Server 2009“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: „Enterprise“, „Standard“\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas.\n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 04/23/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [\"Dynamics 365 Commerce\" architektūros apžvalga](/dynamics365/commerce/commerce-architecture)\n* [Azure](https://azure.microsoft.com/free/virtual-network/search/?OCID=AID2000128_SEM_Xp_oegAAAFhodQoD:20200628234515:s&msclkid=96a2c292042b18351aec9c6b2f5bfc8d&ef_id=Xp_oegAAAFhodQoD:20200628234515:s&dclid=CJrU8sXYpeoCFQ5kfgodDnQP4A)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Įmonės\n* Standartinis"
+content: "\n## <a name=\"links\"></a>Saitai \n* [„Dynamics 365 Commerce“ struktūros apžvalga](/dynamics365/commerce/commerce-architecture)\n* [„Azure“](https://azure.microsoft.com/free/virtual-network/search/?OCID=AID2000128_SEM_Xp_oegAAAFhodQoD:20200628234515:s&msclkid=96a2c292042b18351aec9c6b2f5bfc8d&ef_id=Xp_oegAAAFhodQoD:20200628234515:s&dclid=CJrU8sXYpeoCFQ5kfgodDnQP4A)\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Enterprise“\n* „Standard“"

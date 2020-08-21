@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Microsoft SharePoint 2010\" (interneto svetainėms)"
-  description: "\"Microsoft SharePoint 2010\" (interneto svetainėms) atitinka fiksuoto palaikymo trukmės strategiją."
+  title: „Microsoft SharePoint 2010“ (interneto svetainėms)
+  description: „Microsoft SharePoint 2010“ (interneto svetainėms) atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 91cbc237303d2c4f7f73f93be5375206006b7909
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "829657"
-name: "\"Microsoft SharePoint 2010\" (interneto svetainėms)"
-summary: "\"Microsoft SharePoint 2010\" (interneto svetainėms) atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\nTai taikoma šiems leidimams: interneto svetainių įmonei, interneto svetainių standartui\n\n"
+name: „Microsoft SharePoint 2010“ (interneto svetainėms)
+summary: "„Microsoft SharePoint 2010“ (interneto svetainėms) atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: „Internet Sites Enterprise“, „Internet Sites Standard“\n\n"
 products:
 - office
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 06/15/2010
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Gaminio dokumentacija](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Kūrėjo dokumentacija](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> Šio produkto palaikymo pabaigos data buvo pratęsta nuo 2020 m. spalio 13 d. iki 2021 m. balandžio 13 d.\n\n## <a name=\"editions\"></a>Leidimai \n* interneto svetainių įmonės\n* interneto svetainių standartas"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Gaminio dokumentacija](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Kūrėjo dokumentacija](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> šio produkto palaikymo pabaigos data buvo atidėta iš 2020 spalio 13 d. iki 2021 m. balandžio 13 d.\n\n## <a name=\"editions\"></a>Leidimai \n* „Internet Sites Enterprise“\n* „Internet Sites Standard“"

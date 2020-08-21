@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Microsoft Office 2008\", skirta \"Mac\""
-  description: "\"Microsoft Office 2008 for Mac\" atitinka fiksuoto palaikymo trukmės strategiją."
+  title: „Microsoft Office 2008“, skirta „Mac“
+  description: „Microsoft Office 2008 for Mac“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: abf5213b99b3f5ca6d64daa69ef50c3462fc9d35
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "829354"
-name: "\"Microsoft Office 2008\", skirta \"Mac\""
-summary: "\"Microsoft Office 2008 for Mac\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\nTai taikoma šiems leidimams: \"Business\", \"Home and Student\", \"Special Media Editon\"\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas. \n"
+name: „Microsoft Office 2008“, skirta „Mac“
+summary: "„Microsoft Office 2008 for Mac“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: „Business“, „Home“ ir „Student“, specialusis medijos leidimas\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas. \n"
 products:
 - office
 policyType: fixed-mainstream-only
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2008
   endDate: 10/19/2009
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Pakeitimų paketų strategija](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> \"Office 2008 for Mac\" specialiosios medijos leidimo pradžios data yra 2008 m. kovo 12 d.\n\n## <a name=\"editions\"></a>Leidimai \n* Verslo\n* Namai ir studentas\n* Specialusis Žiniasklaida Editon"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> „Office 2008 for Mac“ specialiojo medijos leidimo pradžios data yra 2008 m. kovo 12 d.\n\n## <a name=\"editions\"></a>Leidimai \n* „Business“\n* „Home and Student“\n* Specialusis medijos leidimas"

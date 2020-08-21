@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Rodyti originalų straipsnį arba iš kuriųse yra "Microsoft System Center Configuration Manager 2007"
-  description: "\"Microsoft System Center Configuration Manager 2007\" atitinka fiksuoto palaikymo trukmės strategiją."
+  title: „Microsoft System Center Configuration Manager 2007“
+  description: „Microsoft System Center Configuration Manager 2007“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 796670fd93547cc79f69c544085070efb0116650
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "829645"
-name: Rodyti originalų straipsnį arba iš kuriųse yra "Microsoft System Center Configuration Manager 2007"
-summary: "\"Microsoft System Center Configuration Manager 2007\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas. Žiūrėkite toliau pateiktas išsiskyrimo gaires.\n"
+name: „Microsoft System Center Configuration Manager 2007“
+summary: "„Microsoft System Center Configuration Manager 2007“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas. Žiūrėkite toliau pateiktas perkėlimo gaires.\n"
 products:
 - msc
 policyType: fixed
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/29/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Informacija apie gaminį](/mem/configmgr/core/understand/introduction)\n* [Pakeitimų paketų strategija](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Informacija apie gaminį](/mem/configmgr/core/understand/introduction)\n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)"

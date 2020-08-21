@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Rodyti originalų straipsnį anglų kalba: 3115555'
-  description: "\"Microsoft Office PerformancePoint 2007\" atitinka fiksuoto palaikymo trukmės strategiją."
+  title: „Microsoft Office PerformancePoint 2007“
+  description: „Microsoft Office PerformancePoint 2007“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: d9c4030975b8cd865165db64c6857ef9090b1888
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830026"
-name: 'Rodyti originalų straipsnį anglų kalba: 3115555'
-summary: "\"Microsoft Office PerformancePoint 2007\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\nTai taikoma šiuose leidimuose: Management Reporter\n\n"
+name: „Microsoft Office PerformancePoint 2007“
+summary: "„Microsoft Office PerformancePoint 2007“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: Valdymo ataskaitos priemonė\n\n"
 products:
 - office
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](https://support.office.com/article/PerformancePoint-Server-2007-End-of-Life-Roadmap-89d9feee-2285-419c-8c14-0f7f583536e0)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Valdymo reporteris"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](https://support.office.com/article/PerformancePoint-Server-2007-End-of-Life-Roadmap-89d9feee-2285-419c-8c14-0f7f583536e0)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Valdymo ataskaitos priemonė"

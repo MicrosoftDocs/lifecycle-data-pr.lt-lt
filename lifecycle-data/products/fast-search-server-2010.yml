@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: FAST Search Server 2010 (interneto svetainėse, vidaus programos)
-  description: FAST Search Server 2010 (interneto svetainių, vidaus programų) pagal fiksuoto palaikymo trukmės strategija.
+  title: „FAST Search Server 2010“ (interneto svetainėms, vidinėms programoms)
+  description: „FAST Search Server 2010“ (interneto svetainėms, vidaus programoms) atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 86e1732aefb6ae705ff05f1ef7f84e2d14a1feda
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "829810"
-name: FAST Search Server 2010 (interneto svetainėse, vidaus programos)
-summary: >+
-  FAST Search Server 2010 (interneto svetainių, vidaus programų) pagal [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategija.
-
-
-  Tai taikoma šiems leidimams: vidinėms taikomosioms programoms, interneto svetainėms
-
+name: „FAST Search Server 2010“ (interneto svetainėms, vidinėms programoms)
+summary: "„FAST Search Server 2010“ (interneto svetainėms, vidaus programoms) atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: Vidinės programos, interneto svetainės\n\n"
 products:
 - office
 policyType: fixed
@@ -27,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 06/16/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [DUK apie palaikymo trukmę – bendrieji klausimai](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Neįtraukiamos anksčiau nepalaikomos versijos. Paramai šiam produktui taikomos jo įsigijimo sąlygos.\n\n## <a name=\"editions\"></a>Leidimai \n* Vidinės programos\n* Interneto svetainės"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [DUK apie ciklą – bendra](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Neįtraukiamos anksčiau nepalaikomos versijos. Šio produkto palaikymas priklauso nuo jo įsigijimo sąlygų.\n\n## <a name=\"editions\"></a>Leidimai \n* Vidinės programos\n* Interneto svetainės"

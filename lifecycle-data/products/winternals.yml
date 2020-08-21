@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Vinterstai
-  description: Žieminiai pagal fiksuoto palaikymo trukmės strategiją.
+  title: „Winternals“
+  description: „Winternals“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: c53494de8a74f1c533ad0de10eff126605f0d85a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "829195"
-name: Vinterstai
-summary: >+
-  Žieminiai pagal [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.
-
-
-  Tai taikoma šiuose leidimuose: administratoriaus Pak 5.0, Defrag Manager 3.0, Protection Manager 2.0, atkūrimo tvarkytuvo 3.0
-
+name: „Winternals“
+summary: "„Winternals“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: „Administrator's Pak 5.0“, „Defrag Manager 3.0“, „Protection Manager 2.0“, „Recovery Manager 3.0“\n\n"
 products:
 - windows
 policyType: fixed
@@ -27,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [\"Microsoft\" įsigijimų palaikymo trukmės strategija](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Neįtraukiamos anksčiau nepalaikomos versijos. Paramai šiam produktui taikomos jo įsigijimo sąlygos.\n\n## <a name=\"editions\"></a>Leidimai \n* Administratoriaus Pak 5.0\n* Defrag Vadybininkas 3,0\n* Apsaugos Manager 2,0\n* Atkūrimo Manager 3,0"
+content: "\n## <a name=\"links\"></a>Saitai \n* [„Microsoft“ įsigijimų ciklo palaikymo strategija](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Neįtraukiamos anksčiau nepalaikomos versijos. Šio produkto palaikymas priklauso nuo jo įsigijimo sąlygų.\n\n## <a name=\"editions\"></a>Leidimai \n* „Administrator's Pak 5.0“\n* „Defrag Manager 3.0“\n* „Protection Manager 2.0“\n* „Recovery Manager 3.0“"

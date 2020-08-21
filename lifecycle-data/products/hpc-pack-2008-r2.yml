@@ -1,23 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: GSK paketas 2008 R2
-  description: GSK Pack 2008 R2 atitinka fiksuoto palaikymo trukmės strategija.
+  title: „HPC Pack 2008 R2“
+  description: „HPC Pack 2008 R2“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 85ea9272f46481e504a5c283c962a8ef7f5ace53
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "829799"
-name: GSK paketas 2008 R2
-summary: >
-  GSK Pack 2008 R2 atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategija.
-
-
-
-  > [!IMPORTANT]
-
-  > Baigėsi šio produkto palaikymas. Žiūrėkite toliau pateiktas išsiskyrimo gaires.
+name: „HPC Pack 2008 R2“
+summary: "„HPC Pack 2008 R2“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas. Žiūrėkite toliau pateiktas perkėlimo gaires.\n"
 products:
 - windows
 policyType: fixed
@@ -41,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 10/17/2010
   endDate: 01/08/2013
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Windows serverio perkėlimas](https://azure.microsoft.com/migration/windows-server/)\n* [Migracijos gairės](/powershell/high-performance-computing/overview?view=hpc19-ps)\n* [Pakeitimų paketų strategija](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Saitai \n* [„Windows Server“ perkėlimas](https://azure.microsoft.com/migration/windows-server/)\n* [Perkėlimo našumo rekomendacijos](/powershell/high-performance-computing/overview?view=hpc19-ps)\n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)"

@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Rodyti originalų straipsnį anglų kalba: 3114555'
-  description: "\"Microsoft Office PowerPoint 2007\" laikosi fiksuoto palaikymo trukmės strategijos."
+  title: „Microsoft Office PowerPoint 2007“
+  description: „Microsoft Office PowerPoint 2007“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a5fabe576bb9e38f1f9ca7fd7fcdaed22819991
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830019"
-name: 'Rodyti originalų straipsnį anglų kalba: 3114555'
-summary: "\"Microsoft Office PowerPoint 2007\" laikosi [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategijos.\n\nTai taikoma šiems leidimams: \"Home and Student\", \"Standard\"\n\n"
+name: „Microsoft Office PowerPoint 2007“
+summary: "„Microsoft Office PowerPoint 2007“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: „Home and Student“, „Standard“\n\n"
 products:
 - office
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Namai ir studentas\n* Standartinis"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Home and Student“\n* „Standard“"
