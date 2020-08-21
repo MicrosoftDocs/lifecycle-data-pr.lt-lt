@@ -1,25 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visual Studio komandos sistemos 2008
-  description: Visual Studio team system 2008 taip fiksuoto palaikymo trukmės strategija.
+  title: „Visual Studio Team System 2008“
+  description: „Visual Studio Team System 2008“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 38c593193296d428c6e0f74bb2e039ac2fa8f3d7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "829581"
-name: Visual Studio komandos sistemos 2008
-summary: >
-  Visual Studio team system 2008 taip [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategija.
-
-
-  Tai taikoma šiems leidimams: Visi, Architektūra, Duomenų bazė, Kūrimas, Komandos naršyklė, Komandos bandymo apkrovos agentas
-
-
-  > [!IMPORTANT]
-
-  > Palaikymas baigėsi. Žiūrėkite toliau pateiktas išsiskyrimo gaires.
+name: „Visual Studio Team System 2008“
+summary: "„Visual Studio Team System 2008“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: Visi, „Architecture“, „Database“, „Development“, „Team Explorer“, „Team Test Load Agent“\n\n> [!IMPORTANT]\n> Palaikymas baigėsi. Žiūrėkite toliau pateiktas perkėlimo gaires.\n"
 products:
 - vs
 policyType: fixed
@@ -34,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Migracijos gairės](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Pakeitimų paketų strategija](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Visus\n* Architektūra\n* Duomenų bazės\n* Plėtros\n* Komandos naršyklė\n* Komandos bandymo apkrovos agentas"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Perkėlimo našumo rekomendacijos](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Visi\n* Architektūra\n* Duomenų bazė\n* Kūrimas\n* Komandos naršyklė\n* „Team Test Load Agent“"

@@ -1,16 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Rodyti originalų straipsnį arba iš inga& video klipų apie
-  description: "\"Microsoft System Center Data Protection Manager 2007\" atitinka fiksuoto palaikymo trukmės strategiją."
+  title: „Microsoft System Center Data Protection Manager 2007“
+  description: „Microsoft System Center Data Protection Manager 2007“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: ca60c8ab7630e2ee264017a572243b9f68643607
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "829640"
-name: Rodyti originalų straipsnį arba iš inga& video klipų apie
-summary: "\"Microsoft System Center Data Protection Manager 2007\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas. Žiūrėkite toliau pateiktas išsiskyrimo gaires.\n"
+name: „Microsoft System Center Data Protection Manager 2007“
+summary: >
+  „Microsoft System Center Data Protection Manager 2007“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
+
+  > [!IMPORTANT]
+
+  > Baigėsi šio produkto palaikymas. Žiūrėkite toliau pateiktas perkėlimo gaires.
 products:
 - msc
 policyType: fixed
@@ -25,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 12/15/2007
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](https://blogs.technet.microsoft.com/dpm/2017/01/10/system-center-data-protection-manager-2007-end-of-support/)\n* [Pakeitimų paketų strategija](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](https://blogs.technet.microsoft.com/dpm/2017/01/10/system-center-data-protection-manager-2007-end-of-support/)\n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)"

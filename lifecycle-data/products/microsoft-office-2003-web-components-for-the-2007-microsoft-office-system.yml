@@ -1,16 +1,19 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office 2003 žiniatinklio komponentai, skirti 2007 Microsoft Office sistemai
-  description: "\"Microsoft Office 2003\" žiniatinklio komponentai, skirti 2007 Microsoft Office sistemai, atitinka komponento palaikymo trukmės strategiją."
+  title: „Microsoft Office 2003“ žiniatinklio komponentai, skirti „2007 Microsoft Office“ sistemai
+  description: „Microsoft Office 2003“ žiniatinklio komponentai, skirti „2007 Microsoft Office“ sistemai, atitinka komponento ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 82cc956a80008bea8b985ccf8b1b6c3c4927b4c7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "829115"
-name: Microsoft Office 2003 žiniatinklio komponentai, skirti 2007 Microsoft Office sistemai
-summary: "\"Microsoft Office 2003\" žiniatinklio komponentai, skirti 2007 Microsoft Office sistemai, atitinka [komponento](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) palaikymo trukmės strategiją.\n\n\n"
+name: „Microsoft Office 2003“ žiniatinklio komponentai, skirti „2007 Microsoft Office“ sistemai
+summary: >+
+  „Microsoft Office 2003“ žiniatinklio komponentai, skirti „2007 Microsoft Office“ sistemai, atitinka [komponento](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) ciklo palaikymo strategiją.
+
+
 products:
 - office
 policyType: component
@@ -21,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 10/10/2017
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](/office/troubleshoot/support/office-2007-not-support)"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](/office/troubleshoot/support/office-2007-not-support)"

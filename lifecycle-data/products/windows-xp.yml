@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Windows XP\" operacinė sistema"
-  description: "\"Windows XP\" laikosi fiksuoto palaikymo trukmės strategijos."
+  title: Windows XP
+  description: „Windows XP“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: d4fd2bce3e032cdc468570a458c8f10c60ff9170
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "829196"
-name: "\"Windows XP\" operacinė sistema"
-summary: "\"Windows XP\" laikosi [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategijos.\n\nTai taikoma šiems leidimams: \"Home\", \"Professional\", \"Professional for Embedded Systems\", \"Starter\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas. Žiūrėkite toliau pateiktas išsiskyrimo gaires.\n"
+name: Windows XP
+summary: "„Windows XP“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: „Home“, „Professional“, „Professional for Embedded Systems“, „Starter“\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas. Žiūrėkite toliau pateiktas perkėlimo gaires.\n"
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 12/31/2001
   endDate: 08/30/2005
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Pakeitimų paketų strategija](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Namų\n* Profesinės\n* Profesionalus įterptųjų sistemų\n* Starter"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Home“\n* „Professional“\n* „Professional“, skirta įdėtosioms sistemoms\n* „Starter“"

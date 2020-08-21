@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Windows Small Business Server 2008\""
-  description: "\"Windows Small Business Server 2008\" atitinka fiksuoto palaikymo trukmės strategiją."
+  title: „Windows Small Business Server 2008“
+  description: „Windows Small Business Server 2008“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: ca524a5b2238d362198454212c1b53d9946cdb05
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "829202"
-name: "\"Windows Small Business Server 2008\""
-summary: "\"Windows Small Business Server 2008\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\nTai taikoma šiems leidimams: \"Premium\", \"Standard\"\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas. \n\nŠio produkto pakuotės palaikymo data nustatoma pagal atskirus komponento produkto gyvavimo ciklus. Peržiūrėkite atskiro komponento produkto gyvavimo ciklą, kad nustatytumėte jo palaikymo trukmę.\n"
+name: „Windows Small Business Server 2008“
+summary: "„Windows Small Business Server 2008“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: „Premium“, „Standard“\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas. \n\nŠio produkto pakuotės palaikymo data nustatoma pagal atskirus komponento produkto palaikymo ciklus. Peržiūrėkite atskiro komponento produkto palaikymo ciklą, kad nustatytumėte jo palaikymo trukmę.\n"
 products:
 - windows
 policyType: fixed
@@ -21,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 11/21/2008
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](https://aka.ms/AA1ovn4)\n* [\"Windows Server 2008\"](/lifecycle/browse/listings/windows-server-2008)\n* [\"Exchange Server 2007\"](/lifecycle/browse/listings/exchange-server-2007)\n* [Microsoft Windows SharePoint Services 3.0 (Microsoft Windows SharePoint Services 3.0)](/lifecycle/browse/listings/microsoft-windows-sharepoint-services-30)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Premium\n* Standartinis"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](https://aka.ms/AA1ovn4)\n* [„Windows Server 2008“](/lifecycle/browse/listings/windows-server-2008)\n* [„Exchange Server 2007“](/lifecycle/browse/listings/exchange-server-2007)\n* [„Microsoft Windows SharePoint Services 3.0“](/lifecycle/browse/listings/microsoft-windows-sharepoint-services-30)\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Premium“\n* „Standard“"

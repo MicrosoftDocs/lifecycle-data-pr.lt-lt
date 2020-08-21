@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Windows Server 2008 R2\""
-  description: Windows Server 2008 R2 taip fiksuoto palaikymo trukmės strategija.
+  title: „Windows Server 2008 R2“
+  description: „Windows Server 2008 R2“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: a6c6adf73d2ed1b58f9ce3f1458f7a11cd1ae494
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "829920"
-name: "\"Windows Server 2008 R2\""
-summary: "Windows Server 2008 R2 taip [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategija.\n\nTai taikoma šiems leidimams: \"Datacenter\", \"Enterprise\", \"HPC Edition\", \"Itanium\" pagrįstoms sistemoms,\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas. Žiūrėkite toliau pateiktas išsiskyrimo gaires. \n"
+name: „Windows Server 2008 R2“
+summary: "„Windows Server 2008 R2“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: „Datacenter“, „Enterprise“, „HPC Edition“, „Itanium“ pagrindu veikiančioms sistemoms, „Standard“, „Web“\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas. Žiūrėkite toliau pateiktas perkėlimo gaires. \n"
 products:
 - windows
 policyType: fixed
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2009
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](https://aka.ms/AA1ovn4)\n* [Serverio versijos naujinimo informacija](/windows-server/upgrade/upgrade-overview)\n* [Išplėstinė saugos naujinimo programa (ESU)](/lifecycle/faq/extended-security-updates)\n* [Pakeitimų paketų strategija](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Išplėstiniai saugos naujinimai (ESU) pasiekiami naudojant konkrečias bendrojo licencijavimo programas, skirtas šių produktų leidimų duomenų centro, standartinių, įmonių ir įterptųjų leidimų leidimams, dar trejus metus nuo palaikymo pabaigos. Norėdami sužinoti daugiau, kreipkitės į \"Microsoft\" partnerį arba klientų aptarnavimo komandą. \n\nIšleidimo-------------------------------Pradėti datą----Baigti datą\n\nIšplėstinis saugos naujinimas 3---01/11/2022---01/10/2023\n\nIšplėstinis saugos naujinimas 2---01/12/2021---01/11/2022\n\nIšplėstinis saugos naujinimas 1---01/14/2020---01/12/2021\n\n## <a name=\"editions\"></a>Leidimai \n* Datacenter\n* Įmonės\n* GSK leidimas\n* \"Itanium\" pagrindu veikiančios sistemos\n* Standartinis\n* Interneto"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](https://aka.ms/AA1ovn4)\n* [Serverio versijos naujinimo informacija](/windows-server/upgrade/upgrade-overview)\n* [Kas yra išplėstinio saugos naujinimo (ESU) programa?](/lifecycle/faq/extended-security-updates)\n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Išplėstinio saugumo naujinimas (ESU) galimas per specifinio dydžio licencijos programas šio produkto „Datacenter“, „Standard“, „Enterprise“ ir „Embedded“ leidimams iki trejų papildomų metų po palaikymo pabaigos. Norėdami sužinoti daugiau kreipkitės į „Microsoft“ partnerį arba paskyros komandą. \n\nLeidimas-------------------------------Pradžios data----Pabaigos data\n\nIšplėstinis saugos naujinimas 3 metai---01/11/2022---01/10/2023\n\nIšplėstinis saugos naujinimas 2 metai---01/12/2021---01/11/2022\n\nIšplėstinis saugos naujinimas 1 metai---01/14/2020---01/12/2021\n\n## <a name=\"editions\"></a>Leidimai \n* „Datacenter“\n* „Enterprise“\n* „HPC“ leidimas\n* „Itanium“ pagrindu veikiančios sistemos\n* „Standard“\n* Žiniatinklis"
