@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Windows 10\" \"IoT 2019 LTSC\""
-  description: "\"Windows 10 IoT 2019 LTSC\" atitinka fiksuoto palaikymo trukmės strategiją."
+  title: „Windows 10 IoT 2019 LTSC“
+  description: „Windows 10 IoT 2019 LTSC“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: ad6f4ccb69d960e07a7be59e49a629f280e0025f
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870972"
-name: "\"Windows 10\" \"IoT 2019 LTSC\""
-summary: "\"Windows 10 IoT 2019 LTSC\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\nTai taikoma šiems leidimams: Core, Enterprise\n\n"
+name: „Windows 10 IoT 2019 LTSC“
+summary: "„Windows 10 IoT 2019 LTSC“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: „Core“, „Enterprise“\n\n"
 products:
 - windows
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [\"Windows 10\" \"IoT\" pagrindinės paslaugos](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n* [jis \"Windows 10 October Update\" (1809 versija) buvo pakartotinai išleistas 2018 m. lapkričio 13 d. Palaikymo datos buvo atitinkamai pakoreguotos.](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [\"Windows\" kaip tarnyba (WaaS)](/windows/deployment/update/waas-quick-start)\n* [\"Windows 10\" LTSC DUK](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n> [!NOTE]\n> LTSC = \"Windows 10\" ilgalaikis aptarnavimo kanalas\n\n## <a name=\"editions\"></a>Leidimai \n* Pagrindinių\n* Įmonės"
+content: "\n## <a name=\"links\"></a>Saitai \n* [„Windows 10 IoT Core“ paslaugos](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n* [„Windows 10“ spalio mėn. naujinimas (1809 versija) buvo iš naujo išleistas 2018 m. lapkričio 13 d.  Palaikymo datos buvo atitinkamai pakeistos.](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [„Windows“ kaip tarnyba (WaaS)](/windows/deployment/update/waas-quick-start)\n* [„Windows 10“ LTSC DUK](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n> [!NOTE]\n> LTSC = „Windows 10“ ilgalaikis aptarnavimo kanalas\n\n## <a name=\"editions\"></a>Leidimai \n* „Core“\n* „Enterprise“"

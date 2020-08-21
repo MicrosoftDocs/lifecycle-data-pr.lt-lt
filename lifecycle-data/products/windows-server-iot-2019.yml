@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Windows Server IoT 2019\""
-  description: "\"Windows Server IoT 2019\" atitinka fiksuoto palaikymo trukmės strategiją."
+  title: „Windows Server IoT 2019“
+  description: „Windows Server IoT 2019“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 31bc197c23ee1cdbba7340156da48c4a8d1aea4c
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870959"
-name: "\"Windows Server IoT 2019\""
-summary: "\"Windows Server IoT 2019\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\nTai taikoma šiems leidimams: Datacenter, Essentials, Standard, Telecommunications\n\n"
+name: „Windows Server IoT 2019“
+summary: "„Windows Server IoT 2019“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: „Datacenter“, „Essentials“, „Standard“, „Telecommunications“\n\n"
 products:
 - windows
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 03/04/2019
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [DUK apie palaikymo trukmę - \"Windows\" produktai](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Visos \"Windows Server IoT 2019\" versijos atitinka \"Windows Server 2019\" palaikymo trukmę.\n\n## <a name=\"editions\"></a>Leidimai \n* Datacenter\n* Pagrindai\n* Standartinis\n* Telekomunikacijų"
+content: "\n## <a name=\"links\"></a>Saitai \n* [DUK apie ciklą – „Windows“ produktai](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Visoms „Windows Server IoT 2019“ versijoms taikomas „Windows Server 2019“ ciklas.\n\n## <a name=\"editions\"></a>Leidimai \n* „Datacenter“\n* „Essentials“\n* „Standard“\n* „Telecommunications“"

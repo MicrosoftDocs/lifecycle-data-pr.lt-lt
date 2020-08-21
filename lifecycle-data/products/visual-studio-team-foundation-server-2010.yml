@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visual Studio Team Foundation Server 2010
-  description: Visual Studio Team Foundation Server 2010 taip fiksuoto palaikymo trukmės strategija.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 7f7de1b78c00f878d13a9e9bd1af80d1f1d541e2
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: "\"Visual Studio\" komandos Foundation serverio 2010"
+  description: "\"Visual Studio Team Foundation Server\" 2010 atitinka nustatytą gyvavimo ciklo strategiją."
+  ms.date: 08/21/2020
+  ms.openlocfilehash: c0d6be70c5ce001b56c69d5b0ca374b014ecf598
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: MT
   ms.contentlocale: lt-LT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "829213"
-name: Visual Studio Team Foundation Server 2010
-summary: >+
-  Visual Studio Team Foundation Server 2010 taip [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategija.
-
-
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906812"
+name: "\"Visual Studio\" komandos Foundation serverio 2010"
+summary: "\"Visual Studio Team Foundation Server\" 2010 atitinka [nustatytą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\nTai taikoma šiems leidimams: visos taikomos, išorinės jungties\n\n"
 products:
 - vs
 policyType: fixed
@@ -28,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [\"Azure\" kūrėjų operacijos](https://azure.microsoft.com/services/devops/migrate/)"
+content: "\n## <a name=\"links\"></a>Saitus \n* [Perkėlimo nurodymai](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [\"Azure dev OPS\"](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>Leidimų \n* Visi taikomi\n* Išorinė jungtis"

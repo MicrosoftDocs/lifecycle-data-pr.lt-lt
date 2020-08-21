@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Dynamics 365 Business Central\" vietinė versija (moderni strategija)"
-  description: "\"Dynamics 365 Business Central\" vietinė (moderni strategija) atitinka šiuolaikinės palaikymo trukmės strategiją."
+  title: „Dynamics 365 Business Central“ vietinė versija (šiuolaikinė strategija)
+  description: „Dynamics 365 Business Central“ vietinė (šiuolaikinė strategija) atitinka šiuolaikinę ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 90a0c0c35688097614382dcffd624f46c4bac173
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870938"
-name: "\"Dynamics 365 Business Central\" vietinė versija (moderni strategija)"
-summary: "\"Dynamics 365 Business Central\" vietinė (moderni strategija) atitinka [šiuolaikinės](/lifecycle/policies/modern) palaikymo trukmės strategiją.\n\n\n"
+name: „Dynamics 365 Business Central“ vietinė versija (šiuolaikinė strategija)
+summary: "„Dynamics 365 Business Central“ vietinė (šiuolaikinė strategija) atitinka [šiuolaikinę](/lifecycle/policies/modern) ciklo palaikymo strategiją. \n\n\n"
 products:
 - dynamics
 policyType: modern-on-prem
@@ -23,4 +23,4 @@ releases:
 - version: 2019 release wave 2, version 15.x
   startDate: 10/01/2019
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Techninės priežiūros informacija](/dynamics365/business-central/dev-itpro/terms/lifecycle-policy-on-premises#modern-lifecycle-policy)\n* [\"Microsoft Dynamics 365\" veiksmų planas](https://aka.ms/businessappsreleasenotes)\n* [Sistemos reikalavimai](/dynamics365/business-central/product-requirements)\n* [DUK](/dynamics365/business-central/dev-itpro/faq)"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Techninės priežiūros informacija](/dynamics365/business-central/dev-itpro/terms/lifecycle-policy-on-premises#modern-lifecycle-policy)\n* [„Microsoft Dynamics 365“ veiksmų planas](https://aka.ms/businessappsreleasenotes)\n* [Sistemos reikalavimai](/dynamics365/business-central/product-requirements)\n* [DUK](/dynamics365/business-central/dev-itpro/faq)"
