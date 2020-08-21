@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Windows Server 2012\""
-  description: "\"Windows Server 2012\" atitinka fiksuoto palaikymo trukmės strategiją."
+  title: Windows Server 2012
+  description: „Windows Server 2012“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3afe3de568f6e9b7eef58b6af132ff3ad4526724
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859222"
-name: "\"Windows Server 2012\""
-summary: "\"Windows Server 2012\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\nTai taikoma šiems leidimams: \"Datacenter\", \"Essentials\", \"Embedded Systems\", \"Foundation\", \"Standard\"\n\n"
+name: Windows Server 2012
+summary: "„Windows Server 2012“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: „Datacenter“, „Essentials“, „for Embedded Systems“, „Foundation“, „Standard“\n\n"
 products:
 - windows
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](/windows-server/upgrade/upgrade-overview)\n* [Informacija apie gaminį](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> Pagrindinis ir išplėstinis šio produkto palaikymas buvo išplėstas, kad klientams būtų suteikta standartinė palaikymo trukmės perėjimo laiko juosta. \"Windows Server Essentials\" išleista 2013 m. sausio 2 d.\n\n## <a name=\"editions\"></a>Leidimai \n* Datacenter\n* Pagrindai\n* įterptųjų sistemų\n* Fondas\n* Standartinis"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](/windows-server/upgrade/upgrade-overview)\n* [Informacija apie gaminį](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> Pagrindinis ir išplėstinis šio produkto palaikymas buvo išplėstas, kad klientams būtų suteikta standartinė palaikymo trukmės perėjimo laiko juosta. „Windows Server Essentials“ išleista 2013 m. sausio 2 d.\n\n## <a name=\"editions\"></a>Leidimai \n* „Datacenter“\n* „Essentials“\n* skirta „Embedded Systems“\n* Fondas\n* „Standard“"

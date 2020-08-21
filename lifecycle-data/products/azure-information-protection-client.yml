@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Azure\" informacijos apsaugos klientas"
-  description: "\"Azure\" informacijos apsaugos klientas laikosi šiuolaikinės palaikymo trukmės strategijos."
+  title: „Azure“ informacijos apsaugos klientas
+  description: „Azure“ informacijos apsaugos klientas atitinka šiuolaikinę ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a7e2c02d8f1d7ca3f071b5f36b97eab364b3340
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858752"
-name: "\"Azure\" informacijos apsaugos klientas"
-summary: "\"Azure\" informacijos apsaugos klientas laikosi [šiuolaikinės](/lifecycle/policies/modern) palaikymo trukmės strategijos.\n\n\n"
+name: „Azure“ informacijos apsaugos klientas
+summary: "„Azure“ informacijos apsaugos klientas atitinka [šiuolaikinę](/lifecycle/policies/modern) ciklo palaikymo strategiją. \n\n\n"
 products:
 - azure
 policyType: modern-online
@@ -21,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 10/01/2016
   endDate: 03/31/2021
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Techninės priežiūros informacija](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Migracijos gairės](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> Norėdami pateikti vieningą ir supaprastintą klientų patirtį, Azure informacijos apsaugos kliento (klasikinis) ir etikečių valdymas Azure portalas yra pasenusi nuo 2021 m. kovo 31 d. Šis laikotarpis leidžia visiems dabartiniams \"Azure Information Protection\" klientams pereiti prie mūsų vieningo ženklinimo sprendimo naudojant \"Microsoft\" informacijos apsaugos vieningąją etikečių etikečių suteikimo platformą."
+content: "\n## <a name=\"links\"></a>Saitai \n* [Techninės priežiūros informacija](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Perkėlimo našumo rekomendacijos](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> Norėdami teikti vieningą ir supaprastintą klientų patirtį „Azure Information Protection“ klientas (klasikinis) ir „Label Management“ „Azure“ portale bus nebenaudojami nuo 2021 m. kovo 31 d. Šis laikotarpis leidžia visiems dabartiniams „Azure Information Protection“ klientams pereiti prie mūsų vieningo ženklinimo sprendimo naudojant „Microsoft“ informacijos apsaugos vieningąją etikečių suteikimo platformą."

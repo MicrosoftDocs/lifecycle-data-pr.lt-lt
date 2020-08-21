@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Windows Phone 8.1\""
-  description: "\"Windows Phone 8.1\" atitinka fiksuoto palaikymo trukmės strategiją."
+  title: „Windows Phone 8.1“
+  description: „Windows Phone 8.1“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: d81cd34117e63701bf48f128d7d3aafdd93ac581
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859054"
-name: "\"Windows Phone 8.1\""
-summary: "\"Windows Phone 8.1\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas.\n"
+name: „Windows Phone 8.1“
+summary: "„Windows Phone 8.1“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas.\n"
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -21,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 06/24/2014
   endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Duk apie \"Windows Phone 8.1\"](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> \"Microsoft\" pateiks operacinės sistemos naujinimus, įskaitant saugos naujinimus, mažiausiai 36 mėnesius nuo palaikymo trukmės pradžios datos. Šie naujinimai bus papildantieji, o kiekvienas naujinimas bus sukurtas naudojant prieš jį binį naujinimą. Klientai turi įdiegti kiekvieną naujinimą, kad išliktų palaikomi. Šių papildomų naujinimų platinimą gali valdyti mobiliojo ryšio operatorius arba telefono gamintojas, iš kurio įsigijote telefoną, o diegiant reikės, kad jūsų telefone būtų visi išankstiniai naujinimai. Naujinimo pasiekiamumas taip pat skirsis atsižvelgiant į šalies, regiono ir aparatūros galimybes."
+content: "\n## <a name=\"links\"></a>Saitai \n* [ DUK apie „Windows Phone 8.1“](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> „Microsoft“ mažiausiai 36 mėnesius nuo ciklo pradžios datos pateiks operacinės sistemos naujinimus, įskaitant saugos naujinimus. Šie naujinimai bus papildomieji – kiekvienas naujinimas bus sukurtas ankstesniojo naujinimo pagrindu. Kad nenutrūktų palaikymas, klientai turi įdiegti kiekvieną išleidžiamą naujinimą. Šių papildomų naujinimų platinimą gali valdyti mobiliojo ryšio operatorius arba telefono gamintojas, iš kurio įsigijote telefoną, o diegiant reikės, kad jūsų telefone būtų visi išankstiniai naujinimai. Naujinimo pasiekiamumas taip pat priklausys nuo šalies, regiono ir aparatūros galimybių."
