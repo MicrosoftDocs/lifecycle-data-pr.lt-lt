@@ -1,27 +1,27 @@
 ---
 title: Gyvavimo ciklo duomenų eksportavimas
 description: Produkto gyvavimo ciklo informacijos eksportavimas
-ms.date: 08/20/2020
-ms.openlocfilehash: c0a2c57e9fa1ee15ab6a05e56affe6a27d5ed163
-ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
+ms.date: 08/21/2020
+ms.openlocfilehash: 0be7bc850f64e829e30a48e25bf6d9af21dd9099
+ms.sourcegitcommit: 58c6a4bf0c3ef066969422e3acf340702facef6e
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "905220"
+ms.lasthandoff: 08/21/2020
+ms.locfileid: "906331"
 ---
-# <a name="lifecycle-data-export"></a><span data-ttu-id="7fbb4-103">Gyvavimo ciklo duomenų eksportavimas</span><span class="sxs-lookup"><span data-stu-id="7fbb4-103">Lifecycle data export</span></span>
+# <a name="lifecycle-data-export"></a><span data-ttu-id="25323-103">Gyvavimo ciklo duomenų eksportavimas</span><span class="sxs-lookup"><span data-stu-id="25323-103">Lifecycle data export</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="7fbb4-104">Šis puslapis yra tobulinamas.</span><span class="sxs-lookup"><span data-stu-id="7fbb4-104">This page is under development.</span></span>
+> <span data-ttu-id="25323-104">Šis puslapis yra tobulinamas.</span><span class="sxs-lookup"><span data-stu-id="25323-104">This page is under development.</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="7fbb4-105">Visų produktų eksportavimas</span><span class="sxs-lookup"><span data-stu-id="7fbb4-105">Export all products</span></span>
-<span data-ttu-id="7fbb4-106">Visų produktų eksportavimo trukmės duomenis, spustelėję toliau:</span><span class="sxs-lookup"><span data-stu-id="7fbb4-106">Export lifecycle data for all products by clicking below:</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="25323-105">Visų produktų eksportavimas</span><span class="sxs-lookup"><span data-stu-id="25323-105">Export all products</span></span>
+<span data-ttu-id="25323-106">Visų produktų eksportavimo trukmės duomenis, spustelėję toliau:</span><span class="sxs-lookup"><span data-stu-id="25323-106">Export lifecycle data for all products by clicking below:</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="7fbb4-107">Visų produktų eksportavimas</span><span class="sxs-lookup"><span data-stu-id="7fbb4-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="25323-107">Visų produktų eksportavimas</span><span class="sxs-lookup"><span data-stu-id="25323-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-family-and-group"></a><span data-ttu-id="7fbb4-108">Produktų eksportavimas pagal šeimą ir grupę</span><span class="sxs-lookup"><span data-stu-id="7fbb4-108">Export products by Family and Group</span></span>
-<span data-ttu-id="7fbb4-109">Pasirinkite šeimą, tada – grupę, kurią eksportuosite.</span><span class="sxs-lookup"><span data-stu-id="7fbb4-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="7fbb4-110">Pastaba: eksportavimas prasidės pasirinkus grupės reikšmę.</span><span class="sxs-lookup"><span data-stu-id="7fbb4-110">Note: Export will begin when Group value is selected.</span></span> 
+## <a name="export-products-by-family-and-group"></a><span data-ttu-id="25323-108">Produktų eksportavimas pagal šeimą ir grupę</span><span class="sxs-lookup"><span data-stu-id="25323-108">Export products by Family and Group</span></span>
+<span data-ttu-id="25323-109">Pasirinkite šeimą, tada – grupę, kurią eksportuosite.</span><span class="sxs-lookup"><span data-stu-id="25323-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="25323-110">Pastaba: eksportavimas prasidės pasirinkus grupės reikšmę.</span><span class="sxs-lookup"><span data-stu-id="25323-110">Note: Export will begin when Group value is selected.</span></span> 
 
 > [!div class="op_multi_selector" title1="Šeimos" title2="Grupės"]
 > - [(.NET | Visi](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -52,6 +52,8 @@ ms.locfileid: "905220"
 > - [("Microsoft Connected" tarnybų sistema | Prijungtos paslaugos sistema)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Connected%20Services%20Framework'%20and%20parent/parent/name%20eq%20'Connected%20Services%20Framework')
 > - [("Microsoft" klientų aptarnavimo sistema | Visi](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Customer%20Care%20Framework')
 > - [("Microsoft" klientų aptarnavimo sistema | Klientų priežiūros sistema)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Customer%20Care%20Framework'%20and%20parent/parent/name%20eq%20'Customer%20Care%20Framework')
+> - [("Microsoft Edge" | Visi](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Edge')
+> - [("Microsoft Edge" | Edge](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Edge'%20and%20parent/parent/name%20eq%20'Edge')
 > - [("Microsoft Internet Explorer" | Visi](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Internet%20Explorer')
 > - [("Microsoft Internet Explorer" | "Internet Explorer")](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Internet%20Explorer'%20and%20parent/parent/name%20eq%20'Internet%20Explorer')
 > - [("Microsoft Office" | Visi](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Office')
@@ -81,8 +83,8 @@ ms.locfileid: "905220"
 > - [("Windows" | Saugumo](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [("Windows" | Server](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="7fbb4-169">Produktų eksportavimas pagal palaikymo datą</span><span class="sxs-lookup"><span data-stu-id="7fbb4-169">Export products by end of support date</span></span>
-<span data-ttu-id="7fbb4-170">Pasirinkite metus, kad pamatytumėte produktus, kurie pasiekia palaikymo pabaigą.</span><span class="sxs-lookup"><span data-stu-id="7fbb4-170">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="7fbb4-171">Pastaba: eksportavimas prasidės, kai bus pažymėta metų reikšmė.</span><span class="sxs-lookup"><span data-stu-id="7fbb4-171">Note: Export will begin when Year value is selected.</span></span>
+## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="25323-171">Produktų eksportavimas pagal palaikymo datą</span><span class="sxs-lookup"><span data-stu-id="25323-171">Export products by end of support date</span></span>
+<span data-ttu-id="25323-172">Pasirinkite metus, kad pamatytumėte produktus, kurie pasiekia palaikymo pabaigą.</span><span class="sxs-lookup"><span data-stu-id="25323-172">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="25323-173">Pastaba: eksportavimas prasidės, kai bus pažymėta metų reikšmė.</span><span class="sxs-lookup"><span data-stu-id="25323-173">Note: Export will begin when Year value is selected.</span></span>
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
