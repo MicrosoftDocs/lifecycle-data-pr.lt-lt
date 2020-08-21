@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: "\"Microsoft System Center\" konfigūracijos tvarkyklė (LTSB – 1606 versija)"
+  description: "\"Microsoft System Center\" konfigūracijos tvarkyklė (LTSB – 1606 versija) atitinka nustatytą gyvavimo ciklo strategiją."
+  ms.date: 08/20/2020
+  ms.openlocfilehash: 606034d7f3694f3e06a47bdc5e1a45561102c238
+  ms.sourcegitcommit: f5095aa6fc41dcc71c883cae08719b5b6bf9585c
+  ms.translationtype: MT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 08/20/2020
+  ms.locfileid: "905924"
+name: "\"Microsoft System Center\" konfigūracijos tvarkyklė (LTSB – 1606 versija)"
+summary: "\"Microsoft System Center\" konfigūracijos tvarkyklė (LTSB – 1606 versija) atitinka [nustatytą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\n\n"
+products:
+- m365
+policyType: fixed
+supportDates:
+  start: 10/12/2016
+  end: 10/12/2021
+  extendedEnd: 01/12/2027
+releases:
+- version: Original Release
+  startDate: 10/12/2016
+  endDate: 01/12/2027
+content: "\n## <a name=\"links\"></a>Saitus \n* [Priežiūros ir palaikymo informacija](/sccm/core/understand/learn-more-editions)"
