@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visual Studio 2013
-  description: Visual Studio 2013 taip fiksuoto palaikymo strategija.
+  title: „Visual Studio 2013“
+  description: „Visual Studio 2013“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: b94d9b3d87ff3c971739be3ca2ebbb2446764e1b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859235"
-name: Visual Studio 2013
-summary: >+
-  Visual Studio 2013 taip [fiksuoto](/lifecycle/policies/fixed) palaikymo strategija.
-
-
-  Tai taikoma šiems leidimams: agentams, visoms, bendruomenėms, "Express for Web", "Express for Windows", "Express", "Windows Desktop", "IntelliTrace Collector", modeliavimo SDK, įvairaus baitų ilgio MFC bibliotekai, "Premium", "Professional", "Release Management", nuotoliniams įrankiams, SDK, apvalkalui (integruotam), apvalkalui (izoliuotai), "Team Explorer", "Test Professional", "Ultimate", "Visual C++ Redistributable", žiniatinklio įrankių plėtiniams
-
+name: „Visual Studio 2013“
+summary: "„Visual Studio 2013“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: Agentai, visi, „Community“ „Express for Web“, „Express for Windows“, „Express For Windows Desktop“, IntelliTrace Collector“, „Modeling SDK“, „Multibyte MFC Library“, „Premium“, „Professional“, leidimo valdymas, nuotoliniai įrankiai, „SDK“, „Shell“ (integruota), „Shell“ (izoliuotas), „Team Explorer“, „Test Professional“, „Ultimate“, „Visual C++ Redistributable“, „Web Tools Extensions“\n\n"
 products:
 - vs
 policyType: fixed
@@ -30,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Techninės priežiūros informacija](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Agentai\n* Visus\n* Community\n* Skubus žiniatinklis\n* Express for Windows\n* Express for Windows Desktop\n* IntelliTrace kolektorius\n* Modeliavimo SDK\n* Multibyte MFC biblioteka\n* Premium\n* Profesinės\n* Išleidimo valdymas\n* Nuotoliniai įrankiai\n* Sdk\n* Apvalkalas (integruotas)\n* Apvalkalas (izoliuotas)\n* Komandos naršyklė\n* Testas Profesionalus\n* Galutinis\n* Visual C ++ perskirstomasis\n* Žiniatinklio įrankių plėtiniai"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Techninės priežiūros informacija](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Agentai\n* Visi\n* Bendruomenė\n* „Express“ žiniatinkliui\n* „Express for Windows“\n* „Express“, skirta „Windows“ kompiuteriui\n* „IntelliTrace Collector“\n* „Modeling SDK“\n* „Multibyte MFC Library“\n* „Premium“\n* „Professional“\n* Leidimo valdymas\n* Nuotoliniai įrankiai\n* „SDK“\n* Apvalkalas (integruotas)\n* Apvalkalas (izoliuotas)\n* Komandos naršyklė\n* Testas „Professional“\n* „Ultimate“\n* Apie „Visual C++ Redistributable“\n* Žiniatinklio įrankių plėtiniai"

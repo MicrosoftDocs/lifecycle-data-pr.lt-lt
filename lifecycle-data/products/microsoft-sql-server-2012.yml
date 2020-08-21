@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Rodyti originalų straipsnį anglų kalba: 3115555'
-  description: Microsoft SQL Server 2012 po fiksuoto palaikymo strategija.
+  title: „Microsoft SQL Server 2012“
+  description: „Microsoft SQL Server 2012“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 28bafe1de891ae8c50f7ef276817ede7a380c8b1
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858859"
-name: 'Rodyti originalų straipsnį anglų kalba: 3115555'
-summary: >+
-  Microsoft SQL Server 2012 po [fiksuoto](/lifecycle/policies/fixed) palaikymo strategija.
-
-
-  Tai taikoma šiems leidimams: "Business Intelligence", "Developer", "Enterprise", "Enterprise Core", "Express", "Embedded Systems", "Standard", "Web"
-
+name: „Microsoft SQL Server 2012“
+summary: "„Microsoft SQL Server 2012“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: „Business Intelligence“, „Developer, Enterprise“, „Enterprise Core“, „Express“, „for Embedded Systems“, „Standard“, „Web“\n\n"
 products:
 - sql-server
 policyType: fixed
@@ -39,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/20/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [Pakeitimų paketų strategija](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Verslo įžvalgos\n* Kūrėjas\n* Įmonės\n* Įmonės branduolys\n* Express\n* įterptųjų sistemų\n* Standartinis\n* Interneto"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Business Intelligence“\n* „Developer“\n* „Enterprise“\n* „Enterprise Core“\n* „Express“\n* skirta „Embedded Systems“\n* „Standard“\n* Žiniatinklis"

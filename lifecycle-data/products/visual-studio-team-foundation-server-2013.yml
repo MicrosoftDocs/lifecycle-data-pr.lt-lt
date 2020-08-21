@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visual Studio Team Foundation Server 2013
-  description: Visual Studio Team Foundation Server 2013 taip fiksuoto palaikymo trukmės strategija.
+  title: „Visual Studio Team Foundation Server 2013“
+  description: „Visual Studio Team Foundation Server 2013“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: b24e1b9ebaf9855024973bfa2ff6b7d90e3af408
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859144"
-name: Visual Studio Team Foundation Server 2013
-summary: >+
-  Visual Studio Team Foundation Server 2013 taip [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategija.
-
-
-  Tai taikoma šiems leidimams: Visi, Leidimo valdymas
-
+name: „Visual Studio Team Foundation Server 2013“
+summary: "„Visual Studio Team Foundation Server 2013“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: Visi, leidimo valdymas\n\n"
 products:
 - vs
 policyType: fixed
@@ -30,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 10/11/2016
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Informacija apie gaminį](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [Techninės priežiūros informacija](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Leidimo valdymo serverio TFS 2013, 4 naujinimas bus palaikomas pagal strategijos gaires iki 4/9/2024.\n\n## <a name=\"editions\"></a>Leidimai \n* Visus\n* Išleidimo valdymas"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Informacija apie gaminį](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [Techninės priežiūros informacija](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Pakeitimų paketų palaikymo strategija](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Leidimo valdymo serverio TFS 2013, 4 naujinimas bus palaikomas pagal strategijos gaires iki 2024 m. balandžio 9 d.\n\n## <a name=\"editions\"></a>Leidimai \n* Visi\n* Leidimo valdymas"

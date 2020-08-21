@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: BizTalk Server 2013
-  description: BizTalk Server 2013 taip fiksuoto palaikymo trukmės strategija.
+  title: „BizTalk Server 2013“
+  description: „BizTalk Server 2013“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9598ebb125a35917a9f5d125bd1a6e49b42694c3
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858937"
-name: BizTalk Server 2013
-summary: >+
-  BizTalk Server 2013 taip [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategija.
-
-
-  Tai taikoma šiems leidimams: filialas, programuotojas, įmonė, standartinis
-
+name: „BizTalk Server 2013“
+summary: "„BizTalk Server 2013“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: „Branch“, „Developer“, „Enterprise“, „Standard“\n\n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -27,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 06/12/2013
   endDate: 07/11/2023
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [Pakeitimų paketų strategija](/lifecycle/policies/fixed#service-packs)\n* [Informacija apie gaminį](/biztalk/install-and-config-guides/biztalk-server-2013-and-2013-r2-what-s-new-install-and-upgrade)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Filialas\n* Kūrėjas\n* Įmonės\n* Standartinis"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)\n* [Informacija apie gaminį](/biztalk/install-and-config-guides/biztalk-server-2013-and-2013-r2-what-s-new-install-and-upgrade)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Filialas\n* „Developer“\n* „Enterprise“\n* „Standard“"
