@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Dynamics 365 for Talent\""
-  description: "\"Dynamics 365 for Talent\" atitinka šiuolaikinės palaikymo trukmės strategiją."
+  title: „Dynamics 365 Talent“
+  description: „Dynamics 365 for Talent“ atitinka šiuolaikinę palaikymo ciklo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: d6dc50f8fa82bcf711b79df464c150fdbf9d1ec6
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870948"
-name: "\"Dynamics 365 for Talent\""
-summary: "\"Dynamics 365 for Talent\" atitinka [šiuolaikinės](/lifecycle/policies/modern) palaikymo trukmės strategiją.\n\nTai taikoma šiems leidimams: Borto\n\n"
+name: „Dynamics 365 Talent“
+summary: "„Dynamics 365 for Talent“ atitinka [šiuolaikinę](/lifecycle/policies/modern) palaikymo trukmės strategiją. \n\nTai taikoma šiems leidimams: „Onboard“\n\n"
 products:
 - dynamics
 policyType: modern-online
@@ -21,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 07/31/2017
   endDate: 02/02/2022
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Sistemos reikalavimai](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [Migracijos gairės](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> \"Attract\" ir \"Onboard\" programos bus išėjusios į pensiją 2022 m. vasario 2 d.  Pagrindinis HR atnaujintas kaip Dynamics 365 žmogiškųjų išteklių vasario 1, 2020, daugiau informacijos ieškokite perkėlimo rekomendacijos.\n\n## <a name=\"editions\"></a>Leidimai \n* Laive"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Sistemos reikalavimai](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [Perkėlimo našumo rekomendacijos](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> „Attract“ ir „Onboard“ programos bus panaikintos 2022 m. vasario 2 d.  „Core HR“ atnaujintas kaip „Dynamics 365 Human Resources“ 2020 m. vasario 1 d., daugiau informacijos ieškokite perkėlimo rekomendacijose.\n\n## <a name=\"editions\"></a>Leidimai \n* „Onboard“"
