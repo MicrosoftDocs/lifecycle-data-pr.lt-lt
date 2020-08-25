@@ -1,0 +1,24 @@
+### YamlMime:Lifecycle
+metadata:
+  title: "\"Microsoft Forefront Client Security\""
+  description: "\"Microsoft Forefront Client Security\" vadovaujasi nustatyta gyvavimo ciklo strategija."
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 802c6836324ac39b0b8ffc99c1f7f6734906445b
+  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
+  ms.translationtype: MT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 08/25/2020
+  ms.locfileid: "908830"
+name: "\"Microsoft Forefront Client Security\""
+summary: "\"Microsoft Forefront Client Security\" vadovaujasi [nustatyta](/lifecycle/policies/fixed) gyvavimo ciklo strategija.\n\n\n"
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 08/02/2007
+  extendedEnd: 07/14/2015
+releases:
+- version: Original Release
+  startDate: 08/02/2007
+  endDate: 07/14/2015
+content: "\n## <a name=\"links\"></a>Saitai \n* [Sistemos centro galinio punkto apsauga](http://www.microsoft.com/server-cloud/products/system-center-2012-r2-configuration-manager/default.aspx)\n\n> [!NOTE]\n> \"Forefront Client Security\" nutraukta. Palaikymas baigiasi liepos 14 d., 2015. Apsaugos nuo kenkėjiškų programų ir kenkėjiškų programų aprašų naujinimų nebebus galima po produkto versijos palaikymo pabaigos. Vertinkite sistemos centro galinio punkto apsaugą kaip pakeitimą."
