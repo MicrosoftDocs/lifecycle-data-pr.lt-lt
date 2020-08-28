@@ -1,16 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: „Visual Studio 2010“
-  description: „Visual Studio 2010“ atitinka fiksuotąją ciklo palaikymo strategiją.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 30c112ab23bba45aaec60660ab85c362bcebf030
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: „Visual Studio 2010“ atitinka fiksuotojo ciklo palaikymo strategiją.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 869c91d57c52f72cee768863c94c1641e3f433ea
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: HT
   ms.contentlocale: lt-LT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "829214"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906998"
 name: „Visual Studio 2010“
-summary: "„Visual Studio 2010“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: Agentai, visi, „ASP .NET MVC 4“, „Express“, „F# 2.0 Runtime“, „Lab Management“, „Performance Tools“, „Premium“, „Professional“, „Remote Debugger“, „SDK“, „Shell (Integrated)“, „Shell (Isolated)“, „Team Agents“, „Team Explorer“, „Test Professional“, „Tools for Office System 4.0 Runtime“, „Ultimate“, „VB Express“, „Visual C# Express“, „Visual C++ Express“, „Visual Web Developer Express“, „Visualization & Modeling SDK“\n\n"
+summary: >+
+  „Visual Studio 2010“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
+  Tai taikoma šiems leidimams: Agentai, visi, „ASP .NET MVC 4“, „Express“, „F# 2.0 Runtime“, „Lab Management“, „Performance Tools“, „Premium“, „Professional“, „Professional w/MSDN“, „PSM“, „Remote Debugger“, „SDK“, „Shell“ (integruota), „Shell“ (izoliuota), „Team Agents“, „Team Explorer“, „Test Professional“, „Tools for Office System 4.0 Runtime“, „Ultimate“, „Ultimate with MSDN“, „Visual Basic Express“, „Visual VB Express“, „Visual C# Express“, „Visual C++ Express“, „Visual Web Developer Express“, „Visualization & Modeling SDK“
+
 products:
 - vs
 policyType: fixed
@@ -25,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Saitai \n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Agentai\n* Visi\n* „ASP .NET MVC 4“\n* „Express“\n* „F# 2.0 Runtime“\n* „Lab Management“\n* Našumo įrankiai\n* „Premium“\n* „Professional“\n* Nuotolinis derintuvas\n* „SDK“\n* Apvalkalas (integruotas)\n* Apvalkalas (izoliuotas)\n* Komandos darbuotojai\n* Komandos naršyklė\n* Testas „Professional“\n* Įrankiai, skirti „Office System 4.0 Runtime“\n* „Ultimate“\n* „VB Express“\n* „Visual C# Express“\n* „Visual C++ Express“\n* „Visual Web Developer Express“\n* Vizualizacijos ir modeliavimo SDK"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Agentai\n* Visi\n* „ASP .NET MVC 4“\n* „Express“\n* „F# 2.0 Runtime“\n* „Lab Management“\n* Našumo įrankiai\n* „Premium“\n* „Professional“\n* „Professional w/MSDN“ \n* PSM\n* Nuotolinis derintuvas\n* „SDK“\n* Apvalkalas (integruotas)\n* Apvalkalas (izoliuotas)\n* Komandos darbuotojai\n* Komandos naršyklė\n* Testas „Professional“\n* Įrankiai, skirti „Office System 4.0 Runtime“\n* „Ultimate“\n* „Ultimate with MSDN“\n* „Visual Basic Express“\n* „Visual C# Express“\n* „Visual C++ Express“\n* „Visual Web Developer Express“\n* Vizualizacijos ir modeliavimo SDK"
