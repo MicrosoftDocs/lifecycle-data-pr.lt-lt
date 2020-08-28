@@ -2,15 +2,24 @@
 metadata:
   title: „Windows Vista“
   description: „Windows Vista“ atitinka fiksuotojo ciklo palaikymo strategiją.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: e2e6ab946bf405ed524f07047d055a786d7174dc
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 5c98fe7339f950e080d2ae0450774abb13d9e7c6
+  ms.sourcegitcommit: 70c4608ec6344869c74ed63ff3f0e2ccb0dce3a0
   ms.translationtype: HT
   ms.contentlocale: lt-LT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "829198"
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "903095"
 name: „Windows Vista“
-summary: "„Windows Vista“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: „Business“, „Business N“, „Enterprise“, „Enterprise X64“, „Home Basic“, „Home Basic“ 64 bitų, „Home Basic N“, „Home Basic N“ 64 bitų, „Home Premium“, „Home Premium“ 64 bitų, „Starter“, „Ultimate“, „Ultimate“ 64 bitų\n\n> [!IMPORTANT]\n> Šio produkto palaikymas baigėsi, žiūrėkite toliau, jei norite gauti informaciją apie perkėlimą.\n"
+summary: >
+  „Windows Vista“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
+  Tai taikoma šiems leidimams: „Business“, „Business N“, „Business N 64-bit“, „Enterprise“, „Enterprise X64“, „Home Basic“, „Home Basic“ 64 bitų, „Home Basic N“, „Home Basic N“ 64 bitų, „Home Premium“, „Home Premium“ 64 bitų, „Starter“, „Ultimate“, „Ultimate“ 64 bitų
+
+
+  > [!IMPORTANT]
+
+  > Šio produkto palaikymas baigėsi, žiūrėkite toliau, jei norite gauti informaciją apie perkėlimą.
 products:
 - windows
 policyType: fixed
@@ -28,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2007
   endDate: 04/13/2010
-content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [„Windows“ naujinimo ir perkėlimo aspektai](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Business“\n* „Business N“\n* „Enterprise“\n* „Enterprise X64“\n* „Home Basic“\n* „Home Basic“ 64 bitų\n* „Home Basic N“\n* „Home Basic N“ 64 bitų\n* „Home Premium“\n* „Home Premium“ 64 bitų\n* „Starter“\n* „Ultimate“\n* „Ultimate“ 64 bitų"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [„Windows“ naujinimo ir perkėlimo aspektai](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Business“\n* „Business N“\n* „Business N 64-bit“\n* „Enterprise“\n* „Enterprise X64“\n* „Home Basic“\n* „Home Basic“ 64 bitų\n* „Home Basic N“\n* „Home Basic N“ 64 bitų\n* „Home Premium“\n* „Home Premium“ 64 bitų\n* „Starter“\n* „Ultimate“\n* „Ultimate“ 64 bitų"

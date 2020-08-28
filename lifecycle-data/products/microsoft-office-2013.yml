@@ -2,15 +2,20 @@
 metadata:
   title: „Microsoft Office 2013“
   description: „Microsoft Office 2013“ atitinka fiksuotojo ciklo palaikymo strategiją.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 57eeaf9939d11f53914fef0e92795621dfb9db44
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 144877196e495c44a75cc95487426038c5321751
+  ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
   ms.translationtype: HT
   ms.contentlocale: lt-LT
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "859209"
+  ms.lasthandoff: 08/20/2020
+  ms.locfileid: "905256"
 name: „Microsoft Office 2013“
-summary: "„Microsoft Office 2013“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: „Home and Business“, „Home and Student“, „Professional“, „Professional Plus“, „Professional Plus Home Use Program“, „Standard“, „Web Apps Server“\n\n"
+summary: >+
+  „Microsoft Office 2013“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
+  Tai taikoma šiems leidimams: „Home and Business“, „Home and Student“, „Multi Language Pack“, „Professional“, „Professional Plus“, „Professional Plus Home Use Program“, „Standard“, „Web Apps Server“
+
 products:
 - office
 policyType: fixed
@@ -25,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 1 pakeitimų paketas netaikomas „Web Apps Server“ leidimui. \n\n## <a name=\"editions\"></a>Leidimai \n* „Home and Business“\n* „Home and Student“\n* „Professional“\n* „Professional Plus“\n* „Professional Plus Home Use Program“\n* „Standard“\n* Žiniatinklio programų serveris"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 1 pakeitimų paketas netaikomas „Web Apps Server“ leidimui. \n\n## <a name=\"editions\"></a>Leidimai \n* „Home and Business“\n* „Home and Student“\n* „Multi Language Pack“\n* „Professional“\n* „Professional Plus“\n* „Professional Plus Home Use Program“\n* „Standard“\n* Žiniatinklio programų serveris"
