@@ -1,16 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: "\"Visio 2010\""
-  description: "\"Visio 2010\" atitinka fiksuoto palaikymo trukmės strategiją."
-  ms.date: 07/28/2020
-  ms.openlocfilehash: bf96814151cea0f8a6d28a13d6b30e3de6c379a0
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: "\"Visio 2010\" laikosi fiksuotos trukmės strategijos."
+  ms.date: 09/01/2020
+  keywords: Premium,Professional,Standard
+  ms.openlocfilehash: c716322b214c44ce9cfe9f102d9260a24f2d0877
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: lt-LT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "829217"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937863"
 name: "\"Visio 2010\""
-summary: "\"Visio 2010\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\nTai taikoma šiems leidimams: \"Premium\", \"Professional\", \"Standard\"\n\n"
+summary: "\"Visio 2010\" laikosi [fiksuotos](/lifecycle/policies/fixed) trukmės strategijos.\n\nTai taikoma šiems leidimams: Premium, Professional, Standard\n\n"
 products:
 - office
 policyType: fixed
@@ -28,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](/DeployOffice/office-2010-end-support-roadmap)\n* [Pakeitimų paketų strategija](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Premium\n* Profesinės\n* Standartinis"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](/DeployOffice/office-2010-end-support-roadmap)\n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Premium“\n* „Professional“\n* „Standard“"

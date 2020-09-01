@@ -2,13 +2,14 @@
 metadata:
   title: WinTarget 2,0
   description: WinTarget 2,0 atitinka nustatytą gyvavimo ciklo strategiją.
-  ms.date: 08/19/2020
-  ms.openlocfilehash: 614ba664fd709a59190916f6b8e952f983720f7c
-  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.date: 09/01/2020
+  keywords: Advanced,Standard
+  ms.openlocfilehash: 940b4d3c615a3e3f72bfa6a2a6e250154bcd5a57
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: lt-LT
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "904319"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938751"
 name: WinTarget 2,0
 summary: >+
   WinTarget 2,0 atitinka [nustatytą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.
@@ -26,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 03/07/2006
   endDate: 01/08/2008
-content: "\n\n> [!NOTE]\n> Šio produkto palaikymas priklauso nuo jo įsigijimo sąlygų.\n\n## <a name=\"editions\"></a>Leidimų \n* Išplėstinė\n* Standartinis"
+content: "\n\n> [!NOTE]\n> Šio produkto palaikymas priklauso nuo jo įsigijimo sąlygų.\n\n## <a name=\"editions\"></a>Leidimai \n* Išplėstinė\n* „Standard“"
