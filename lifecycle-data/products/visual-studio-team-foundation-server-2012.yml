@@ -1,21 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visual Studio Team Foundation Server 2012
-  description: Visual Studio Team Foundation Server 2012 taip fiksuoto palaikymo trukmės strategija.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: fd163f4af7e1f56e537990c97f59aa03cbb323c2
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: "\"Visual Studio\" komandos Foundation serverio 2012"
+  description: "\"Visual Studio Team Foundation Server\" 2012 atitinka nustatytą gyvavimo ciklo strategiją."
+  ms.date: 09/01/2020
+  keywords: All
+  ms.openlocfilehash: 010d56498bce5718034fa1af505e985ed93f40ce
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: lt-LT
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "859145"
-name: Visual Studio Team Foundation Server 2012
-summary: >+
-  Visual Studio Team Foundation Server 2012 taip [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategija.
-
-
-  Tai taikoma šiems leidimams: Visi
-
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937345"
+name: "\"Visual Studio\" komandos Foundation serverio 2012"
+summary: "\"Visual Studio Team Foundation Server\" 2012 atitinka [nustatytą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\nTai taikoma šiems leidimams: Visi\n\n"
 products:
 - vs
 policyType: fixed
@@ -30,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/13/2015
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](/azure/devops/server/upgrade/get-started?view=azure-devops)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Visus"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](/azure/devops/server/upgrade/get-started?view=azure-devops)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Visi"
