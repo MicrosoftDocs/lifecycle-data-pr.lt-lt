@@ -2,15 +2,16 @@
 metadata:
   title: "\"Publisher 2016\""
   description: "\"Publisher\" 2016 seka pagal nustatytą gyvavimo ciklo strategiją."
-  ms.date: 08/12/2020
-  ms.openlocfilehash: a322719add91ae148f88f299df8b002f076400e0
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: da399cd636aa0fe84a000ab93878bcf08c27f446
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: lt-LT
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893026"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "926134"
 name: "\"Publisher 2016\""
-summary: "\"Publisher\" 2016 seka pagal [nustatytą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\nTai taikoma šiems leidimams: Standard\n\n"
+summary: "\"Publisher\" 2016 seka pagal [nustatytą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\nTai taikoma šiems leidimams: „Standard“\n\n"
 products:
 - office
 policyType: fixed
@@ -22,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 09/22/2015
   endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>Leidimų \n* Standartinis"
+content: "\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Standard“"
