@@ -1,16 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Rodyti originalų rodyti žodį"Microsoft Word 2010"
-  description: "\"Microsoft Word 2010\" atitinka fiksuoto palaikymo trukmės strategiją."
-  ms.date: 07/28/2020
-  ms.openlocfilehash: f4dc0eea07b8fda561c124386c9483135851e2c2
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: "\"Microsoft Word 2010\""
+  description: "\"Microsoft Word 2010\" stebi fiksuotą gyvavimo ciklo strategiją."
+  ms.date: 09/01/2020
+  keywords: Home and Student,Standard
+  ms.openlocfilehash: 23a0866d6135a39d7b7895604cc2c3687c5f578f
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: lt-LT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "829608"
-name: Rodyti originalų rodyti žodį"Microsoft Word 2010"
-summary: "\"Microsoft Word 2010\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\nTai taikoma šiems leidimams: \"Home and Student\", \"Standard\"\n\n"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "929021"
+name: "\"Microsoft Word 2010\""
+summary: "\"Microsoft Word 2010\" stebi [fiksuotą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\nTai taikoma šiems leidimams: „Home and Student“, „Standard“\n\n"
 products:
 - office
 policyType: fixed
@@ -22,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n\n\n## <a name=\"editions\"></a>Leidimai \n* Namai ir studentas\n* Standartinis"
+content: "\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Home and Student“\n* „Standard“"
