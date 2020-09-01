@@ -2,13 +2,13 @@
 metadata:
   title: Sistemos centro galinio punkto apsauga
   description: Sistemos centro galinio punkto apsauga taikoma šiuolaikinei gyvavimo ciklo strategijai.
-  ms.date: 08/28/2020
-  ms.openlocfilehash: 2b8878c629a27bc6960a9cbceb4447b7757e61d2
-  ms.sourcegitcommit: 90c2bb5823fb637bc42baaba1512486144104f70
+  ms.date: 08/31/2020
+  ms.openlocfilehash: 9eff57919f329c3c5897ef2697cd20ff9ce65dba
+  ms.sourcegitcommit: ea12743df11002fd494c7843707a3628dfedb425
   ms.translationtype: MT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 08/31/2020
-  ms.locfileid: "924665"
+  ms.locfileid: "924936"
 name: Sistemos centro galinio punkto apsauga
 summary: >+
   Sistemos centro galinio punkto apsauga taikoma [šiuolaikinei](/lifecycle/policies/modern) gyvavimo ciklo strategijai.
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 12/08/2015
-content: "\n## <a name=\"links\"></a>Saitai \n* [Sistemos centro Endpoint Protection versijų palaikymas (anksčiau vadinta \"Configuration Manager\" dabartinė šaka)](/mem/configmgr/core/servers/manage/current-branch-versions-supported?redirectedfrom=MSDN)"
+content: ''
