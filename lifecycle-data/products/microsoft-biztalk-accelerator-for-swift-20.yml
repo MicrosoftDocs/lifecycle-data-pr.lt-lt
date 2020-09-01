@@ -1,21 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk spartintuvas, skirtas SWIFT 2.0
-  description: Microsoft BizTalk spartintuvas SWIFT 2.0 taip fiksuoto palaikymo trukmės strategija.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 430961859e38f41832f860e11b1ed4a870f63869
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: "\"Microsoft BizTalk Accelerator for SWIFT 2,0\""
+  description: "\"Microsoft BizTalk Accelerator for SWIFT 2,0\" atitinka nustatytą gyvavimo ciklo strategiją."
+  ms.date: 09/01/2020
+  keywords: Enterprise
+  ms.openlocfilehash: f2d3f0b8991cf28223d4ba5110c0686facccf8f2
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: lt-LT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "829757"
-name: Microsoft BizTalk spartintuvas, skirtas SWIFT 2.0
-summary: >+
-  Microsoft BizTalk spartintuvas SWIFT 2.0 taip [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategija.
-
-
-  Tai taikoma šiems leidimams: Įmonės
-
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934866"
+name: "\"Microsoft BizTalk Accelerator for SWIFT 2,0\""
+summary: "\"Microsoft BizTalk Accelerator for SWIFT 2,0\" atitinka [nustatytą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\nTai taikoma šiems leidimams: „Enterprise“\n\n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -27,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 09/25/2004
   endDate: 10/14/2014
-content: "\n\n\n## <a name=\"editions\"></a>Leidimai \n* Įmonės"
+content: "\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Enterprise“"
