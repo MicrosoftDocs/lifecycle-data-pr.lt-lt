@@ -1,16 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Rodyti originalų straipsnį anglų kalba: 305504'
-  description: "\"Microsoft Speech Server 2004\" atitinka fiksuoto palaikymo trukmės strategiją."
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 50ebb3b700a83d7d247d368d948c2ff051a14b18
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: "\"Microsoft\" kalbos serverio 2004"
+  description: "\"Microsoft Speech Server 2004\" atitinka fiksuotą gyvavimo ciklo strategiją."
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 2fb4a48b2caffce89e54dac838ff7f1149886d48
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: lt-LT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "829330"
-name: 'Rodyti originalų straipsnį anglų kalba: 305504'
-summary: "\"Microsoft Speech Server 2004\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\nTai taikoma šiems leidimams: \"Enterprise\", \"Standard\"\n\n"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937086"
+name: "\"Microsoft\" kalbos serverio 2004"
+summary: "\"Microsoft Speech Server 2004\" atitinka [fiksuotą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\nTai taikoma šiems leidimams: „Enterprise“, „Standard“\n\n"
 products:
 - office
 policyType: fixed
@@ -22,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 04/28/2004
   endDate: 07/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>Leidimai \n* Įmonės\n* Standartinis"
+content: "\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Enterprise“\n* „Standard“"
