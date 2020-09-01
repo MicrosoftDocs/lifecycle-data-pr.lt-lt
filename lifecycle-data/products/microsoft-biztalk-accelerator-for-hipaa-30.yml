@@ -1,21 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk spartintuvas HIPAA 3.0
-  description: Microsoft BizTalk spartintuvas HIPAA 3.0 taip fiksuoto palaikymo strategija.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: c509b97024379ae56ee4a808ea7366ddead58404
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: "\"Microsoft BizTalk Accelerator for HIPAA 3,0\""
+  description: "\"Microsoft BizTalk Accelerator for HIPAA 3,0\" atitinka fiksuotą gyvavimo ciklo strategiją."
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 402414833e6f07af15c0b2d94d5cf40a9ebd80a1
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: lt-LT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "829761"
-name: Microsoft BizTalk spartintuvas HIPAA 3.0
-summary: >+
-  Microsoft BizTalk spartintuvas HIPAA 3.0 taip [fiksuoto](/lifecycle/policies/fixed) palaikymo strategija.
-
-
-  Tai taikoma šiems leidimams: "Enterprise", "Standard"
-
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "935273"
+name: "\"Microsoft BizTalk Accelerator for HIPAA 3,0\""
+summary: "\"Microsoft BizTalk Accelerator for HIPAA 3,0\" atitinka [fiksuotą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\nTai taikoma šiems leidimams: „Enterprise“, „Standard“\n\n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -27,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 12/28/2004
   endDate: 01/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>Leidimai \n* Įmonės\n* Standartinis"
+content: "\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Enterprise“\n* „Standard“"

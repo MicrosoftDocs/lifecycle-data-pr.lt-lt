@@ -1,16 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Rodyti originalų straipsnį anglų kalba: 3085555'
-  description: "\"Microsoft Class Server 4.0\" atitinka fiksuoto palaikymo trukmės strategiją."
-  ms.date: 07/28/2020
-  ms.openlocfilehash: efd4e92bf5426dcdf6e52ce8bcbc679f026ce5ce
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: "\"Microsoft\" klasės serverio 4,0"
+  description: "\"Microsoft\" klasės serverio 4,0 atitinka nustatytą gyvavimo ciklo strategiją."
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 0edbcc4d8beac695a9fc873ec7ae2d51c06e8f56
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: lt-LT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "829724"
-name: 'Rodyti originalų straipsnį anglų kalba: 3085555'
-summary: "\"Microsoft Class Server 4.0\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\nTai taikoma šiems leidimams: Standard\n\n"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934496"
+name: "\"Microsoft\" klasės serverio 4,0"
+summary: "\"Microsoft\" klasės serverio 4,0 atitinka [nustatytą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\nTai taikoma šiems leidimams: „Standard“\n\n"
 products:
 - office
 policyType: fixed
@@ -22,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 02/21/2005
   endDate: 04/14/2015
-content: "\n\n\n## <a name=\"editions\"></a>Leidimai \n* Standartinis"
+content: "\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Standard“"

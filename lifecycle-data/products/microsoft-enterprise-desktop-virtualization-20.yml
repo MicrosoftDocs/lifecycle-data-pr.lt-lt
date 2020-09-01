@@ -1,16 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Enterprise Darbalaukio Virtualizacija 2,0
-  description: "\"Microsoft Enterprise\" darbalaukio virtualizavimo 2.0 atitinka fiksuoto palaikymo trukmės strategiją."
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 003a5a0de6b6aab0b3422c53f305f9a445cc76e9
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: "\"Microsoft Enterprise\" darbalaukio virtualizavimo 2,0"
+  description: "\"Microsoft Enterprise\" darbalaukio virtualizavimo 2,0 atitinka fiksuotos trukmės strategiją."
+  ms.date: 09/01/2020
+  keywords: Enterprise
+  ms.openlocfilehash: c389a7a61ffd7a171c58b70f1050657e82d736be
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: lt-LT
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "859082"
-name: Microsoft Enterprise Darbalaukio Virtualizacija 2,0
-summary: "\"Microsoft Enterprise\" darbalaukio virtualizavimo 2.0 atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\nTai taikoma šiems leidimams: Įmonės\n\n"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933904"
+name: "\"Microsoft Enterprise\" darbalaukio virtualizavimo 2,0"
+summary: "\"Microsoft Enterprise\" darbalaukio virtualizavimo 2,0 atitinka [fiksuotos](/lifecycle/policies/fixed) trukmės strategiją.\n\nTai taikoma šiems leidimams: „Enterprise“\n\n"
 products:
 - windows
 policyType: fixed
@@ -22,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 03/10/2011
   endDate: 04/13/2021
-content: "\n\n\n## <a name=\"editions\"></a>Leidimai \n* Įmonės"
+content: "\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Enterprise“"
