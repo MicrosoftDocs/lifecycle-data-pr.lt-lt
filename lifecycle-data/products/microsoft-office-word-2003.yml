@@ -1,21 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Rodyti originalų biurą
-  description: Microsoft Office Word 2003 laikosi fiksuoto palaikymo trukmės strategijos.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 22d955d682c2cbb7842edfc330f745d94e58fc13
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: "\"Microsoft Office Word 2003\""
+  description: "\"Microsoft Office Word 2003\" stebi fiksuotą gyvavimo ciklo strategiją."
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: ac7b10f977be3928db5cfc26c23f7fa734106e86
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: lt-LT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "829112"
-name: Rodyti originalų biurą
-summary: >+
-  Microsoft Office Word 2003 laikosi [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategijos.
-
-
-  Tai taikoma šiems leidimams: Standard
-
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930093"
+name: "\"Microsoft Office Word 2003\""
+summary: "\"Microsoft Office Word 2003\" stebi [fiksuotą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\nTai taikoma šiems leidimams: „Standard“\n\n"
 products:
 - office
 policyType: fixed
@@ -27,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 11/27/2003
   endDate: 04/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>Leidimai \n* Standartinis"
+content: "\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Standard“"
