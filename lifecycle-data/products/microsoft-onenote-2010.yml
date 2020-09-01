@@ -1,16 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Rodyti originalų pranešimą "Microsoft OneNote 2010"
-  description: "\"Microsoft OneNote 2010\" atitinka fiksuoto palaikymo trukmės strategiją."
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 89eb67ddae569d8617993677a8dac204203042db
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: "\"Microsoft OneNote 2010\""
+  description: "\"Microsoft OneNote 2010\" stebi fiksuotą gyvavimo ciklo strategiją."
+  ms.date: 09/01/2020
+  keywords: Home and Student,Standard
+  ms.openlocfilehash: 77b655ee28e25cc13cd7134c7730dffec4b2e899
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: lt-LT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "829101"
-name: Rodyti originalų pranešimą "Microsoft OneNote 2010"
-summary: "\"Microsoft OneNote 2010\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\nTai taikoma šiems leidimams: \"Home and Student\", \"Standard\"\n\n"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "932720"
+name: "\"Microsoft OneNote 2010\""
+summary: "\"Microsoft OneNote 2010\" stebi [fiksuotą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\nTai taikoma šiems leidimams: „Home and Student“, „Standard“\n\n"
 products:
 - office
 policyType: fixed
@@ -22,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n\n\n## <a name=\"editions\"></a>Leidimai \n* Namai ir studentas\n* Standartinis"
+content: "\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Home and Student“\n* „Standard“"
