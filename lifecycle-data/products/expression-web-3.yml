@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Išraiška 3
-  description: Išraiška 3 atitinka fiksuoto palaikymo trukmės strategiją.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9544cb1ac337a36e0e9d12b4afde25d392bdd767
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: 3 reiškinys
+  description: 3 išraiška atitinka nustatytą gyvavimo ciklo strategiją.
+  ms.date: 09/01/2020
+  keywords: Design,Encoder,Studio,Web
+  ms.openlocfilehash: 406642d42292645f0a1f233b77937ba831d08671
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: lt-LT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "829130"
-name: Išraiška 3
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930759"
+name: 3 reiškinys
 summary: >+
-  Išraiška 3 atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.
+  3 išraiška atitinka [nustatytą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.
 
 
-  Tai taikoma šiems leidimams: dizainas, kodavimo programa, studija, žiniatinklis
+  Tai taikoma šiems leidimams: dizainas, kodavimo, studija, žiniatinklis
 
 products:
 - expression
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/19/2009
   endDate: 01/14/2020
-content: "\n\n> [!NOTE]\n> Išraiškos dizaino 3 pradžios data yra 2009 m. lapkričio 19 d. \n\n## <a name=\"editions\"></a>Leidimai \n* Dizainas\n* Encoder\n* Studio\n* Interneto"
+content: "\n\n> [!NOTE]\n> Reiškinio dizainas 3 pradžios data yra lapkričio 19 d., 2009. \n\n## <a name=\"editions\"></a>Leidimai \n* Dizainas\n* Koduotuvo\n* Studio\n* Žiniatinklis"

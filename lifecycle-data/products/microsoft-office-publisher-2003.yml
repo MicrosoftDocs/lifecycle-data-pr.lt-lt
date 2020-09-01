@@ -1,21 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Rodyti originalų straipsnį anglų kalba: 3114555'
-  description: Microsoft Office Publisher 2003 laikosi fiksuoto palaikymo trukmės strategijos.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: dc74fbb4c7ad1e9d6e27b507d00c15aadd1665dc
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: "\"Microsoft Office Publisher 2003\""
+  description: "\"Microsoft Office Publisher 2003\" stebi fiksuotą gyvavimo ciklo strategiją."
+  ms.date: 09/01/2020
+  keywords: Standard,with Digital Imaging
+  ms.openlocfilehash: 02171136d8f297220ab847aa34d70f61e3264555
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: lt-LT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "829672"
-name: 'Rodyti originalų straipsnį anglų kalba: 3114555'
-summary: >+
-  Microsoft Office Publisher 2003 laikosi [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategijos.
-
-
-  Tai taikoma šiems leidimams: Standard, with Digital Imaging
-
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930352"
+name: "\"Microsoft Office Publisher 2003\""
+summary: "\"Microsoft Office Publisher 2003\" stebi [fiksuotą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\nTai taikoma šiems leidimams: Standard, su skaitmeniniu vaizdavimo\n\n"
 products:
 - office
 policyType: fixed
@@ -27,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 11/24/2003
   endDate: 04/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>Leidimai \n* Standartinis\n* su skaitmeniniu vaizdavimu"
+content: "\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Standard“\n* su skaitmeniniu vaizdavimo"
