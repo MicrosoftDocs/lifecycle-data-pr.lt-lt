@@ -1,16 +1,19 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Silverlight\" 5"
-  description: "\"Silverlight 5\" atitinka fiksuoto palaikymo trukmės strategiją."
+  title: „Silverlight 5“
+  description: „Silverlight 5“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2bdc8039724e69c5693e178d5697eb4e7242c3d2
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871010"
-name: "\"Silverlight\" 5"
-summary: "\"Silverlight 5\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\n\n"
+name: „Silverlight 5“
+summary: >+
+  „Silverlight 5“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo trukmės strategiją.
+
+
 products:
 - silverlight
 policyType: fixed-mainstream-only
@@ -21,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2011
   endDate: 10/12/2021
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [\"Silverlight 5\" palaikys čia išvardytas naršykles per 10/12/2021 arba per pagrindinių naršyklių gyvavimo ciklą, atsižvelgiant į tai, kuris iš jų trumpesnis.](https://www.microsoft.com/getsilverlight/locale/html/installation-win-SL5.html)\n* [\"Silverlight\" palaikymo pabaiga](https://support.microsoft.com/help/4511036/silverlight-end-of-support)\n\n> [!NOTE]\n> \"Microsoft\" pateiks mažiausiai 12 mėnesių pranešimą prieš pasibaigiant įrankių palaikymui."
+content: "\n## <a name=\"links\"></a>Saitai \n* [„Silverlight 5“ palaikys šiame puslapyje išvardytas naršykles iki 2021 m. gruodžio 10 d. arba iki esamų naršyklių ciklo pabaigos, atsižvelgiant į tai, kuris iš laikotarpių yra trumpesnis.](https://www.microsoft.com/getsilverlight/locale/html/installation-win-SL5.html) \n* [„Silverlight“ palaikymo pabaigos data](https://support.microsoft.com/help/4511036/silverlight-end-of-support)\n\n> [!NOTE]\n> Prieš baigiantis įrankių palaikymui, „Microsoft“ pateiks pranešimą ne vėliau nei prieš 12 mėnesių."

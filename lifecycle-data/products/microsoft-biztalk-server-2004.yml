@@ -1,16 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Microsoft BizTalk Server 2004\""
-  description: "\"Microsoft BizTalk Server\" 2004 atitinka nustatytą gyvavimo ciklo strategiją."
+  title: „Microsoft BizTalk Server 2004“
+  description: „Microsoft BizTalk Server 2004“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 08/12/2020
   ms.openlocfilehash: 3601a186f2016a32ea40ef7bf59e484940d7d4b0
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893581"
-name: "\"Microsoft BizTalk Server 2004\""
-summary: "\"Microsoft BizTalk Server\" 2004 atitinka [nustatytą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\nTai taikoma šiems leidimams: programuotojams, įmonėms, partneriui, standartinei\n\n"
+name: „Microsoft BizTalk Server 2004“
+summary: >+
+  „Microsoft BizTalk Server 2004“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
+  Tai taikoma šiems leidimams: „Developer“, „Enterprise“, „Partner“, „Standard“
+
 products:
 - microsoft-servers
 policyType: fixed
@@ -28,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 05/20/2004
   endDate: 04/11/2006
-content: "\n## <a name=\"links\"></a>Saitus \n* [Paslaugų paketo strategija](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Leidimų \n* Kūrėjas\n* Enterprise\n* Partnerių\n* Standartinis"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Developer“\n* „Enterprise“\n* „Partner“\n* „Standard“"

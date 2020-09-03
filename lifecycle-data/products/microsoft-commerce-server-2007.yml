@@ -1,16 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Microsoft Commerce Server\" 2007"
-  description: "\"Microsoft Commerce Server\" 2007 atitinka nustatytą gyvavimo ciklo strategiją."
+  title: „Microsoft Commerce Server 2007“
+  description: „Microsoft Commerce Server 2007“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 08/12/2020
   ms.openlocfilehash: 428d4ea2be6f7edfd13e14a297a4795d02575ed7
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893470"
-name: "\"Microsoft Commerce Server\" 2007"
-summary: "\"Microsoft Commerce Server\" 2007 atitinka [nustatytą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\nTai taikoma šiems leidimams: programuotojams, verslui, standartinei\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas.\n"
+name: „Microsoft Commerce Server 2007“
+summary: >
+  „Microsoft Commerce Server 2007“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
+  Tai taikoma šiems leidimams: „Developer“, „Enterprise“, „Standard“
+
+
+  > [!IMPORTANT]
+
+  > Baigėsi šio produkto palaikymas.
 products:
 - microsoft-servers
 policyType: fixed
@@ -28,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 06/16/2006
   endDate: 07/08/2008
-content: "\n## <a name=\"links\"></a>Saitus \n* [Paslaugų paketo strategija](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Leidimų \n* Kūrėjas\n* Enterprise\n* Standartinis"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Developer“\n* „Enterprise“\n* „Standard“"
