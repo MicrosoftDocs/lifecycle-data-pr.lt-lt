@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Sistemos centro operacijų tvarkytuvo 2007 R2
-  description: Sistemos centro Operations Manager 2007 R2 atitinka nustatytą gyvavimo ciklo strategiją.
+  title: „System Center Operations Manager 2007 R2“
+  description: „System Center Configuration Manager 2007 R2“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 08/12/2020
   ms.openlocfilehash: 8276b2ba221fb3c6c05948ac9712c3e10c9a1628
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "892508"
-name: Sistemos centro operacijų tvarkytuvo 2007 R2
-summary: "Sistemos centro Operations Manager 2007 R2 atitinka [nustatytą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas. Peržiūrėkite toliau pateiktas perkėlimo gaires. \n"
+name: „System Center Operations Manager 2007 R2“
+summary: "„System Center Configuration Manager 2007 R2“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.\n\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas. Žiūrėkite toliau pateiktas perkėlimo gaires. \n"
 products:
 - msc
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 08/20/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Saitus \n* [Perkėlimo nurodymai](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)"

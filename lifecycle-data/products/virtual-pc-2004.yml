@@ -1,16 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Virtual PC\" 2004"
-  description: "\"Virtual PC\" 2004 laikosi fiksuotos trukmės strategijos."
+  title: „Virtual PC 2004“
+  description: „Virtual PC 2004“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 08/12/2020
   ms.openlocfilehash: e4a1b7e6f5b072185d8b2f406398cb077ce983a6
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893285"
-name: "\"Virtual PC\" 2004"
-summary: "\"Virtual PC\" 2004 laikosi [fiksuotos](/lifecycle/policies/fixed) trukmės strategijos.\n\nTai taikoma šiems leidimams: Express, Standard\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas.\n"
+name: „Virtual PC 2004“
+summary: >
+  „Virtual PC 2004“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
+  Tai taikoma šiems leidimams: „Express“, „Standard“
+
+
+  > [!IMPORTANT]
+
+  > Baigėsi šio produkto palaikymas.
 products:
 - windows
 policyType: fixed
@@ -25,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 01/20/2004
   endDate: 10/09/2007
-content: "> [!TIP]\n> \"Microsoft Virtual PC 2004 Express\" išleistas balandžio 13, 2006.\n\n## <a name=\"links\"></a>Saitus \n* [Paslaugų paketo strategija](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Leidimų \n* Express\n* Standartinis"
+content: "> [!TIP]\n> „Microsoft Virtual PC 2004 Express“ išleistas 2006 m. balandžio 13 d.\n\n## <a name=\"links\"></a>Saitai \n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Express“\n* „Standard“"

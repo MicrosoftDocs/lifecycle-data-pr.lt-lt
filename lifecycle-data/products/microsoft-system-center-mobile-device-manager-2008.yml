@@ -1,16 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Microsoft System Center\" mobiliųjų įrenginių tvarkytuvo 2008"
-  description: "\"Microsoft System Center Mobile Device Manager\" 2008 atitinka nustatytą gyvavimo ciklo strategiją."
+  title: „Microsoft System Center Mobile Device Manager 2008“
+  description: „Microsoft System Center Data Protection Manager 2008“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 08/21/2020
   ms.openlocfilehash: df98171e48c84191a90b4c051d6d17e77e720d93
   ms.sourcegitcommit: 58c6a4bf0c3ef066969422e3acf340702facef6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906293"
-name: "\"Microsoft System Center\" mobiliųjų įrenginių tvarkytuvo 2008"
-summary: "\"Microsoft System Center Mobile Device Manager\" 2008 atitinka [nustatytą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\nTai taikoma šiems leidimams: visiems taikomiems, wSQL\n\n"
+name: „Microsoft System Center Mobile Device Manager 2008“
+summary: >+
+  „Microsoft System Center Data Protection Manager 2008“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
+  Tai taikoma šiems leidimams: „All applicable“, „wSQL“
+
 products:
 - msc
 policyType: fixed
@@ -25,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 05/14/2008
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Saitus \n* [Perkėlimo nurodymai](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Paslaugų paketo strategija](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Leidimų \n* Visi taikomi\n* wSQL"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Visos taikomos\n* „wSQL“"
