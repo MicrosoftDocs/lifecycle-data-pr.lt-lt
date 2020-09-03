@@ -1,16 +1,19 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Windows\" sargyba, skirta \"Windows 8\" ir \"Windows 8.1\""
-  description: "\"Windows\" sargyba, skirta \"Windows 8\" ir \"Windows 8.1\", atitinka komponento palaikymo trukmės strategiją."
+  title: „Windows“ sargyba, skirta „Windows 8“ ir 8.1
+  description: „Windows“ sargyba, skirta „Windows 8“ ir 8.1, atitinka komponento ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: d4024d32c3d61568ee01854acd1422ef614fedfb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858793"
-name: "\"Windows\" sargyba, skirta \"Windows 8\" ir \"Windows 8.1\""
-summary: "\"Windows\" sargyba, skirta \"Windows 8\" ir \"Windows 8.1\", atitinka [komponento](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) palaikymo trukmės strategiją.\n\n\n"
+name: „Windows“ sargyba, skirta „Windows 8“ ir 8.1
+summary: >+
+  „Windows“ sargyba, skirta „Windows 8“ ir 8.1, atitinka [komponento](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) ciklo palaikymo strategiją.
+
+
 products:
 - windows
 policyType: component
@@ -24,4 +27,4 @@ releases:
 - version: For Windows 8
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Rodyti \"Windows 8\"](/lifecycle/)\n\n> [!NOTE]\n> Šis leidimas yra žinomas kaip komponentas, kuris po jo pirminio produkto gyvavimo ciklą."
+content: "\n## <a name=\"links\"></a>Saitai \n* [„Windows 8“](/lifecycle/)\n\n> [!NOTE]\n> Šis leidimas yra žinomas kaip komponentas, kuris būna po pirminio produkto gyvavimo ciklo.\n\n\n"

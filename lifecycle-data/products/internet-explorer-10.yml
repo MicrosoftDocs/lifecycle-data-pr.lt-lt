@@ -1,16 +1,19 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Internet Explorer 10\""
-  description: "\"Internet Explorer 10\" laikosi komponento palaikymo trukmės strategijos."
+  title: Internet Explorer 10
+  description: „Internet Explorer 10“ atitinka komponento ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1faf7eecca13c22c8c54ab7382dfcf21c637cb1f
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858918"
-name: "\"Internet Explorer 10\""
-summary: "\"Internet Explorer 10\" laikosi [komponento](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) palaikymo trukmės strategijos.\n\n\n"
+name: Internet Explorer 10
+summary: >+
+  „Internet Explorer 10“ atitinka [komponento](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) ciklo palaikymo strategiją.
+
+
 products:
 - internet-explorer
 policyType: component
@@ -21,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/31/2020
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support)\n* [DUK apie \"Internet Explorer\" palaikymo trukmės strategiją](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Apsilankykite \"Internet Explorer\" palaikymo trukmės DUK, kuriame rasite palaikomų operacinių sistemų ir naršyklės derinių sąrašą."
+content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support)\n* [DUK apie „Internet Explorer“ palaikymo trukmės strategiją](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Apsilankykite „Internet Explorer“ ciklo palaikymo DUK, kuriame rasite palaikomų operacinių sistemų ir naršyklės derinių sąrašą."
