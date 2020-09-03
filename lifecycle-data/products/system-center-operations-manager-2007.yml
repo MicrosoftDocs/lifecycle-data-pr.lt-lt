@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: System Center Operations Manager 2007 Sistemos centro Operations Manager 2007
-  description: System Center Operations Manager 2007 po fiksuoto palaikymo trukmės strategija.
+  title: „System Center Operations Manager 2007“
+  description: „System Center Configuration Manager 2007“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8efa21f33b388d13bbe5ca14c03dc2275d9d5b78
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "829596"
-name: System Center Operations Manager 2007 Sistemos centro Operations Manager 2007
-summary: "System Center Operations Manager 2007 po [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategija.\n\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas. Žiūrėkite toliau pateiktas išsiskyrimo gaires. \n"
+name: „System Center Operations Manager 2007“
+summary: "„System Center Operations Manager 2007“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.\n\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas. Žiūrėkite toliau pateiktas perkėlimo gaires. \n"
 products:
 - msc
 policyType: fixed
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 06/23/2007
   endDate: 04/14/2009
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)\n* [Pakeitimų paketų strategija](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)\n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: SoftGrid taikomosios programos virtualizavimas
-  description: SoftGrid programos virtualizavimas po fiksuoto palaikymo trukmės strategija.
+  title: „SoftGrid Application Virtualization“
+  description: „SoftGrid Application Virtualization“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 17b8078138b718a634c2561ac4b1e73f3966ce24
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "829066"
-name: SoftGrid taikomosios programos virtualizavimas
+name: „SoftGrid Application Virtualization“
 summary: >
-  SoftGrid programos virtualizavimas po [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategija.
+  „SoftGrid Application Virtualization“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
 
 
   Tai taikoma šiems leidimams: 4.1 staliniams kompiuteriams, 4.2 staliniams kompiuteriams, terminalų tarnyboms 4.1
@@ -19,7 +19,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Palaikymas baigėsi. Žiūrėkite toliau pateiktas išsiskyrimo gaires.
+  > Palaikymas baigėsi. Žiūrėkite toliau pateiktas perkėlimo gaires.
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/25/2007
   endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Leidimai \n* 4.1 staliniams kompiuteriams\n* 4.2 staliniams kompiuteriams\n* terminalų paslaugų 4,1"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Leidimai \n* 4.1 staliniams kompiuteriams\n* 4.2 staliniams kompiuteriams\n* terminalų tarnyboms 4.1"

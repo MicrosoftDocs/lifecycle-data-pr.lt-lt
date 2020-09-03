@@ -1,16 +1,19 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Microsoft Office Business Scorecard Manager 2005\" veiklos rodiklių tvarkytuvas"
-  description: "\"Microsoft Office Business Scorecard Manager 2005\" atitinka fiksuoto palaikymo trukmės strategiją."
+  title: „Microsoft Office Business Scorecard Manager 2005“
+  description: „Microsoft Office Business Scorecard Manager 2005“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: bc345248ceba7c8f2cac730bc1141a0dae32d398
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830052"
-name: "\"Microsoft Office Business Scorecard Manager 2005\" veiklos rodiklių tvarkytuvas"
-summary: "\"Microsoft Office Business Scorecard Manager 2005\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\n\n"
+name: „Microsoft Office Business Scorecard Manager 2005“
+summary: >+
+  „Microsoft Office Business Scorecard Manager 2005“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
 products:
 - office
 policyType: fixed
@@ -22,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 12/27/2005
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](https://blogs.msdn.microsoft.com/performancepoint/2016/04/06/end-of-support-for-business-scorecard-accelerator-and-business-scorecard-manager-2005)\n\n> [!NOTE]\n> Business Scorecard Manager 2005 palaikymas baigėsi 2016-01-12."
+content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](https://blogs.msdn.microsoft.com/performancepoint/2016/04/06/end-of-support-for-business-scorecard-accelerator-and-business-scorecard-manager-2005)\n\n> [!NOTE]\n> „Business Scorecard Manager 2005“ palaikymas baigėsi 2016 m. sausio 12 d."

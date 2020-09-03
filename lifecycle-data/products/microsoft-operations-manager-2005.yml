@@ -1,16 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Operations Manager (MOM) 2005
-  description: "\"Microsoft Operations Manager\" (MOM) 2005 m. atitinka fiksuoto palaikymo trukmės strategiją."
+  title: „Microsoft Operations Manager (MOM) 2005“
+  description: „Microsoft Operations Manager (MOM) 2005“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 537a6fbd4ff1d9f82a9ffd0dcd3b456bee05cc55
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "829099"
-name: Microsoft Operations Manager (MOM) 2005
-summary: "\"Microsoft Operations Manager\" (MOM) 2005 m. atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\nTai taikoma šiems leidimams: Darbo grupė\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas.\n"
+name: „Microsoft Operations Manager (MOM) 2005“
+summary: >
+  „Microsoft Operations Manager (MOM) 2005“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
+  Tai taikoma šiems leidimams: „Workgroup“
+
+
+  > [!IMPORTANT]
+
+  > Baigėsi šio produkto palaikymas.
 products:
 - msc
 policyType: fixed
@@ -25,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 11/24/2004
   endDate: 10/10/2006
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Pakeitimų paketų strategija](/lifecycle/policies/fixed#service-packs)\n* [Operacijų vadovas](/system-center/scom/welcome?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Workgroup\n\nraktažodžiai: MOM"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)\n* [„Operations Manager“](/system-center/scom/welcome?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Workgroup“\n\nRaktiniai žodžiai:  „MOM“"
