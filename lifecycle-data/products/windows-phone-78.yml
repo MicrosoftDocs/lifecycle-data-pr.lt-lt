@@ -1,16 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Windows Phone\" 7.8"
-  description: "\"Windows Phone 7.8\" atitinka fiksuoto palaikymo trukmės strategiją."
+  title: „Windows Phone 7.8“
+  description: „Windows Phone 7.8“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7ca5bd0f56f415c7c686e60ef7931172ce97a495
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859226"
-name: "\"Windows Phone\" 7.8"
-summary: "\"Windows Phone 7.8\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas.\n"
+name: „Windows Phone 7.8“
+summary: >
+  „Windows Phone 7.8“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
+
+  > [!IMPORTANT]
+
+  > Baigėsi šio produkto palaikymas.
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -21,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 02/09/2013
   endDate: 10/14/2014
-content: "\n\n> [!NOTE]\n> \"Microsoft\" 18 mėnesių nuo palaikymo trukmės pradžios datos telefone pateiks operacinės sistemos naujinimus, įskaitant saugos naujinimus. Naujinimų platinimą gali valdyti mobiliojo ryšio operatorius arba telefono gamintojas, iš kurio įsigijote telefoną. Naujinimo pasiekiamumas taip pat skirsis atsižvelgiant į šalies, regiono ir aparatūros galimybes."
+content: "\n\n> [!NOTE]\n> „Microsoft“ mažiausiai 18 mėnesių nuo ciklo pradžios datos pateiks operacinės sistemos naujinimus jūsų telefono operacinei sistemai, įskaitant saugos naujinimus. Naujinimų platinimą gali kontroliuoti mobiliojo ryšio operatorius arba telefono gamintojas, iš kurio įsigijote telefoną. Naujinimo pasiekiamumas taip pat priklausys nuo šalies, regiono ir aparatūros galimybių."
