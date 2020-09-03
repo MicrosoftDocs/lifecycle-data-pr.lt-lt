@@ -1,16 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows GSK Server 2008 Windows GSK Server 2008 Windows GSK Server 2008 Windows G
-  description: "\"Windows HPC Server 2008\" atitinka fiksuoto palaikymo trukmės strategiją."
+  title: „Windows HPC Server 2008“
+  description: „Windows HPC Server 2008“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: e208be03e69f56dc9f77409668c4f4f538a57997
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "829559"
-name: Windows GSK Server 2008 Windows GSK Server 2008 Windows GSK Server 2008 Windows G
-summary: "\"Windows HPC Server 2008\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\nTai taikoma šiems leidimams: Standard, be Hyper-V\n\n> [!IMPORTANT]\n> Palaikymas baigėsi. Žiūrėkite toliau pateiktas išsiskyrimo gaires.\n"
+name: „Windows HPC Server 2008“
+summary: >
+  „Windows HPC Server 2008“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
+  Tai taikoma šiems leidimams: „Standard“, be „Hyper-V“
+
+
+  > [!IMPORTANT]
+
+  > Palaikymas baigėsi. Žiūrėkite toliau pateiktas perkėlimo gaires.
 products:
 - windows
 policyType: fixed
@@ -25,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 12/30/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](https://aka.ms/AA1ovn4)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Standartinis\n* be Hyper-V"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](https://aka.ms/AA1ovn4)\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Standard“\n* be „Hyper-V“"

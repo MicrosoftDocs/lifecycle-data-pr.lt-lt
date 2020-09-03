@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Visual J# versija 2.0 perskirstomojo paketo Antrasis leidimas
-  description: Microsoft Visual J# versija 2.0 perskirstomojo paketo antrasis leidimas taip fiksuoto palaikymo trukmės strategija.
+  title: „Microsoft Visual J# Version 2.0 Redistributable Package Second Edition“
+  description: „Microsoft Visual J# versija 2.0 Redistributable Package Second Edition“ atitinka fiksuotojo ciklo palaikymo  strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 13e81d8ba84a4aede4cd4df18a7e40d55de1d3dc
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "829231"
-name: Microsoft Visual J# versija 2.0 perskirstomojo paketo Antrasis leidimas
-summary: >+
-  Microsoft Visual J# versija 2.0 perskirstomojo paketo antrasis leidimas taip [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategija.
-
-
+name: „Microsoft Visual J# Version 2.0 Redistributable Package Second Edition“
+summary: "„Microsoft Visual J# versija 2.0 Redistributable Package Second Edition“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\n\n"
 products:
 - vs
 policyType: fixed
@@ -25,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 08/27/2007
   endDate: 10/10/2017
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Visual J# palaikymo informacija](https://msdn.microsoft.com/vstudio/bb188593)\n\n> [!NOTE]\n> Baigėsi šio produkto palaikymas. Toliau pateikiamos nuorodos į migraciją."
+content: "\n## <a name=\"links\"></a>Saitai \n* [„Visual J#“ palaikymo informacija](https://msdn.microsoft.com/vstudio/bb188593)\n\n> [!NOTE]\n> Baigėsi šio produkto palaikymas. Toliau pateikiamos nuorodos dėl perkėlimo."

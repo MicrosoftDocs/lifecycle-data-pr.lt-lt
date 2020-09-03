@@ -1,16 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Microsoft Forefront Threat Management Gateway\", \"Medium Business Edition\""
-  description: "\"Microsoft Forefront Threat Management Gateway\", \"Medium Business Edition\" laikosi fiksuoto palaikymo trukmės strategijos."
+  title: „Microsoft Forefront Threat Management Gateway“, vidutinio verslo leidimas
+  description: „Microsoft Forefront Threat Management Gateway“, „Medium Business Edition“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3c131da862f2972fbb5afe704f499ea4e649df78
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "829692"
-name: "\"Microsoft Forefront Threat Management Gateway\", \"Medium Business Edition\""
-summary: "\"Microsoft Forefront Threat Management Gateway\", \"Medium Business Edition\" laikosi [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategijos.\n\nTai taikoma šiems leidimams: \"Business\"\n\n"
+name: „Microsoft Forefront Threat Management Gateway“, vidutinio verslo leidimas
+summary: >+
+  „Microsoft Forefront Threat Management Gateway“, „Medium Business Edition“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
+  Tai taikoma šiems leidimams: „Business“
+
 products:
 - office
 policyType: fixed
@@ -22,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/12/2008
   endDate: 11/12/2018
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Verslo"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Business“"

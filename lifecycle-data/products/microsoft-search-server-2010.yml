@@ -1,16 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Rodyti originalų straipsnį anglų kalba: 3114555'
-  description: "\"Microsoft Search Server 2010\" atitinka fiksuoto palaikymo trukmės strategiją."
+  title: „Microsoft Search Server 2010“
+  description: „Microsoft Search Server 2010“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 736253699cf6033278b0f49fbf90bd2289a1b9a6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "829659"
-name: 'Rodyti originalų straipsnį anglų kalba: 3114555'
-summary: "\"Microsoft Search Server 2010\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\nTai taikoma šiems leidimams: Visiems taikomiems,\n\n"
+name: „Microsoft Search Server 2010“
+summary: >+
+  „Microsoft Search Server 2010“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
+  Tai taikoma šiems leidimams: „All applicable“, „Express“
+
 products:
 - office
 policyType: fixed
@@ -25,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Visos taikomos\n* Express"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Visos taikomos\n* „Express“"

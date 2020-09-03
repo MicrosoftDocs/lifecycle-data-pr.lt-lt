@@ -1,16 +1,19 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Microsoft\" informacinės interneto paslaugos 7.5"
-  description: "\"Microsoft\" interneto informacijos tarnybų 7.5 atitinka komponento palaikymo trukmės strategiją."
+  title: „Microsoft Internet Information Services 7.5“
+  description: „Microsoft Internet Information Services 7.5“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 22b88b7209f8aea2ae47d7486d5c946008768d76
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830061"
-name: "\"Microsoft\" informacinės interneto paslaugos 7.5"
-summary: "\"Microsoft\" interneto informacijos tarnybų 7.5 atitinka [komponento](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) palaikymo trukmės strategiją.\n\n\n"
+name: „Microsoft Internet Information Services 7.5“
+summary: >+
+  „Microsoft Internet Information Services 7.5“ atitinka [fiksuotojo](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) ciklo palaikymo strategiją.
+
+
 products:
 - windows
 policyType: component
@@ -19,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/22/2009
-content: "> [!TIP]\n> Šis leidimas yra žinomas kaip komponentas, kuris po palaikymo trukmės jos pagrindinis produktas, Windows 7 ir Windows Server 2008 R2\n\n## <a name=\"links\"></a>Nuorodos \n* [\"Windows Server 2008 R2\"](/lifecycle/products/windows-server-2008-r2)"
+content: "> [!TIP]\n> Šis leidimas yra žinomas kaip komponentas, kuris atitinka pagrindinio produkto, „Windows 7“ ir „Windows Server 2008 R2“, ciklo palaikymo strategiją\n\n## <a name=\"links\"></a>Saitai \n* [„Windows Server 2008 R2“](/lifecycle/products/windows-server-2008-r2)"
