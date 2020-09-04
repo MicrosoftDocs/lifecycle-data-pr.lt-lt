@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: "\"Groove\" 3,1"
+  description: "\"Groove\" 3,1 seka pagal nustatytą gyvavimo ciklo strategiją."
+  ms.date: 09/03/2020
+  keywords: Enterprise Backup Service,Enterprise Data Bridge,Enterprise Relay Server,Hosted Management Services,Hosted Relay Services,Office Project,Virtual Office File Sharing,Virtual Office Professional,Web Services Development Kit
+  ms.openlocfilehash: 19dab25c567ea1b34565a675dffe9c99c6c21ba5
+  ms.sourcegitcommit: 59291eb409a67c9e002fd0e45e37aca76d599df0
+  ms.translationtype: MT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 09/03/2020
+  ms.locfileid: "950855"
+name: "\"Groove\" 3,1"
+summary: "\"Groove\" 3,1 seka pagal [nustatytą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\nTai taikoma šiems leidimams: \"Enterprise Backup Service\", \"Enterprise\" duomenų tilto, \"Enterprise Relay Server\", nuomojamų išteklių valdymo tarnybų, nuomojamų išteklių transliavimo tarnybų, \"Office Project\", virtualaus \"Office\" failų naudojimo, virtualaus \"Office Professional\", žiniatinklio tarnybų\n\n"
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 07/01/2004
+  end: 04/16/2010
+releases:
+- version: Original Release
+  startDate: 07/01/2004
+  endDate: 04/16/2010
+content: "\n\n\n## <a name=\"editions\"></a>Leidimai \n* Įmonės atsarginio kopijavimo tarnyba\n* Įmonės duomenų tiltas\n* Enterprise Relay serveris\n* Nuomojamų išteklių valdymo tarnybos\n* Nuomojamų išteklių perdavimo paslaugos\n* \"Office\" projektas\n* Virtualaus \"Office\" failų bendras vaizdas\n* Virtualus \"Office Professional\"\n* Žiniatinklio tarnybų kūrimo rinkinys"
