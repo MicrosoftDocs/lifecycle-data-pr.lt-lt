@@ -1,16 +1,19 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Parature iš Microsoft
-  description: "\"Parature\", iš \"Microsoft\" laikosi šiuolaikinės palaikymo trukmės strategijos."
+  title: „Parature“ iš „Microsoft“
+  description: „Parature“ iš „Windows“ atitinka šiuolaikinę ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: ec9af75ad6501403aa83c803d54630069c7b3f0a
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858819"
-name: Parature iš Microsoft
-summary: "\"Parature\", iš \"Microsoft\" laikosi [šiuolaikinės](/lifecycle/policies/modern) palaikymo trukmės strategijos.\n\n\n"
+name: „Parature“ iš „Microsoft“
+summary: >+
+  „Parature“ iš „Windows“ atitinka [šiuolaikinę](/lifecycle/policies/modern) ciklo palaikymo strategiją.
+
+
 products:
 - dynamics
 policyType: modern-online
@@ -21,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2015
   endDate: 05/15/2018
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Palaikymo pabaigos skelbimas](https://support.microsoft.com/help/4035128)\n* [Parature migracijos palaikymo portalas](https://aka.ms/paraturecustomers)"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Palaikymo pabaigos data](https://support.microsoft.com/help/4035128)\n* [„Parature“ perkėlimo palaikymo portalas](https://aka.ms/paraturecustomers)"

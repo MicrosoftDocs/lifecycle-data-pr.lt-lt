@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 2 reiškinys
-  description: 2 išraiška atitinka nustatytą gyvavimo ciklo strategiją.
+  title: „Expression 2“
+  description: „Expression 2“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 09/01/2020
   keywords: Blend,Design,Encoder,Studio,Web
   ms.openlocfilehash: 5186f4bbb53b110f625835b0250418a4594bf78b
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930833"
-name: 2 reiškinys
-summary: "2 išraiška atitinka [nustatytą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\nTai taikoma šiems leidimams: blend, dizainas, Encoder, Studio, Web\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas. \n"
+name: „Expression 2“
+summary: "„Expression 2“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.\n\nTai taikoma šiems leidimams: „Blend“, „Design“, „Encoder“, „Studio“, „Web“\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas. \n"
 products:
 - expression
 policyType: fixed
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/24/2008
   endDate: 10/09/2018
-content: "\n\n\n## <a name=\"editions\"></a>Leidimai \n* Mišinys\n* Dizainas\n* Koduotuvo\n* Studio\n* Žiniatinklis"
+content: "\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Blend“\n* „Design“\n* „Encoder“\n* „Studio“\n* Žiniatinklis"

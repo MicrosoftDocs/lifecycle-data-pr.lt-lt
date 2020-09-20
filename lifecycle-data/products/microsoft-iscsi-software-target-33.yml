@@ -1,16 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft iSCSI programinės įrangos tikslinės 3,3
-  description: "\"Microsoft\" iSCSI programinės įrangos paskirties 3.3 atitinka komponento palaikymo trukmės strategiją."
+  title: „Microsoft iSCSI Software Target 3.3“
+  description: „Microsoft iSCSI Software Target 3.3“ atitinka komponento ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: c8ae05506cdc5e83920e82e4cc6bcfef3c03863e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858891"
-name: Microsoft iSCSI programinės įrangos tikslinės 3,3
-summary: "\"Microsoft\" iSCSI programinės įrangos paskirties 3.3 atitinka [komponento](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) palaikymo trukmės strategiją.\n\n\n> [!IMPORTANT]\n> Šio komponento palaikymas baigėsi.\n"
+name: „Microsoft iSCSI Software Target 3.3“
+summary: >
+  „Microsoft iSCSI Software Target 3.3“ atitinka [fiksuotojo](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) ciklo palaikymo strategiją.
+
+
+
+  > [!IMPORTANT]
+
+  > Baigėsi šio produkto palaikymas.
 products:
 - windows
 policyType: component

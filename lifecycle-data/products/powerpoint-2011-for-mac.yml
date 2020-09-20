@@ -1,16 +1,19 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"PowerPoint 2011\", skirta \"Mac\""
-  description: "\"PowerPoint 2011 for Mac\" taikoma fiksuoto palaikymo trukmės strategija."
+  title: „PowerPoint 2011 for Mac“
+  description: „PowerPoint 2011 for Mac“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: d0fe8d525c158c363a39793b7e30850693dc93e5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859190"
-name: "\"PowerPoint 2011\", skirta \"Mac\""
-summary: "\"PowerPoint 2011 for Mac\" taikoma [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategija.\n\n\n"
+name: „PowerPoint 2011 for Mac“
+summary: >+
+  „PowerPoint 2011 for Mac“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
 products:
 - office
 policyType: fixed-mainstream-only
@@ -21,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Pagrindinis palaikymas Microsoft Office for Mac 2011 yra pratęstas, kaip parodyta, siekiant suteikti visiems klientams standartinę palaikymo trukmės perėjimą"
+content: "\n\n> [!NOTE]\n> Pagrindinis „Microsoft Office for Mac 2011“ palaikymas išplečiamas, kaip parodyta, kad visiems klientams būtų suteiktas standartinis laikas pereiti."

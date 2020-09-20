@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 4 reiškinys
-  description: 4 reiškinys atitinka nustatytą gyvavimo ciklo strategiją.
+  title: „Expression 4“
+  description: „Expression 4“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 09/01/2020
   keywords: Design,Encoder,Studio Ultimate,Web
   ms.openlocfilehash: ad3463184e4da721215fe51169c93401d2d9c848
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930870"
-name: 4 reiškinys
+name: „Expression 4“
 summary: >+
-  4 reiškinys atitinka [nustatytą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.
+  „Expression 4“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
 
 
-  Tai taikoma šiems leidimams: dizainas, Encoder, Studio Ultimate, Web
+  Tai taikoma šiems leidimams: „Design“, „Encoder“, „Studio Ultimate“, „Web“
 
 products:
 - expression
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/26/2010
   endDate: 07/14/2020
-content: "\n\n> [!NOTE]\n> \"Expression Studio Ultimate 4\" pagrindinio palaikymo pabaiga yra spalio 13, 2015.\n\n## <a name=\"editions\"></a>Leidimai \n* Dizainas\n* Koduotuvo\n* \"Studio Ultimate\"\n* Žiniatinklis"
+content: "\n\n> [!NOTE]\n> „Expression Studio Ultimate 4“ pagrindinio palaikymo pabaiga yra 2015 m. spalio 13 d.\n\n## <a name=\"editions\"></a>Leidimai \n* „Design“\n* „Encoder“\n* „Studio Ultimate“\n* Žiniatinklis"

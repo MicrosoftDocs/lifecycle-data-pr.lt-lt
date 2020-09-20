@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Internetinė "Skype" verslui
-  description: Internetinė "Skype" verslui taikoma šiuolaikinės palaikymo trukmės strategija.
+  title: „Skype“ verslui tinkle
+  description: „Skype for Business Online“ atitinka šiuolaikinę ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 68200f8b9758ff25b2515f027f39c91bddde4c7e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859151"
-name: Internetinė "Skype" verslui
+name: „Skype“ verslui tinkle
 summary: >
-  Internetinė "Skype" verslui taikoma [šiuolaikinės](/lifecycle/policies/modern) palaikymo trukmės strategija.
+  „Skype for Business Online“ atitinka [šiuolaikinę](/lifecycle/policies/modern) ciklo palaikymo strategiją.
 
 
 
   > [!IMPORTANT]
 
-  > Ši paslauga bus išeiti į pensiją liepos 31, 2021. Toliau pateikiamos nuorodos į migraciją.
+  > Ši paslauga bus nutraukta 2021 m. liepos 31 d. Toliau pateikiamos nuorodos dėl perkėlimo.
 products:
 - office
 policyType: modern-online
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2015
   endDate: 07/31/2021
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](/MicrosoftTeams/upgrade-start-here)"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](/MicrosoftTeams/upgrade-start-here)"

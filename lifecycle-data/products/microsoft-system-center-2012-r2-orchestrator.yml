@@ -1,16 +1,19 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Rodyti originalų straipsnį 308555
-  description: "\"Microsoft System Center 2012 R2 Orchestrator\" laikosi fiksuoto palaikymo trukmės strategijos."
+  title: „Microsoft System Center 2012 R2 Orchestrator“
+  description: „Microsoft System Center 2012 R2 Orchestrator“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: e67c79ef282808b0523d525c2bd1ad8079cf3e06
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858857"
-name: Rodyti originalų straipsnį 308555
-summary: "\"Microsoft System Center 2012 R2 Orchestrator\" laikosi [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategijos.\n\n\n"
+name: „Microsoft System Center 2012 R2 Orchestrator“
+summary: >+
+  „Microsoft System Center 2012 R2 Orchestrator“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
 products:
 - msc
 policyType: fixed
@@ -22,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/16/2014
   endDate: 07/12/2022
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Sistemos centro dokumentacija](/system-center/#pivot=components&panel=components-all)\n* [Sistemos centro ištekliai](https://www.microsoft.com/system-center/resources)"
+content: "\n## <a name=\"links\"></a>Saitai \n* [„System Center Documentation“](/system-center/#pivot=components&panel=components-all)\n* [„System Center Resources“](https://www.microsoft.com/system-center/resources)"
