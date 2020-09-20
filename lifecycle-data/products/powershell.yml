@@ -1,17 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: PowerShell
-  description: "\"PowerShell\" laikosi šiuolaikinės naudojimo trukmės strategijos."
+  title: „PowerShell“
+  description: „PowerShell“ atitinka šiuolaikinę ciklo palaikymo strategiją.
   ms.date: 09/02/2020
   keywords: ''
   ms.openlocfilehash: 5819d863d735920cdb08f70b8280348c152ca27c
   ms.sourcegitcommit: 33a446990607d1c24303bd86e45d4e4de34e56a5
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 09/02/2020
   ms.locfileid: "945227"
-name: PowerShell
-summary: "\"PowerShell\" laikosi [šiuolaikinės](/lifecycle/policies/modern) naudojimo trukmės strategijos.\n\n\n"
+name: „PowerShell“
+summary: >+
+  „PowerShell“ atitinka [šiuolaikinę](/lifecycle/policies/modern) ciklo palaikymo strategiją.
+
+
 products:
 - windows
 policyType: modern-online
@@ -31,4 +34,4 @@ releases:
 - version: PowerShell 6.x
   startDate: 01/19/2018
   endDate: 09/04/2020
-content: "\n## <a name=\"links\"></a>Saitai \n* [Techninės priežiūros informacija](https://aka.ms/pslifecycle)\n\n> [!NOTE]\n> Peržiūrėkite išsamią \"PowerShell\" palaikymo trukmės informaciją, esančią saitą aptarnavimo informacija."
+content: "\n## <a name=\"links\"></a>Saitai \n* [Techninės priežiūros informacija](https://aka.ms/pslifecycle)\n\n> [!NOTE]\n> Išsamios „PowerShell“ ciklo palaikymo informacijos ieškokite techninės priežiūros informacijos saite."

@@ -1,17 +1,22 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft 365
-  description: "\"Microsoft 365\" stebi šiuolaikinę gyvavimo ciklo strategiją."
+  description: „Microsoft 365“ atitinka šiuolaikinę palaikymo strategiją.
   ms.date: 09/01/2020
   keywords: Business,Education,Enterprise,Government
   ms.openlocfilehash: 49d1c65ad462a3ce987df621004cf7341ac4aa23
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "935976"
-name: Microsoft 365
-summary: "\"Microsoft 365\" stebi [šiuolaikinę](/lifecycle/policies/modern) gyvavimo ciklo strategiją.\n\nTai taikoma šiems leidimams: verslui, švietimo įstaigoms, įmonėms, vyriausybei\n\n"
+name: „Microsoft 365“
+summary: >+
+  „Microsoft 365“ atitinka [šiuolaikinę](/lifecycle/policies/modern) ciklo palaikymo strategiją.
+
+
+  Tai taikoma šiems leidimams: „Business“, „Education“, „Enterprise“, „Government“
+
 products:
 - office
 policyType: modern-online
@@ -20,4 +25,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 09/22/2015
-content: "\n## <a name=\"links\"></a>Saitai \n* [\"Microsoft 365\" veiksmų planas](https://www.microsoft.com/microsoft-365/roadmap)\n* [Sistemos reikalavimai](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Business“\n* „Education“\n* „Enterprise“\n* Government"
+content: "\n## <a name=\"links\"></a>Saitai \n* [„Microsoft 365“ veiksmų planas](https://www.microsoft.com/microsoft-365/roadmap)\n* [Sistemos reikalavimai](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Business“\n* „Education“\n* „Enterprise“\n* Vyriausybė"

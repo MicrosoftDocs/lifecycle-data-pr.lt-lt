@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Windows\" saugyklos serverio 2003 R2"
-  description: "\"Windows\" saugyklos serverio 2003 R2 atitinka nustatytą gyvavimo ciklo strategiją."
+  title: „Windows Storage Server 2003 R2“
+  description: „Windows Storage Server 2003 R2“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 0bbf6a9de795da54ad932124e857b89fa09d55e2
   ms.sourcegitcommit: 37ac01a1d5492bb2bf54cbd018ea34074db8c998
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "940898"
-name: "\"Windows\" saugyklos serverio 2003 R2"
-summary: "\"Windows\" saugyklos serverio 2003 R2 atitinka [nustatytą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\nTai taikoma šiems leidimams: „Standard“\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas.\nŠis produktas siunčiamas su \"Windows Server\" 2003 1 pakeitimų paketu. \n"
+name: „Windows Storage Server 2003 R2“
+summary: "„Windows Storage Server 2003 R2“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.\n\nTai taikoma šiems leidimams: „Standard“\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas.\nŠis produktas pateikiamas su „Windows Server 2003“ 1 pakeitimų paketu. \n"
 products:
 - windows
 policyType: fixed

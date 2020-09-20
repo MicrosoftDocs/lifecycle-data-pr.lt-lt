@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: SQL serverio 2019
-  description: SQL serverio 2019 atitinka nustatytą gyvavimo ciklo strategiją.
+  title: „SQL Server 2019“
+  description: „SQL Server 2019“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 09/01/2020
   keywords: on Linux (all editions),on Windows (all editions)
   ms.openlocfilehash: e80b4d51844a591f9c912932761d121d9c0d6d37
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937974"
-name: SQL serverio 2019
+name: „SQL Server 2019“
 summary: >+
-  SQL serverio 2019 atitinka [nustatytą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.
+  „SQL Server 2019“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
 
 
-  Tai taikoma šiems leidimams: "Linux" (visi leidimai), "Windows" (visi leidimai)
+  Tai taikoma šiems leidimams: „Linux“ (visi leidimai), „Windows“ (visi leidimai)
 
 products:
 - sql-server
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/04/2019
   endDate: 01/08/2030
-content: "\n## <a name=\"links\"></a>Saitai \n* [Techninės priežiūros informacija](https://blogs.msdn.microsoft.com/sqlreleaseservices/announcing-the-modern-servicing-model-for-sql-server/)\n\n\n## <a name=\"editions\"></a>Leidimai \n* \"Linux\" (visi leidimai)\n* Sistemoje \"Windows\" (visi leidimai)"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Techninės priežiūros informacija](https://blogs.msdn.microsoft.com/sqlreleaseservices/announcing-the-modern-servicing-model-for-sql-server/)\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Linux“ (visi leidimai)\n* sistemoje „Windows“ (visi leidimai)"
