@@ -1,16 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Virtual PC 2007
-  description: "\"Virtual PC 2007\" atitinka fiksuoto palaikymo trukmės strategiją."
+  title: „Virtual PC 2007“
+  description: „Virtual PC 2007“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: f4c016f39a3c567e73c1f143299d4cbe59a6f528
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "829587"
-name: Virtual PC 2007
-summary: "\"Virtual PC 2007\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas.\n"
+name: „Virtual PC 2007“
+summary: >
+  „Virtual PC 2007“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
+
+  > [!IMPORTANT]
+
+  > Baigėsi šio produkto palaikymas.
 products:
 - windows
 policyType: fixed
@@ -25,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 05/05/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Pakeitimų paketų strategija](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)"

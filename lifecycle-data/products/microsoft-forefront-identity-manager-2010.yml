@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Rodyti originalų pranešimą iš Microsoft Forefront Identity Manager 2010
-  description: Microsoft Forefront Identity Manager 2010 po fiksuoto palaikymo strategija.
+  title: „Microsoft Forefront Identity Manager 2010“
+  description: „Microsoft Forefront Identity Manager 2010“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9b76ebc222ff94ed78ae77e18623f18557e8ac38
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "829695"
-name: Rodyti originalų pranešimą iš Microsoft Forefront Identity Manager 2010
+name: „Microsoft Forefront Identity Manager 2010“
 summary: >+
-  Microsoft Forefront Identity Manager 2010 po [fiksuoto](/lifecycle/policies/fixed) palaikymo strategija.
+  „Microsoft Forefront Identity Manager 2010“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 05/27/2010
   endDate: 10/11/2022
-content: "\n\n> [!NOTE]\n> Pagrindinis ir išplėstinis \"Microsoft Forefront Identity Manager 2010\" palaikymas yra išplėstas, kaip parodyta, kad visiems klientams būtų suteikta standartinė palaikymo trukmės perėjimo laiko juosta."
+content: "\n\n> [!NOTE]\n> Pagrindinis ir pratęstas, skirtas „Microsoft Forefront Identity Manager 2010“, palaikymas išplečiamas, kaip parodyta, kad visiems klientams būtų suteiktas standartinis palaikymo perėjimas."
