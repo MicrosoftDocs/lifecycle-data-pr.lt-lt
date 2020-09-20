@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"System Center\" ataskaitų instruktorius 2006"
-  description: System Center Reporting Manager 2006 po fiksuoto palaikymo trukmės strategija.
+  title: „System Center Reporting Manager 2006“
+  description: „System Center Reporting Manager 2006“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 472619ad5c47b8f0e8ff33bf769094c5edc6c58f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "829594"
-name: "\"System Center\" ataskaitų instruktorius 2006"
+name: „System Center Reporting Manager 2006“
 summary: >
-  System Center Reporting Manager 2006 po [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategija.
+  „System Center Reporting Manager 2006“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
 
 
 
   > [!IMPORTANT]
 
-  > Baigėsi šio produkto palaikymas. Žiūrėkite toliau pateiktas išsiskyrimo gaires.
+  > Baigėsi šio produkto palaikymas. Žiūrėkite toliau pateiktas perkėlimo gaires.
 products:
 - msc
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 09/17/2006
   endDate: 10/11/2016
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Migracijos gairės](https://blogs.technet.microsoft.com/momteam/2016/10/06/microsoft-system-center-reporting-manager-2006-end-of-support)"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](https://blogs.technet.microsoft.com/momteam/2016/10/06/microsoft-system-center-reporting-manager-2006-end-of-support)"

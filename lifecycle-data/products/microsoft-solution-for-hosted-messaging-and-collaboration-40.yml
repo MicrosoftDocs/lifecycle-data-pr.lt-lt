@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Microsoft\" sprendimas nuomojamų išteklių pranešimų ir bendradarbiavimo 4,0"
-  description: "\"Microsoft\" nuomojamų išteklių pranešimų ir bendradarbiavimo 4.0 sprendimas atitinka fiksuoto palaikymo trukmės strategiją."
+  title: „Microsoft“ sprendimas, skirtas „Hosted Messaging and Collaboration 4.0“
+  description: „Microsoft“ sprendimas, skirtas „Hosted Messaging and Collaboration 4.0“, atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: d5aad6d836257bdbd054a1e385c6268769a1da05
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "829239"
-name: "\"Microsoft\" sprendimas nuomojamų išteklių pranešimų ir bendradarbiavimo 4,0"
-summary: "\"Microsoft\" nuomojamų išteklių pranešimų ir bendradarbiavimo 4.0 sprendimas atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\n\n"
+name: „Microsoft“ sprendimas, skirtas „Hosted Messaging and Collaboration 4.0“
+summary: "„Microsoft“ sprendimas, skirtas „Hosted Messaging and Collaboration 4.0“, atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\n\n"
 products:
 - windows
 policyType: fixed-mainstream-only

@@ -1,16 +1,19 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Rodyti originalų straipsnį anglų kalba: 3115555'
-  description: "\"Microsoft Lync for Mac 2011\" atitinka fiksuoto palaikymo trukmės strategiją."
+  title: „Microsoft Lync for Mac 2011“
+  description: „Microsoft Lync for Mac 2011“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 207ed38b1b2ea1ec21b7f89d565df627ab2e7c42
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "829117"
-name: 'Rodyti originalų straipsnį anglų kalba: 3115555'
-summary: "\"Microsoft Lync for Mac 2011\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\n\n"
+name: „Microsoft Lync for Mac 2011“
+summary: >+
+  „Microsoft Lync for Mac 2011“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
 products:
 - office
 policyType: fixed
@@ -22,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 10/09/2018
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [\"Skype\" verslui \"Mac\" kompiuteryje](https://www.microsoft.com/download/details.aspx?id=54108)\n\n> [!NOTE]\n> Microsoft Lync for Mac 2011 palaikymas yra išplėstas, kaip parodyta, siekiant suteikti visiems klientams palaikymo trukmės perėjimo laiko juostą į \"Skype\" Business \"Mac\"."
+content: "\n## <a name=\"links\"></a>Saitai \n* [„Skype Business“, skirta „Mac“](https://www.microsoft.com/download/details.aspx?id=54108)\n\n> [!NOTE]\n> „Microsoft Lync for Mac 2011“ palaikymas yra pratęstas, kaip parodyta, siekiant suteikti visiems klientams laiko pereiti į „Skype for Business“, skirto „Mac“, ciklo palaikymą."

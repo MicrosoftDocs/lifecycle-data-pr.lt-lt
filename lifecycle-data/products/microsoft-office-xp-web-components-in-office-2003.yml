@@ -1,16 +1,19 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office XP žiniatinklio komponentai office 2003
-  description: "\"Microsoft Office XP\" žiniatinklio komponentai office 2003 atitinka komponento palaikymo trukmės strategiją."
+  title: „Microsoft Office XP“ žiniatinklio komponentai, skirti „Office 2003“ sistemai
+  description: „Microsoft Office XP“ žiniatinklio komponentai, skirti „2003 Microsoft Office“ sistemai, atitinka komponento ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71e1eeae85bb7963657d0aa63bbe6361221ea7a6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "829110"
-name: Microsoft Office XP žiniatinklio komponentai office 2003
-summary: "\"Microsoft Office XP\" žiniatinklio komponentai office 2003 atitinka [komponento](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) palaikymo trukmės strategiją.\n\n\n"
+name: „Microsoft Office XP“ žiniatinklio komponentai, skirti „Office 2003“ sistemai
+summary: >+
+  „Microsoft Office XP“ žiniatinklio komponentai, skirti „Office 2003“ sistemai, atitinka [komponento](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) ciklo palaikymo strategiją.
+
+
 products:
 - office
 policyType: component
