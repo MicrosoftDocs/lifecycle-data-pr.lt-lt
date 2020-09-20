@@ -1,17 +1,22 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Microsoft Enterprise\" darbalaukio virtualizavimo 2,0"
-  description: "\"Microsoft Enterprise\" darbalaukio virtualizavimo 2,0 atitinka fiksuotos trukmės strategiją."
+  title: „Microsoft Enterprise Desktop Virtualization 2.0“
+  description: „Microsoft Enterprise Desktop Virtualization 2.0“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 09/01/2020
   keywords: Enterprise
   ms.openlocfilehash: c389a7a61ffd7a171c58b70f1050657e82d736be
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933904"
-name: "\"Microsoft Enterprise\" darbalaukio virtualizavimo 2,0"
-summary: "\"Microsoft Enterprise\" darbalaukio virtualizavimo 2,0 atitinka [fiksuotos](/lifecycle/policies/fixed) trukmės strategiją.\n\nTai taikoma šiems leidimams: „Enterprise“\n\n"
+name: „Microsoft Enterprise Desktop Virtualization 2.0“
+summary: >+
+  „Microsoft Enterprise Desktop Virtualization 2.0“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
+  Tai taikoma šiems leidimams: „Enterprise“
+
 products:
 - windows
 policyType: fixed

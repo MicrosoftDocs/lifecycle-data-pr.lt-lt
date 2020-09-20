@@ -1,17 +1,22 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Microsoft Office 2004 for Mac\""
-  description: "\"Microsoft Office 2004 for Mac\" atitinka fiksuotą gyvavimo ciklo strategiją."
+  title: „Microsoft Office 2004“, skirta „Mac“
+  description: „Microsoft Office 2004 for Mac“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 09/01/2020
   keywords: Professional,Standard,Student and Teacher
   ms.openlocfilehash: 12b63fa73b4b6a4bfc393cc62234147382a6d46a
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "936857"
-name: "\"Microsoft Office 2004 for Mac\""
-summary: "\"Microsoft Office 2004 for Mac\" atitinka [fiksuotą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\nTai taikoma šiems leidimams: profesionalūs, standartiniai, studentai ir mokytojai\n\n"
+name: „Microsoft Office 2004“, skirta „Mac“
+summary: >+
+  „Microsoft Office 2004 for Mac“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
+  Tai taikoma šiems leidimams: „Professional“, „Standard“, „Student and Teacher“
+
 products:
 - office
 policyType: fixed

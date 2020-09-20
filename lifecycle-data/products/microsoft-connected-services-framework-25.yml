@@ -1,17 +1,22 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Microsoft Connected\" tarnybų sistema 2,5"
-  description: "\"Microsoft Connected\" tarnybų sistema 2,5 atitinka nustatytą gyvavimo ciklo strategiją."
+  title: „Microsoft Connected Services Framework 2.5“
+  description: „Microsoft Connected Services Framework 2.5“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 09/01/2020
   keywords: Order Handling Standard Business Event 2.5,Server,Service Provider
   ms.openlocfilehash: e0cdc315d310b2a6ed3c705261592af5be8ca851
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934126"
-name: "\"Microsoft Connected\" tarnybų sistema 2,5"
-summary: "\"Microsoft Connected\" tarnybų sistema 2,5 atitinka [nustatytą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\nTai taikoma šiems leidimams: užsakymo apdorojimo standartiniame verslo įvykiui 2,5, serveriui, paslaugų teikėjui\n\n"
+name: „Microsoft Connected Services Framework 2.5“
+summary: >+
+  „Microsoft Connected Services Framework 2.5“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
+  Tai taikoma šiems leidimams: „Order Handling Standard Business Event 2.5“, „Server“, „Service Provider“
+
 products:
 - connected-services-framework
 policyType: fixed
@@ -23,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/26/2005
   endDate: 10/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>Leidimai \n* Užsakymo apdorojimo standartinis verslo įvykis 2,5\n* Server\n* Paslaugų teikėjas"
+content: "\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Order Handling Standard Business Event 2.5“\n* Server\n* Paslaugų teikėjas"

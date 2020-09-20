@@ -1,27 +1,27 @@
 ---
 title: Gyvavimo ciklo duomenų eksportavimas
 description: Produkto gyvavimo ciklo informacijos eksportavimas
-ms.date: 09/14/2020
-ms.openlocfilehash: 66fc9fb6f5f5660380570bae8d69a327c9a1db80
-ms.sourcegitcommit: a246bd5f3f9227f1dbfca6471808b64cb076623a
+ms.date: 09/18/2020
+ms.openlocfilehash: eaaece725a9a3535c228d48598195b4b4a50401d
+ms.sourcegitcommit: 445dd417cde533a0479a2e7012b0a7bc5338e3a1
 ms.translationtype: MT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "1008473"
+ms.lasthandoff: 09/18/2020
+ms.locfileid: "1025038"
 ---
-# <a name="lifecycle-data-export"></a><span data-ttu-id="9a123-103">Gyvavimo ciklo duomenų eksportavimas</span><span class="sxs-lookup"><span data-stu-id="9a123-103">Lifecycle data export</span></span>
+# <a name="lifecycle-data-export"></a><span data-ttu-id="28891-103">Gyvavimo ciklo duomenų eksportavimas</span><span class="sxs-lookup"><span data-stu-id="28891-103">Lifecycle data export</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="9a123-104">Šis puslapis yra tobulinamas.</span><span class="sxs-lookup"><span data-stu-id="9a123-104">This page is under development.</span></span>
+> <span data-ttu-id="28891-104">Šis puslapis yra tobulinamas.</span><span class="sxs-lookup"><span data-stu-id="28891-104">This page is under development.</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="9a123-105">Visų produktų eksportavimas</span><span class="sxs-lookup"><span data-stu-id="9a123-105">Export all products</span></span>
-<span data-ttu-id="9a123-106">Visų produktų eksportavimo trukmės duomenis, spustelėję toliau:</span><span class="sxs-lookup"><span data-stu-id="9a123-106">Export lifecycle data for all products by clicking below:</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="28891-105">Visų produktų eksportavimas</span><span class="sxs-lookup"><span data-stu-id="28891-105">Export all products</span></span>
+<span data-ttu-id="28891-106">Visų produktų eksportavimo trukmės duomenis, spustelėję toliau:</span><span class="sxs-lookup"><span data-stu-id="28891-106">Export lifecycle data for all products by clicking below:</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="9a123-107">Visų produktų eksportavimas</span><span class="sxs-lookup"><span data-stu-id="9a123-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="28891-107">Visų produktų eksportavimas</span><span class="sxs-lookup"><span data-stu-id="28891-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-family-and-group"></a><span data-ttu-id="9a123-108">Produktų eksportavimas pagal šeimą ir grupę</span><span class="sxs-lookup"><span data-stu-id="9a123-108">Export products by Family and Group</span></span>
-<span data-ttu-id="9a123-109">Pasirinkite šeimą, tada – grupę, kurią eksportuosite.</span><span class="sxs-lookup"><span data-stu-id="9a123-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="9a123-110">Pastaba: eksportavimas prasidės pasirinkus grupės reikšmę.</span><span class="sxs-lookup"><span data-stu-id="9a123-110">Note: Export will begin when Group value is selected.</span></span> 
+## <a name="export-products-by-family-and-group"></a><span data-ttu-id="28891-108">Produktų eksportavimas pagal šeimą ir grupę</span><span class="sxs-lookup"><span data-stu-id="28891-108">Export products by Family and Group</span></span>
+<span data-ttu-id="28891-109">Pasirinkite šeimą, tada – grupę, kurią eksportuosite.</span><span class="sxs-lookup"><span data-stu-id="28891-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="28891-110">Pastaba: eksportavimas prasidės pasirinkus grupės reikšmę.</span><span class="sxs-lookup"><span data-stu-id="28891-110">Note: Export will begin when Group value is selected.</span></span> 
 
 > [!div class="op_multi_selector" title1="Šeimos" title2="Grupės"]
 > - [(.NET | Visi](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -83,8 +83,8 @@ ms.locfileid: "1008473"
 > - [("Windows" | Saugumo](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [("Windows" | Server](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="9a123-171">Produktų eksportavimas pagal palaikymo datą</span><span class="sxs-lookup"><span data-stu-id="9a123-171">Export products by end of support date</span></span>
-<span data-ttu-id="9a123-172">Pasirinkite metus, kad pamatytumėte produktus, kurie pasiekia palaikymo pabaigą.</span><span class="sxs-lookup"><span data-stu-id="9a123-172">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="9a123-173">Pastaba: eksportavimas prasidės, kai bus pažymėta metų reikšmė.</span><span class="sxs-lookup"><span data-stu-id="9a123-173">Note: Export will begin when Year value is selected.</span></span>
+## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="28891-171">Produktų eksportavimas pagal palaikymo datą</span><span class="sxs-lookup"><span data-stu-id="28891-171">Export products by end of support date</span></span>
+<span data-ttu-id="28891-172">Pasirinkite metus, kad pamatytumėte produktus, kurie pasiekia palaikymo pabaigą.</span><span class="sxs-lookup"><span data-stu-id="28891-172">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="28891-173">Pastaba: eksportavimas prasidės, kai bus pažymėta metų reikšmė.</span><span class="sxs-lookup"><span data-stu-id="28891-173">Note: Export will begin when Year value is selected.</span></span>
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))

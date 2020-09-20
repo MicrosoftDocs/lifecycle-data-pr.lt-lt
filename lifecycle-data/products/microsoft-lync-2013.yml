@@ -1,17 +1,22 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Lync 2013\""
-  description: "\"Lync 2013\" atitinka fiksuotos trukmės strategiją."
+  title: „Lync 2013“
+  description: „Lync 2013“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 09/01/2020
   keywords: SDK,Standard
   ms.openlocfilehash: a5523cba92283c421c42d23d9753864a0408bf01
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933349"
-name: "\"Lync 2013\""
-summary: "\"Lync 2013\" atitinka [fiksuotos](/lifecycle/policies/fixed) trukmės strategiją.\n\nTai taikoma šiems leidimams: SDK, Standard\n\n"
+name: „Lync 2013“
+summary: >+
+  „Lync 2013“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
+  Tai taikoma šiems leidimams: SDK, „Standard“
+
 products:
 - office
 policyType: fixed
@@ -23,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n> [!NOTE]\n> \"Skype\" verslui \"2015\" kliento leidimas yra \"Lync 2013\" kliento naujinimas ir bus laikomasi to paties produkto gyvavimo ciklo.\n\"Lync 2013\" SDK pradžios data yra vasario 23 d., 2013. \n\n## <a name=\"editions\"></a>Leidimai \n* „SDK“\n* „Standard“"
+content: "\n\n> [!NOTE]\n> „Skype for Business 2015“ kliento leidimas yra „Lync 2013“ kliento naujinimas ir atitiks tą patį produkto gyvavimo ciklą.\n„Lync 2013 SDK“ pradžios data yra 2013 m. vasario 23 d. \n\n## <a name=\"editions\"></a>Leidimai \n* „SDK“\n* „Standard“"
