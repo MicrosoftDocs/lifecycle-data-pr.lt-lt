@@ -1,16 +1,19 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Office 365\" (įmonė, vyriausybė, švietimas)"
-  description: "\"Office 365\" (įmonė, vyriausybė, švietimas) atitinka šiuolaikinės palaikymo trukmės strategiją."
+  title: „Office 365“ („Enterprise“, „Government“, „Education“)
+  description: „Office 365“ („Enterprise“, „Government“, „Education“) atitinka šiuolaikinę ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 81c940fa031fd8eea9e3895d72c1a046af048638
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858973"
-name: "\"Office 365\" (įmonė, vyriausybė, švietimas)"
-summary: "\"Office 365\" (įmonė, vyriausybė, švietimas) atitinka [šiuolaikinės](/lifecycle/policies/modern) palaikymo trukmės strategiją.\n\n\n"
+name: „Office 365“ („Enterprise“, „Government“, „Education“)
+summary: >+
+  „Office 365“ („Enterprise“, „Government“, „Education“) atitinka [šiuolaikinę](/lifecycle/policies/modern) ciklo palaikymo strategiją.
+
+
 products:
 - office
 policyType: modern-online
@@ -19,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 09/22/2015
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Sistemos reikalavimai](https://products.office.com/office-system-requirements)\n* [Techninės priežiūros informacija](https://technet.microsoft.com/library/mt584223.aspx)"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Sistemos reikalavimai](https://products.office.com/office-system-requirements)\n* [Techninės priežiūros informacija](https://technet.microsoft.com/library/mt584223.aspx)"

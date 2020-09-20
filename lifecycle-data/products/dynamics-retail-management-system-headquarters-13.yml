@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Dynamics Retail Management System 1,3\""
-  description: Dinamika mažmeninės prekybos valdymo sistema 1,3 atitinka nustatytą gyvavimo ciklo strategiją.
+  title: „Dynamics Retail Management System 1.3“
+  description: „Dynamics Retail Management System 1.3“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 09/01/2020
   keywords: Headquarters,Store Operations
   ms.openlocfilehash: a3713fd375b666673f687b89fe23492b072c8c3b
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "931712"
-name: "\"Dynamics Retail Management System 1,3\""
+name: „Dynamics Retail Management System 1.3“
 summary: >+
-  Dinamika mažmeninės prekybos valdymo sistema 1,3 atitinka [nustatytą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.
+  „Dynamics Retail Management System 1.3“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
 
 
-  Tai taikoma šiems leidimams: Būstinė, parduotuvės operacijos
+  Tai taikoma šiems leidimams: „Headquarters“, „Store Operations“
 
 products:
 - dynamics

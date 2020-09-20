@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Debesies platformos sistema
-  description: Debesies platformos sistema atitinka nustatytą gyvavimo ciklo strategiją.
+  title: „Cloud Platform System“
+  description: „Cloud Platform System“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 77f8b0e296d10279130459a1c0917c04382c26bc
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "932054"
-name: Debesies platformos sistema
+name: „Cloud Platform System“
 summary: >+
-  Debesies platformos sistema atitinka [nustatytą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.
+  „Cloud Platform System“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
 
 
   Tai taikoma šiems leidimams: „Standard“
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> Debesies platformos sistemos palaikymas išplečiamas, kaip parodyta, siekiant visiems klientams suteikti standartinę gyvavimo trukmės perėjimo laiko planavimo juostą.\n> [!NOTE]\n> Debesies platformos sistemos standartas, išleistas rugsėjo 18, 2017.\n\n## <a name=\"editions\"></a>Leidimai \n* „Standard“"
+content: "\n\n> [!NOTE]\n> Pagrindinis „Cloud Platform System“ palaikymas išplečiamas, kaip parodyta, kad visiems klientams būtų suteikta standartinis palaikymo perėjimas.\n> [!NOTE]\n> „Cloud Platform System Standard“ pasirodė 2017 m. rugsėjo 18 d.\n\n## <a name=\"editions\"></a>Leidimai \n* „Standard“"

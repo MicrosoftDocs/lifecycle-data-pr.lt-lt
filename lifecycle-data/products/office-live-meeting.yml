@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Office Live\" susitikimas"
-  description: "\"Office Live Meeting\" atitinka šiuolaikinės naudojimo trukmės strategiją."
+  title: „Office Live Meeting“
+  description: „Office Live Meeting“ atitinka šiuolaikinę ciklo palaikymo strategiją.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: f5d328b887173c82655f707e9d931266c2d7b857
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "928909"
-name: "\"Office Live\" susitikimas"
-summary: "\"Office Live Meeting\" atitinka [šiuolaikinės](/lifecycle/policies/modern) naudojimo trukmės strategiją.\n\nTai taikoma šiems leidimams: „Standard“\n\n> [!IMPORTANT]\n> Baigėsi šios tarnybos palaikymas. Žiūrėkite toliau pateiktas perkėlimo gaires. \n"
+name: „Office Live Meeting“
+summary: "„Office Live Meeting“ atitinka [šiuolaikinę](/lifecycle/policies/modern) ciklo palaikymo strategiją.\n\nTai taikoma šiems leidimams: „Standard“\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas. Žiūrėkite toliau pateiktas perkėlimo gaires. \n"
 products:
 - office
 policyType: modern-online

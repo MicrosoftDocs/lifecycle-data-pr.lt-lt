@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Hyper-V serverio 2019
-  description: Hyper-V Server 2019 po fiksuoto palaikymo trukmės strategija.
+  title: „Hyper-V Server 2019“
+  description: „Hyper-V Server 2019“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6ba8930e824f29ea98cb30ad9291ac18b0834221
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870911"
-name: Hyper-V serverio 2019
+name: „Hyper-V Server 2019“
 summary: >+
-  Hyper-V Server 2019 po [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategija.
+  „Hyper-V Server 2019“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [\"Windows Server\" bendruomenė](https://techcommunity.microsoft.com/t5/windows-server/ct-p/Windows-Server)\n\n> [!NOTE]\n> \"Windows Server 2019\" ir \"Windows Server\", 1809 versija buvo pakartotinai išleistas 2018 m. lapkričio 13 d. Palaikymo datos buvo atitinkamai pakoreguotos."
+content: "\n## <a name=\"links\"></a>Saitai \n* [„Windows Server Community“](https://techcommunity.microsoft.com/t5/windows-server/ct-p/Windows-Server)\n\n> [!NOTE]\n> „Windows Server 2019“ ir „Windows Server“ 1809 versija buvo pakartotinai išleistos 2018 m. lapkričio 13 d. Palaikymo datos buvo atitinkamai pakeistos."

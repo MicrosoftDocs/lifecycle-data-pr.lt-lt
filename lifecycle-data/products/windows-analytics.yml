@@ -1,16 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Windows Analytics\""
-  description: "\"Windows Analytics\" atitinka šiuolaikinės naudojimo trukmės strategiją."
+  title: „Windows Analytics“
+  description: „Windows Analytics“ atitinka šiuolaikinę ciklo palaikymo strategiją.
   ms.date: 08/11/2020
   ms.openlocfilehash: 01c42583edc132faefab6ccf17e3f25cd6e2ce9b
   ms.sourcegitcommit: d4ec29fd0c57053cfa2254d1bb08c610bb5e6817
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 08/11/2020
   ms.locfileid: "887864"
-name: "\"Windows Analytics\""
-summary: "\"Windows Analytics\" atitinka [šiuolaikinės](/lifecycle/policies/modern) naudojimo trukmės strategiją.\n\n\n> [!IMPORTANT]\n> Baigėsi palaikymas. Peržiūrėkite toliau pateiktas perkėlimo gaires.\n"
+name: „Windows Analytics“
+summary: >
+  „Windows Analytics“ atitinka [šiuolaikinę](/lifecycle/policies/modern) ciklo palaikymo strategiją.
+
+
+
+  > [!IMPORTANT]
+
+  > Palaikymas baigėsi. Žiūrėkite toliau pateiktas perkėlimo gaires.
 products:
 - windows
 policyType: modern-on-prem
@@ -21,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 03/02/2017
   endDate: 01/31/2020
-content: "\n## <a name=\"links\"></a>Saitus \n* [Perkėlimo nurodymai](https://techcommunity.microsoft.com/t5/Desktop-Analytics-Blog/Migrate-user-input-data-from-Windows-Analytics-Upgrade-Readiness/ba-p/841744#M15)"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](https://techcommunity.microsoft.com/t5/Desktop-Analytics-Blog/Migrate-user-input-data-from-Windows-Analytics-Upgrade-Readiness/ba-p/841744#M15)"
