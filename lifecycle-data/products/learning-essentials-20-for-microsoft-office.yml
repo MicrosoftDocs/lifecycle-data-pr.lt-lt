@@ -1,16 +1,19 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Mokymosi Essentials 2,0 Microsoft Office
-  description: "\"Learning Essentials 2.0\", skirta \"Microsoft Office\", atitinka komponento palaikymo trukmės strategiją."
+  title: „Learning Essentials 2.0 for Microsoft Office“
+  description: „Learning Essentials 2.0“, skirta „Microsoft Office“, atitinka komponento ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1bdfd924e319c432bbaf5d2b75f5945ca6408915
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "829779"
-name: Mokymosi Essentials 2,0 Microsoft Office
-summary: "\"Learning Essentials 2.0\", skirta \"Microsoft Office\", atitinka [komponento](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) palaikymo trukmės strategiją.\n\n\n"
+name: „Learning Essentials 2.0 for Microsoft Office“
+summary: >+
+  „Learning Essentials 2.0", skirta „Microsoft Office“, atitinka [komponento](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) ciklo palaikymo strategiją.
+
+
 products:
 - office
 policyType: component

@@ -1,16 +1,19 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Dynamics Mobile\" kūrimo įrankiai"
-  description: "\"Dynamics Mobile\" kūrimo įrankiai atitinka komponento palaikymo trukmės strategiją."
+  title: „Dynamics Mobile Development Tools“
+  description: „Dynamics Mobile Development Tools“ atitinka komponento ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: eacb8775d2e07be3c802073e4006099af4089699
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "829395"
-name: "\"Dynamics Mobile\" kūrimo įrankiai"
-summary: "\"Dynamics Mobile\" kūrimo įrankiai atitinka [komponento](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) palaikymo trukmės strategiją.\n\n\n"
+name: „Dynamics Mobile Development Tools“
+summary: >+
+  „Dynamics Mobile Development Tools“ atitinka [komponento](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) ciklo palaikymo strategiją.
+
+
 products:
 - dynamics
 policyType: component

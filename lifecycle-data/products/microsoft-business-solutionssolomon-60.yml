@@ -1,16 +1,19 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Rodyti originalų straipsnį mes: Microsoft Business Solutions --Saliamono 6,0'
-  description: "\"Microsoft Business Solutions\" – \"Solomon 6.0\" atitinka fiksuoto palaikymo trukmės strategiją."
+  title: „Microsoft Business Solutions--Solomon 6.0“
+  description: „Microsoft Business Solutions--Solomon 6.0“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 540bb6a54428f0ebae78d2599649a27a4504fea6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "829733"
-name: 'Rodyti originalų straipsnį mes: Microsoft Business Solutions --Saliamono 6,0'
-summary: "\"Microsoft Business Solutions\" – \"Solomon 6.0\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\n\n"
+name: „Microsoft Business Solutions--Solomon 6.0“
+summary: >+
+  „Microsoft Business Solutions--Solomon 6.0“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
 products:
 - dynamics
 policyType: fixed-mainstream-only

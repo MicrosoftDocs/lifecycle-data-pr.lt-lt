@@ -1,16 +1,19 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Rodyti originalų straipsnį vietos, didžioji yra už 100 kartų
-  description: "\"Microsoft Helmsman 4.0\" atitinka fiksuoto palaikymo trukmės strategiją."
+  title: „Microsoft Helmsman 4.0“
+  description: „Microsoft Helmsman 4.0“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: e873dcff7f9c115e7c0aa006d0a89b275f51c1a2
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830065"
-name: Rodyti originalų straipsnį vietos, didžioji yra už 100 kartų
-summary: "\"Microsoft Helmsman 4.0\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\n\n"
+name: „Microsoft Helmsman 4.0“
+summary: >+
+  „Microsoft Helmsman 4.0“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
 products:
 - dynamics
 policyType: fixed

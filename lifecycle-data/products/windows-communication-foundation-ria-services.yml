@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows ryšio platformos RIA paslaugos
-  description: Windows ryšio platformos RIA tarnybos atitinka fiksuoto palaikymo strategija.
+  title: „Windows Communication Foundation RIA Services“
+  description: „Windows Communication Foundation RIA Services“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3876aae1488148f489c9c4c46dfd24bb89fd9480
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "829048"
-name: Windows ryšio platformos RIA paslaugos
+name: „Windows Communication Foundation RIA Services“
 summary: >+
-  Windows ryšio platformos RIA tarnybos atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo strategija.
+  „Windows Communication Foundation RIA Services“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
 
 
 products:
