@@ -1,16 +1,19 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Azure\" debesies paslaugos"
-  description: "\"Azure\" debesies paslaugos atitinka šiuolaikinės palaikymo trukmės strategiją."
+  title: „Azure Cloud Services“
+  description: „Azure Cloud Services“ atitinka šiuolaikinę ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: aab601bc296dcf08a3f860220bf93b35fa67e335
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "829973"
-name: "\"Azure\" debesies paslaugos"
-summary: "\"Azure\" debesies paslaugos atitinka [šiuolaikinės](/lifecycle/policies/modern) palaikymo trukmės strategiją.\n\n\n"
+name: „Azure Cloud Services“
+summary: >+
+  „Azure Cloud Services“ [šiuolaikinę](/lifecycle/policies/modern) ciklo palaikymo strategiją.
+
+
 products:
 - azure
 policyType: modern-online
@@ -19,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/27/2008
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Azure svečio OS palaikymo ir išėjimo į pensiją strategijos informacija](/azure/cloud-services/cloud-services-guestos-retirement-policy)"
+content: "\n## <a name=\"links\"></a>Saitai \n* [„Azure Guest OS“ palaikomumo ir išėmimo iš prekybos strategija](/azure/cloud-services/cloud-services-guestos-retirement-policy)"

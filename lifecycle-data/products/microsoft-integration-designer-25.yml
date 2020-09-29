@@ -1,16 +1,19 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft integravimo dizaineris 2,5
-  description: "\"Microsoft\" integravimo dizaino įrankis 2.5 atitinka fiksuoto palaikymo trukmės strategiją."
+  title: „Microsoft Integration Designer 2.5“
+  description: „Microsoft Integration Designer 2.5“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: a68b7d5749ce3c0bb47c949a59c52aff5a844dff
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "829362"
-name: Microsoft integravimo dizaineris 2,5
-summary: "\"Microsoft\" integravimo dizaino įrankis 2.5 atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\n\n"
+name: „Microsoft Integration Designer 2.5“
+summary: >+
+  „Microsoft Integration Designer 2.5“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
 products:
 - dynamics
 policyType: fixed
