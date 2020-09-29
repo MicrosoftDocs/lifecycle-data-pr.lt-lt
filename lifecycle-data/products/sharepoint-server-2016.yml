@@ -1,17 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"SharePoint Server\" 2016"
-  description: "\"SharePoint Server\" 2016 atitinka nustatytą gyvavimo ciklo strategiją."
+  title: „SharePoint Server 2016“
+  description: „SharePoint Server 2016“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 09/01/2020
   keywords: ''
   ms.openlocfilehash: 14f1c2b997bd6d39354b686f28c341218d41abc5
   ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 09/02/2020
   ms.locfileid: "941742"
-name: "\"SharePoint Server\" 2016"
-summary: "\"SharePoint Server\" 2016 atitinka [nustatytą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\n\n"
+name: „SharePoint Server 2016“
+summary: >+
+  „SharePoint Server 2016“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
 products:
 - office
 policyType: fixed

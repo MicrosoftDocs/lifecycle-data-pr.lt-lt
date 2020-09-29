@@ -1,17 +1,22 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Access 2016\""
-  description: "\"Access 2016\" atitinka fiksuotą gyvavimo ciklo strategiją."
+  title: „Access 2016“
+  description: „Access 2016“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 98a71f2b9f489d7d1f30a0177e4389ea9c4f5897
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "940120"
-name: "\"Access 2016\""
-summary: "\"Access 2016\" atitinka [fiksuotą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\nTai taikoma šiems leidimams: „Standard“\n\n"
+name: „Access 2016“
+summary: >+
+  „Access 2016“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
+  Tai taikoma šiems leidimams: „Standard“
+
 products:
 - office
 policyType: fixed

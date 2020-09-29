@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: WinTarget 2,0
-  description: WinTarget 2,0 atitinka nustatytą gyvavimo ciklo strategiją.
+  title: „WinTarget 2.0“
+  description: „WinTarget 2.0“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 09/01/2020
   keywords: Advanced,Standard
   ms.openlocfilehash: 940b4d3c615a3e3f72bfa6a2a6e250154bcd5a57
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938751"
-name: WinTarget 2,0
+name: „WinTarget 2.0“
 summary: >+
-  WinTarget 2,0 atitinka [nustatytą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.
+  „WinTarget 2.0“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
 
 
-  Tai taikoma šiems leidimams: Išplėstinė, standartinė
+  Tai taikoma šiems leidimams: išplėstiniams, standartiniams
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 03/07/2006
   endDate: 01/08/2008
-content: "\n\n> [!NOTE]\n> Šio produkto palaikymas priklauso nuo jo įsigijimo sąlygų.\n\n## <a name=\"editions\"></a>Leidimai \n* Išplėstinė\n* „Standard“"
+content: "\n\n> [!NOTE]\n> Šio produkto palaikymas priklauso nuo jo įsigijimo sąlygų.\n\n## <a name=\"editions\"></a>Leidimai \n* Išplėstinis\n* „Standard“"
