@@ -1,16 +1,19 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Skype\" verslui 2019"
-  description: "\"Skype\" verslui 2019 m. po fiksuoto palaikymo trukmės strategija."
+  title: „Skype“ verslui 2019
+  description: „Skype for Business 2019“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0df52b63618e4bc7b7313685c975b8a89fd9ad11
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871006"
-name: "\"Skype\" verslui 2019"
-summary: "\"Skype\" verslui 2019 m. po [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategija.\n\n\n"
+name: „Skype“ verslui 2019
+summary: >+
+  „Skype for Business 2019“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
 products:
 - office
 policyType: fixed

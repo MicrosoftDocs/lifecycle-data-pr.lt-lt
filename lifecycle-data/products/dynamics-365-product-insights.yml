@@ -1,16 +1,19 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 produkto įžvalgos
-  description: "\"Dynamics 365\" produkto įžvalgos atitinka šiuolaikinės naudojimo trukmės strategiją."
+  title: „Dynamics 365 Product Insights“
+  description: „Dynamics 365 Product Insights“ atitinka šiuolaikinę palaikymo ciklo strategiją.
   ms.date: 08/25/2020
   ms.openlocfilehash: 96ad93ad104312327e146d10a83d6b42943ab714
   ms.sourcegitcommit: d28d18dd801693302858cb5086cabb3a5d2083f3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 08/26/2020
   ms.locfileid: "911406"
-name: Dynamics 365 produkto įžvalgos
-summary: "\"Dynamics 365\" produkto įžvalgos atitinka [šiuolaikinės](/lifecycle/policies/modern) naudojimo trukmės strategiją.\n\n\n"
+name: „Dynamics 365 Product Insights“
+summary: >+
+  „Dynamics 365 Product Insights“ atitinka [šiuolaikinę](/lifecycle/policies/modern) palaikymo trukmės strategiją.
+
+
 products:
 - dynamics
 policyType: modern-online

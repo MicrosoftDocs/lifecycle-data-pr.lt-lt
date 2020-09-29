@@ -1,16 +1,19 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Dynamics 365\" maketas"
-  description: "\"Dynamics 365\" maketas atitinka šiuolaikinės naudojimo trukmės strategiją."
+  title: „Dynamics 365 Layout“
+  description: „Dynamics 365 Layout“ atitinka šiuolaikinę ciklo palaikymo strategiją.
   ms.date: 08/12/2020
   ms.openlocfilehash: 1995274fb40f9ea278629e50c290def57f7f113d
   ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 08/12/2020
   ms.locfileid: "891851"
-name: "\"Dynamics 365\" maketas"
-summary: "\"Dynamics 365\" maketas atitinka [šiuolaikinės](/lifecycle/policies/modern) naudojimo trukmės strategiją.\n\n\n"
+name: „Dynamics 365 Layout“
+summary: >+
+  „Dynamics 365 Layout“ atitinka [šiuolaikinę](/lifecycle/policies/modern) ciklo palaikymo strategiją.
+
+
 products:
 - dynamics
 policyType: modern-online
@@ -21,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 09/30/2018
   endDate: 12/31/2021
-content: "\n## <a name=\"links\"></a>Saitus \n* [Maketas ir nuotolinė pagalba](/dynamics365/mixed-reality/layout/faq)\n* [Pranešimas apie \"Dynamics 365\" maketo perėjimą](https://dynamics.microsoft.com/mixed-reality/layout-transition/)"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Maketas ir nuotolinė pagalba](/dynamics365/mixed-reality/layout/faq)\n* [Pranešimas dėl „Dynamics 365“ maketo perkėlimo](https://dynamics.microsoft.com/mixed-reality/layout-transition/)"

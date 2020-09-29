@@ -1,16 +1,19 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Microsoft Business\" sprendimų verslo portalas"
-  description: "\"Microsoft Business Solutions Business\" portalas atitinka fiksuotą gyvavimo ciklo strategiją."
+  title: „Microsoft Business Solutions“ verslo portalas
+  description: „Microsoft Business Solutions“ verslo portalas atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 08/19/2020
   ms.openlocfilehash: 2b4116c3d6461616b1e36ab86d5606900be3ec6c
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904332"
-name: "\"Microsoft Business\" sprendimų verslo portalas"
-summary: "\"Microsoft Business Solutions Business\" portalas atitinka [fiksuotą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\n\n"
+name: „Microsoft Business Solutions“ verslo portalas
+summary: >+
+  „Microsoft Business Solutions“ verslo portalas atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
 products:
 - dynamics
 policyType: fixed-mainstream-only
@@ -27,4 +30,4 @@ releases:
 - version: Business Solutions Business Portal 1.2
   startDate: 07/18/2003
   endDate: 12/31/2004
-content: "\n\n> [!NOTE]\n> \"Microsoft Business Solutions\" verslo portalo 2,5 buvo palaikomas tik naudojant \"Great Plains 8,0\" arba \"Solomon 6,0\"."
+content: "\n\n> [!NOTE]\n> „Microsoft Business Solutions“ verslo portalas 2.5 buvo palaikomas tik tada, kai buvo naudojamas su „Great Plains 8.0“ arba „Solomon 6.0“."
