@@ -1,16 +1,19 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Microsoft\" veikia"
-  description: "\"Microsoft\" veikia pagal nustatytą gyvavimo ciklo strategiją."
+  title: „Microsoft Works“
+  description: „Microsoft Works“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 08/19/2020
   ms.openlocfilehash: da68f15014771676be04285328ffde3ff1c49858
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904330"
-name: "\"Microsoft\" veikia"
-summary: "\"Microsoft\" veikia pagal [nustatytą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\n\n"
+name: „Microsoft Works“
+summary: >+
+  „Microsoft Works“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
 products:
 - office
 policyType: fixed-mainstream-only
@@ -36,4 +39,4 @@ releases:
 - version: Microsoft Works Suite 2004
   startDate: 10/25/2003
   endDate: 01/09/2007
-content: "\n\n> [!NOTE]\n> Šiame sąraše yra visi \"Microsoft Works\" produktai, išleisti tarp \"2003\" ir \"2007\"."
+content: "\n\n> [!NOTE]\n> Į šį sąrašą įtraukti VISI „Microsoft Works“ produktai, išleisti nuo 2003 m. iki 2007 m."

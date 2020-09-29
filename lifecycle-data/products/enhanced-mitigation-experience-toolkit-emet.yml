@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Patobulintas mažinimas patirties įrankių rinkinys (EMET)
-  description: Patobulintas mažinimo patirties įrankių rinkinys (EMET) atitinka nustatytą gyvavimo ciklo strategiją.
+  title: „Enhanced Mitigation Experience Toolkit“ (EMET)
+  description: „Enhanced Mitigation Experience Toolkit“ (EMET) atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 08/20/2020
   ms.openlocfilehash: 3dbfe94571aa33f4f48608ce2078f978d4901ae8
   ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "905315"
-name: Patobulintas mažinimas patirties įrankių rinkinys (EMET)
+name: „Enhanced Mitigation Experience Toolkit“ (EMET)
 summary: >+
-  Patobulintas mažinimo patirties įrankių rinkinys (EMET) atitinka [nustatytą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.
+  „Enhanced Mitigation Experience Toolkit“ (EMET) atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
 
 
 products:

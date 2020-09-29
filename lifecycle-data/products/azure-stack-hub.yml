@@ -1,16 +1,19 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Azure\" rietuvės koncentratorius"
-  description: "\"Azure\" rietuvės koncentratorius atitinka šiuolaikinės palaikymo trukmės strategiją."
+  title: „Azure Stack Hub“
+  description: „Azure Stack Hub“ atitinka šiuolaikinę ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: d538d37b723536a3602535e952e1a9f3398e6ae4
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870952"
-name: "\"Azure\" rietuvės koncentratorius"
-summary: "\"Azure\" rietuvės koncentratorius atitinka [šiuolaikinės](/lifecycle/policies/modern) palaikymo trukmės strategiją.\n\n\n"
+name: „Azure Stack Hub“
+summary: >+
+  „Azure Stack Hub“ atitinka [šiuolaikinę](/lifecycle/policies/modern) ciklo palaikymo strategiją.
+
+
 products:
 - azure
 policyType: modern-online
@@ -19,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 08/31/2017
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Aptarnavimo informacija ir terminai](/azure/azure-stack/azure-stack-servicing-policy)"
+content: "\n## <a name=\"links\"></a>Saitai \n* Žr. [aptarnavimo informaciją ir laiko planavimo juostas](/azure/azure-stack/azure-stack-servicing-policy)."

@@ -1,16 +1,19 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: BizTalk adapteris, skirtas žiniatinklio tarnybų priedui 2,0
-  description: "\"BizTalk\" adapteris, skirtas žiniatinklio tarnybų priedui 2,0, seka pagal nustatytą gyvavimo ciklo strategiją."
+  title: „BizTalk“ adapteris, skirtas žiniatinklio tarnybų patobulinimui 2.0
+  description: „BizTalk“ adapteris, skirtas žiniatinklio tarnybų patobulinimui 2.0, atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 08/19/2020
   ms.openlocfilehash: 4b442c30ed4d826959b43220b1b964c1c7d3419a
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904322"
-name: BizTalk adapteris, skirtas žiniatinklio tarnybų priedui 2,0
-summary: "\"BizTalk\" adapteris, skirtas žiniatinklio tarnybų priedui 2,0, seka pagal [nustatytą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\n\n"
+name: „BizTalk“ adapteris, skirtas žiniatinklio tarnybų patobulinimui 2.0
+summary: >+
+  „BizTalk“ adapteris, skirtas žiniatinklio tarnybų patobulinimui 2.0, atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
 products:
 - microsoft-servers
 policyType: fixed

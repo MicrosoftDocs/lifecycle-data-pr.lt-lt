@@ -1,16 +1,19 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Microsoft\" ataskaitų peržiūros programa"
-  description: "\"Microsoft\" ataskaitų peržiūros programa stebi šiuolaikinės trukmės strategiją."
+  title: „Microsoft Report Viewer“
+  description: „Microsoft Report Viewer“ atitinka šiuolaikinę palaikymo strategiją.
   ms.date: 08/19/2020
   ms.openlocfilehash: 9025fd3d1b84a581d70de562ab977e3aa01870fb
   ms.sourcegitcommit: 9d254d51934063ec1dd8c7e0e5fcb53ccc7257b3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "904972"
-name: "\"Microsoft\" ataskaitų peržiūros programa"
-summary: "\"Microsoft\" ataskaitų peržiūros programa stebi [šiuolaikinės](/lifecycle/policies/modern) trukmės strategiją.\n\n\n"
+name: „Microsoft Report Viewer“
+summary: >+
+  „Microsoft Report Viewer“ atitinka [šiuolaikinę](/lifecycle/policies/modern) palaikymo strategiją.
+
+
 products:
 - sql-server
 policyType: modern-online

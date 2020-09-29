@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Bandomasis agentas, valdiklis
-  description: Bandomasis agentas, valdiklis vadovaujasi komponento naudojimo trukmės strategija.
+  title: „Test Agent, Controller“
+  description: „Test Agent, Controller“ atitinka komponento ciklo palaikymo strategiją.
   ms.date: 08/13/2020
   ms.openlocfilehash: 7cb3e4327582e2dcb0c2d9fd448fff1aa31d6c81
   ms.sourcegitcommit: 3c6b83bda986f678312f44c1a8424e183a327d5c
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 08/14/2020
   ms.locfileid: "894976"
-name: Bandomasis agentas, valdiklis
+name: „Test Agent, Controller“
 summary: >+
-  Bandomasis agentas, valdiklis vadovaujasi [komponento](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) naudojimo trukmės strategija.
+  „Test Agent, Controller“ atitinka [komponento](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) ciklo palaikymo strategiją.
 
 
 products:
