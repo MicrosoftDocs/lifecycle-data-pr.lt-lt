@@ -1,17 +1,22 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Microsoft\" kalbos serverio 2004 R2"
-  description: "\"Microsoft\" kalbos serverio 2004 R2 atitinka nustatytą gyvavimo ciklo strategiją."
+  title: „Microsoft Speech Server 2004 R2“
+  description: „Microsoft Speech Server 2004 R2“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: d93a0964531bf4fb6b7019880a39fd9a6e07dfa4
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937049"
-name: "\"Microsoft\" kalbos serverio 2004 R2"
-summary: "\"Microsoft\" kalbos serverio 2004 R2 atitinka [nustatytą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\nTai taikoma šiems leidimams: „Enterprise“, „Standard“\n\n"
+name: „Microsoft Speech Server 2004 R2“
+summary: >+
+  „Microsoft Speech Server 2004 R2“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
+  Tai taikoma šiems leidimams: „Enterprise“, „Standard“
+
 products:
 - office
 policyType: fixed

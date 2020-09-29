@@ -1,17 +1,22 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Project 2016\""
-  description: "\"Project 2016\" atitinka nustatytą gyvavimo ciklo strategiją."
+  title: „Project 2016“
+  description: „Project 2016“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 09/01/2020
   keywords: Professional,Standard
   ms.openlocfilehash: 5d4110f5d6f16efd84205e08dc375cdd839c3220
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "926541"
-name: "\"Project 2016\""
-summary: "\"Project 2016\" atitinka [nustatytą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\nTai taikoma šiems leidimams: „Professional“, „Standard“\n\n"
+name: „Project 2016“
+summary: >+
+  „Project 2016“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
+  Tai taikoma šiems leidimams: „Professional“, „Standard“
+
 products:
 - office
 policyType: fixed

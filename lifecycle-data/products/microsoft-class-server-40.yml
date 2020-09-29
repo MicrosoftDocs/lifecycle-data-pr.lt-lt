@@ -1,17 +1,22 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Microsoft\" klasės serverio 4,0"
-  description: "\"Microsoft\" klasės serverio 4,0 atitinka nustatytą gyvavimo ciklo strategiją."
+  title: „Microsoft Class Server 4.0“
+  description: „Microsoft Class Server 4.0“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 0edbcc4d8beac695a9fc873ec7ae2d51c06e8f56
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934496"
-name: "\"Microsoft\" klasės serverio 4,0"
-summary: "\"Microsoft\" klasės serverio 4,0 atitinka [nustatytą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\nTai taikoma šiems leidimams: „Standard“\n\n"
+name: „Microsoft Class Server 4.0“
+summary: >+
+  „Microsoft Class Server 4.0“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
+  Tai taikoma šiems leidimams: „Standard“
+
 products:
 - office
 policyType: fixed
