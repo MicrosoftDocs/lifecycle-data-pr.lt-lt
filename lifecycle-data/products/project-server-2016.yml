@@ -1,17 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Project Server\" 2016"
-  description: "\"Project Server\" 2016 atitinka nustatytą laiko trukmės strategiją."
+  title: „Project Server 2016“
+  description: „Project Server 2016“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 09/02/2020
   keywords: ''
   ms.openlocfilehash: a9dc96cf8e5a99917a0a31ccc23a413d9ff61ccc
   ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 09/02/2020
   ms.locfileid: "941457"
-name: "\"Project Server\" 2016"
-summary: "\"Project Server\" 2016 atitinka [nustatytą](/lifecycle/policies/fixed) laiko trukmės strategiją.\n\n\n"
+name: „Project Server 2016“
+summary: >+
+  „Project Server 2016“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
 products:
 - office
 policyType: fixed

@@ -1,17 +1,22 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Word 2013\""
-  description: "\"Word 2013\" atitinka nustatytą gyvavimo ciklo strategiją."
+  title: „Word 2013“
+  description: „Word 2013“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: b08705b30333f7f619339b95da3aafc1d047f7de
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938677"
-name: "\"Word 2013\""
-summary: "\"Word 2013\" atitinka [nustatytą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\nTai taikoma šiems leidimams: „Standard“\n\n"
+name: „Word 2013“
+summary: >+
+  „Word 2013“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
+  Tai taikoma šiems leidimams: „Standard“
+
 products:
 - office
 policyType: fixed
