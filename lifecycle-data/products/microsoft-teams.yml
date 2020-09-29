@@ -1,16 +1,19 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Microsoft Teams\""
-  description: "\"Microsoft Teams\" laikosi šiuolaikinės palaikymo trukmės strategijos."
+  title: „Microsoft Teams“
+  description: „Microsoft Teams“ atitinka šiuolaikinę ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a95c11e5ed20489a0e571cfbab654a977a4dd1c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859192"
-name: "\"Microsoft Teams\""
-summary: "\"Microsoft Teams\" laikosi [šiuolaikinės](/lifecycle/policies/modern) palaikymo trukmės strategijos.\n\n\n"
+name: „Microsoft Teams“
+summary: >+
+  „Microsoft Teams“ atitinka [šiuolaikinę](/lifecycle/policies/modern) ciklo palaikymo strategiją.
+
+
 products:
 - office
 policyType: modern-online
@@ -19,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/01/2016
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Sistemos reikalavimai](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [Techninės priežiūros informacija](/microsoftteams/teams-client-update)"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Sistemos reikalavimai](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [Techninės priežiūros informacija](/microsoftteams/teams-client-update)"

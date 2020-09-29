@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Sistemos centro 2016 paslaugų tvarkytuvas
-  description: System Center 2016 Service Manager taip fiksuoto palaikymo trukmės strategija.
+  title: „System Center 2016 Service Manager“
+  description: „System Center 2016 Service Manager“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 324b4d018b20d596afdf61ff10658489d7f1d79f
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859242"
-name: Sistemos centro 2016 paslaugų tvarkytuvas
+name: „System Center 2016 Service Manager“
 summary: >+
-  System Center 2016 Service Manager taip [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategija.
+  „System Center 2016 Service Manager“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
 
 
 products:

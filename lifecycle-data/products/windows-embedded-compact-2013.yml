@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Embedded Compact 2013
-  description: Windows Embedded Compact 2013 taip fiksuoto palaikymo trukmės strategija.
+  title: „Windows Embedded Compact 2013“
+  description: „Windows Embedded Compact 2013“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8a42d1b8d76efbc42465bf7d813ce0762a03db2b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859055"
-name: Windows Embedded Compact 2013
+name: „Windows Embedded Compact 2013“
 summary: >+
-  Windows Embedded Compact 2013 taip [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategija.
+  „Windows Embedded Compact 2013“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
 
 
 products:

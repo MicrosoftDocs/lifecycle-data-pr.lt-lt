@@ -1,16 +1,19 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Windows Home Server 2011\""
-  description: "\"Windows Home Server 2011\" atitinka fiksuoto palaikymo trukmės strategiją."
+  title: „Windows Home Server 2011“
+  description: „Windows Home Server 2011“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: cd7602894a6ba0f2cda537685202a0f45f43443e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859136"
-name: "\"Windows Home Server 2011\""
-summary: "\"Windows Home Server 2011\" atitinka [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategiją.\n\n\n"
+name: „Windows Home Server 2011“
+summary: >+
+  „Windows Home Server 2011“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
 products:
 - windows
 policyType: fixed-mainstream-only
