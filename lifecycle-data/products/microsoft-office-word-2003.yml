@@ -1,17 +1,22 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Microsoft Office Word 2003\""
-  description: "\"Microsoft Office Word 2003\" stebi fiksuotą gyvavimo ciklo strategiją."
+  title: „Microsoft Office Word 2003“
+  description: „Microsoft Office Word 2003“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: ac7b10f977be3928db5cfc26c23f7fa734106e86
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930093"
-name: "\"Microsoft Office Word 2003\""
-summary: "\"Microsoft Office Word 2003\" stebi [fiksuotą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\nTai taikoma šiems leidimams: „Standard“\n\n"
+name: „Microsoft Office Word 2003“
+summary: >+
+  „Microsoft Office Word 2003“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
+  Tai taikoma šiems leidimams: „Standard“
+
 products:
 - office
 policyType: fixed

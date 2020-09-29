@@ -1,17 +1,22 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Outlook 2019\""
-  description: "\"Outlook 2019\" atitinka nustatytą gyvavimo ciklo strategiją."
+  title: „Outlook 2019“
+  description: „Outlook 2019“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 8c38b0d1da85e6f534d902ac0349bdd657a68684
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938085"
-name: "\"Outlook 2019\""
-summary: "\"Outlook 2019\" atitinka [nustatytą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\nTai taikoma šiems leidimams: „Standard“\n\n"
+name: „Outlook 2019“
+summary: >+
+  „Outlook 2019“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
+  Tai taikoma šiems leidimams: „Standard“
+
 products:
 - office
 policyType: fixed

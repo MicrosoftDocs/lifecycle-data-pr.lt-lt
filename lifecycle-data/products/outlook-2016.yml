@@ -1,17 +1,22 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Outlook 2016\""
-  description: "\"Outlook 2016\" atitinka nustatytą gyvavimo ciklo strategiją."
+  title: „Outlook 2016“
+  description: „Outlook 2016“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 1994b8231e5d8c0b6134a3872d532ca176c27e6b
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938122"
-name: "\"Outlook 2016\""
-summary: "\"Outlook 2016\" atitinka [nustatytą](/lifecycle/policies/fixed) gyvavimo ciklo strategiją.\n\nTai taikoma šiems leidimams: „Standard“\n\n"
+name: „Outlook 2016“
+summary: >+
+  „Outlook 2016“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
+  Tai taikoma šiems leidimams: „Standard“
+
 products:
 - office
 policyType: fixed
