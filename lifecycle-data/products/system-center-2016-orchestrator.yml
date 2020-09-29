@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Sistemos centras 2016 Orchestrator
-  description: System Center 2016 Orchestrator taip fiksuoto palaikymo trukmės strategija.
+  title: „System Center 2016 Orchestrator“
+  description: „System Center 2016 Orchestrator“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: c5725bbb0002c3952fb18ff688be105c808e190b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859243"
-name: Sistemos centras 2016 Orchestrator
+name: „System Center 2016 Orchestrator“
 summary: >+
-  System Center 2016 Orchestrator taip [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategija.
+  „System Center 2016 Orchestrator“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
 
 
 products:

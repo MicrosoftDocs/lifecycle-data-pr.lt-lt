@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visual studija lightswitch 2011
-  description: Visual Studio LightSwitch 2011 pagal fiksuoto palaikymo trukmės strategija.
+  title: „Visual Studio LightSwitch 2011“
+  description: „Visual Studio LightSwitch 2011“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: 12d219b05d3e82323d3d5d7b6dae25393afc1afb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859012"
-name: Visual studija lightswitch 2011
+name: „Visual Studio LightSwitch 2011“
 summary: >+
-  Visual Studio LightSwitch 2011 pagal [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategija.
+  „Visual Studio LightSwitch 2011“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2011
   endDate: 01/11/2022
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Šviesusjungiklias](/visualstudio/productinfo/visual-studio-lightswitch-support-announcement)\n* [\"Power\" programos](https://powerapps.microsoft.com/)\n\n> [!NOTE]\n> Visual Studio 2015 yra paskutinis leidimas Visual Studio, kuriame yra LightSwitch įrankiai. Rekomenduojame naudoti \"Microsoft PowerApps\" bet kokiam naujam programų kūrimui."
+content: "\n## <a name=\"links\"></a>Saitai \n* [„LightSwitch“](/visualstudio/productinfo/visual-studio-lightswitch-support-announcement)\n* [„Power Apps“](https://powerapps.microsoft.com/)\n\n> [!NOTE]\n> „Visual Studio 2015“ yra naujausias „Visual Studio“ leidimas, kuriame yra „LightSwitch“ įrankiai. Naujoms programoms kurti rekomenduojame naudoti „Microsoft PowerApps“."

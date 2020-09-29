@@ -1,16 +1,19 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Skype\" verslui 2016"
-  description: "\"Skype\" verslui 2016 po fiksuoto palaikymo trukmės strategija."
+  title: „Skype“ verslui 2016
+  description: „Skype for Business 2016“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: bb612be489d44c4dbac85d1fffce7797eaef57d2
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859152"
-name: "\"Skype\" verslui 2016"
-summary: "\"Skype\" verslui 2016 po [fiksuoto](/lifecycle/policies/fixed) palaikymo trukmės strategija.\n\n\n"
+name: „Skype“ verslui 2016
+summary: >+
+  „Skype for Business 2016“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+
 products:
 - office
 policyType: fixed

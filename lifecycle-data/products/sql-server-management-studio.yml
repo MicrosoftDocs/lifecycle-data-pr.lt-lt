@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: SQL serverio valdymo studija
-  description: SQL Server Management Studio atitinka šiuolaikinės palaikymo trukmės strategija.
+  title: „SQL Server Management Studio“
+  description: „SQL Server Management Studio“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 07/28/2020
   ms.openlocfilehash: f75480af28215773c8d23bc06a30408940015a5c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lt-LT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859186"
-name: SQL serverio valdymo studija
+name: „SQL Server Management Studio“
 summary: >+
-  SQL Server Management Studio atitinka [šiuolaikinės](/lifecycle/policies/modern) palaikymo trukmės strategija.
+  „SQL Server Management Studio“ atitinka [fiksuotąją](/lifecycle/policies/modern) ciklo palaikymo strategiją.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 05/27/2016
-content: "\n## <a name=\"links\"></a>Nuorodos \n* [Techninės priežiūros informacija](/sql/ssms/support-policy?view)"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Techninės priežiūros informacija](/sql/ssms/support-policy?view)"
