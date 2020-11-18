@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: „Windows Azure Pack“ („Windows Server 2012 R2“ sistemoje)
-  description: „Windows Azure Pack“ („Windows Server 2012 R2“ sistemoje) atitinka fiksuotojo ciklo palaikymo strategiją.
+  description: „Windows Azure Pack“ („Windows Server 2012 R2“ sistemoje) atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 10/19/2020
   keywords: 
   ms.openlocfilehash: 38fe3e0f5e46d996504b594c78e8717330b720c0
@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "1160938"
 name: „Windows Azure Pack“ („Windows Server 2012 R2“ sistemoje)
 summary: >+
-  „Windows Azure Pack“ („Windows Server 2012 R2“ sistemoje) atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+  „Windows Azure Pack“ („Windows Server 2012 R2“ sistemoje) atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
 
 
   Tai taikoma šiems leidimams: „Windows Server 2012 R2“
