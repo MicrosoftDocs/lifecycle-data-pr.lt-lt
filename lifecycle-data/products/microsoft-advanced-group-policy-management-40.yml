@@ -10,7 +10,7 @@ metadata:
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "829777"
 name: „Microsoft Advanced Group Policy Management 4.0“
-summary: "„Microsoft Advanced Group Policy Management 4.0“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\n\n"
+summary: "„Microsoft Advanced Group Policy Management 4.0“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\n\n"
 products:
 - windows
 policyType: fixed

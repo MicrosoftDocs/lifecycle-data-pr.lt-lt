@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: „Microsoft Host Integration Server 2004“
-  description: „Microsoft Host Integration Server 2004“ atitinka fiksuotojo ciklo palaikymo strategiją.
+  description: „Microsoft Host Integration Server 2004“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 09/10/2020
   keywords: Developer,Enterprise,Standard
   ms.openlocfilehash: f25ad096e73a81539c8d2c5ae6f9512c7a8dcf40
@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/10/2020
   ms.locfileid: "1001879"
 name: „Microsoft Host Integration Server 2004“
-summary: "„Microsoft Host Integration Server 2004“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.\n\nTai taikoma šiems leidimams: „Developer“, „Enterprise“, „Standard“\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas. \n"
+summary: "„Microsoft Host Integration Server 2004“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją.\n\nTai taikoma šiems leidimams: „Developer“, „Enterprise“, „Standard“\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas. \n"
 products:
 - microsoft-servers
 policyType: fixed

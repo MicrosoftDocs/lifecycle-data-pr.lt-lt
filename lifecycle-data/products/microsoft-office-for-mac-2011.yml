@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: „Microsoft Office for Mac 2011“
-  description: „Microsoft Office for Mac 2011“ atitinka fiksuotojo ciklo palaikymo strategiją.
+  description: „Microsoft Office for Mac 2011“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 09/01/2020
   keywords: Academic,Home and Business,Home and Business Home Use Program,Home and Student,Standard
   ms.openlocfilehash: 916b05553555af4525fb9c94660627d4aef386e6
@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933238"
 name: „Microsoft Office for Mac 2011“
-summary: "„Microsoft Office for Mac 2011“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: „Academic“, „Home and Business“, „Home and Business Home Use Program“, „Home and Student“, „Standard“\n\n"
+summary: "„Microsoft Office for Mac 2011“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: „Academic“, „Home and Business“, „Home and Business Home Use Program“, „Home and Student“, „Standard“\n\n"
 products:
 - office
 policyType: fixed-mainstream-only

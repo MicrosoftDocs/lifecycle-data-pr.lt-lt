@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: „Visual Studio Team System 2008“
-  description: „Visual Studio Team System 2008“ atitinka fiksuotojo ciklo palaikymo strategiją.
+  description: „Visual Studio Team System 2008“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 09/02/2020
   keywords: All,Architecture,Database,Development,Team Explorer,Team Test Load Agent,TFS
   ms.openlocfilehash: 41a7a602e0aea666c7da8593af19243a881ec064
@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/03/2020
   ms.locfileid: "945305"
 name: „Visual Studio Team System 2008“
-summary: "„Visual Studio Team System 2008“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: „All“, „Architecture“, „Database“, „Development“, „Team Explorer“, „Team Test Load Agent“, „TFS“\n\n> [!IMPORTANT]\n> Palaikymas baigėsi. Žiūrėkite toliau pateiktas perkėlimo gaires.\n"
+summary: "„Visual Studio Team System 2008“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: visi, „Architecture“, „Database“, „Development“, „Team Explorer“, „Team Test Load Agent“, TFS\n\n> [!IMPORTANT]\n> Palaikymas baigėsi. Žiūrėkite toliau pateiktas perkėlimo gaires.\n"
 products:
 - vs
 policyType: fixed
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Perkėlimo našumo rekomendacijos](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Visi\n* Architektūra\n* Duomenų bazė\n* Kūrimas\n* Komandos naršyklė\n* „Team Test Load Agent“\n* „TFS“"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Perkėlimo našumo rekomendacijos](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Visi\n* Architektūra\n* Duomenų bazė\n* Kūrimas\n* Komandos naršyklė\n* „Team Test Load Agent“\n* TFS"

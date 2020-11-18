@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939084"
 name: „Windows Storage Server 2008 Embedded“
-summary: "„Windows Storage Server 2008 Embedded“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: 32 bitų, 64 bitų, „Basic“, „Basic 32-Bit“, „Enterprise“, „Standard“, „Workgroup“\n\n"
+summary: "„Windows Storage Server 2008 Embedded“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: 32 bitų, 64 bitų, „Basic“, „Basic“ 32 bitų, „Enterprise“, „Standard“, „Workgroup“\n\n"
 products:
 - windows
 policyType: fixed

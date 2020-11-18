@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: „SQL Server 2014“
-  description: „SQL Server 2014“ atitinka fiksuotojo ciklo palaikymo strategiją.
+  description: „SQL Server 2014“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 09/01/2020
   keywords: Business Intelligence,Developer,Enterprise,Enterprise Core,Express,Standard,Web
   ms.openlocfilehash: 551c7b4fe8a3a36dfbc8866abd3006d022116dc6
@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938011"
 name: „SQL Server 2014“
-summary: "„SQL Server 2014“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: „Business Intelligence“, „Developer“, „Enterprise“, „Enterprise Core“, „Express“, „Standard“, „Web“\n\n"
+summary: "„SQL Server 2014“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: „Business Intelligence“, „Developer“, „Enterprise“, „Enterprise Core“, „Express“, „Standard“, „Web“\n\n"
 products:
 - sql-server
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 06/05/2014
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>Saitai \n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Business Intelligence“\n* „Developer“\n* „Enterprise“\n* „Enterprise Core“\n* „Express“\n* „Standard“\n* Žiniatinklis"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Business Intelligence“\n* „Developer“\n* „Enterprise“\n* „Enterprise Core“\n* „Express“\n* „Standard“\n* „Web“"

@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: „Microsoft BizTalk Adapters for Host Systems 2.0“
-  description: „Microsoft BizTalk“ adapteriai, skirti pagrindinio kompiuterio sistemoms 2.0, atitinka fiksuotojo ciklo palaikymo  strategiją.
+  description: „Microsoft BizTalk Adapters for Host Systems 2.0“ atitinka fiksuotąją ciklo palaikymo  strategiją.
   ms.date: 09/10/2020
   keywords: Developer,Standard
   ms.openlocfilehash: 233e1bef8d5f953df1498b57cfbfc077b3461f49
@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/10/2020
   ms.locfileid: "1000214"
 name: „Microsoft BizTalk Adapters for Host Systems 2.0“
-summary: "„Microsoft BizTalk“ adapteriai, skirti pagrindinio kompiuterio sistemoms 2.0, atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: „Developer“, „Standard“\n\n"
+summary: "„Microsoft BizTalk Adapters for Host Systems 2.0“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: „Developer“, „Standard“\n\n"
 products:
 - microsoft-servers
 policyType: fixed

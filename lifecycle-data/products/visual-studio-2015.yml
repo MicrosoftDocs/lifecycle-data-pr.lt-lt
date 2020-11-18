@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: „Visual Studio 2015“
-  description: „Visual Studio 2015“ atitinka fiksuotojo ciklo palaikymo strategiją.
+  description: „Visual Studio 2015“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 09/01/2020
   keywords: Agents,Community,Enterprise,ESM,Express for Web,Express for Windows 10,Express for Windows Desktop,Modeling SDK,Professional,PSM,Release Management,Remote Tools,SDK,Shell (Integrated),Shell (Isolated),Test Professional,TPS,Visual C++ Redistributable
   ms.openlocfilehash: d993b7ac12edc9ad4c1c7d58f35c61a8c4c10a71
@@ -12,10 +12,10 @@ metadata:
   ms.locfileid: "937419"
 name: „Visual Studio 2015“
 summary: >+
-  „Visual Studio 2015“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+  „Visual Studio 2015“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
 
 
-  Tai taikoma šiems leidimams: Agentai, bendruomenės, įmonės, „Express“, skirta žiniatinkliui, „Express“ skirta „Windows 10“, „Express Windows Desktop“, „Modeling SDK“, „Professional“, leidimo valdymas, nuotoliniai įrankiai, SDK, „Shell“ (integruota), „Shell“ (izoliuota), „Test Professional“, „Visual C++ Redistributable“
+  Tai taikoma šiems leidimams: „Agents“, „Community“, „Enterprise“, „Express for Web“, „Express for Windows 10“, „Express for Windows Desktop“, „Modeling SDK“, „Professional“, leidimo valdymas, nuotoliniai įrankiai, SDK, „Shell“ (integruota), „Shell“ (izoliuota), „Test Professional“, „Visual C++ Redistributable“
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Saitai \n* [Techninės priežiūros informacija](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Agentai\n* Bendruomenė\n* „Enterprise“\n* ESM\n* „Express“ žiniatinkliui\n* „Express for Windows 10“\n* „Express“, skirta „Windows“ kompiuteriui\n* „Modeling SDK“\n* „Professional“\n* PSM\n* Leidimo valdymas\n* Nuotoliniai įrankiai\n* „SDK“\n* Apvalkalas (integruotas)\n* Apvalkalas (izoliuotas)\n* Testas „Professional“\n* TPS\n* Apie „Visual C++ Redistributable“"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Techninės priežiūros informacija](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Agents“\n* „Community“\n* „Enterprise“\n* ESM\n* „Express for Web“\n* „Express for Windows 10“\n* „Express for Windows Desktop“\n* „Modeling SDK“\n* „Professional“\n* PSM\n* Leidimo valdymas\n* Nuotoliniai įrankiai\n* SDK\n* „Shell“ (integruotas)\n* „Shell“ (izoliuotas)\n* „Test Professional“\n* TPS\n* Apie „Visual C++ Redistributable“"
