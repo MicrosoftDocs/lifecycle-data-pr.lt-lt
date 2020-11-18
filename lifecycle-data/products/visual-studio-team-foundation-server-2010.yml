@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: „Visual Studio Team Foundation Server 2010“
-  description: „Visual Studio Team Foundation Server 2010“ atitinka fiksuotojo ciklo palaikymo strategiją.
+  description: „Visual Studio Team Foundation Server 2010“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 09/10/2020
   keywords: All applicable,External Connector
   ms.openlocfilehash: 4830d0684302b10940725131790657bce7758844
@@ -12,10 +12,10 @@ metadata:
   ms.locfileid: "1000069"
 name: „Visual Studio Team Foundation Server 2010“
 summary: >+
-  „Visual Studio Team Foundation Server 2010“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+  „Visual Studio Team Foundation Server 2010“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
 
 
-  Tai taikoma šiems leidimams: „All applicable“, „External Connector“
+  Tai taikoma šiems leidimams: visi taikomi, „External Connector“
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [„Azure Dev Ops“](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Visos taikomos\n* Išorinė jungtis"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [„Azure Dev Ops“](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>Leidimai \n* Visi taikomi\n* „External Connector“"

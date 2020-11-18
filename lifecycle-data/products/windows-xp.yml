@@ -15,7 +15,7 @@ summary: >
   „Windows XP“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
 
 
-  Tai taikoma šiems leidimams: „Home“, „Professional“, „Professional for Embedded Systems“, „Professional x64“, „Starter“
+  Tai taikoma šiems leidimams: „Home“, „Professional“, „Professional“, skirta „Embedded Systems“, „Professional x64“, „Starter“
 
 
   > [!IMPORTANT]
@@ -44,4 +44,4 @@ releases:
 - version: Original Release
   startDate: 12/31/2001
   endDate: 08/30/2005
-content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> „Microsoft Windows XP Professional x64 Edition“ pradžios data buvo 2005 m. balandžio 24 d.\n\n## <a name=\"editions\"></a>Leidimai \n* „Home“\n* „Professional“\n* „Professional“, skirta įdėtosioms sistemoms\n* „Professional“ x64\n* „Starter“"
+content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> „Microsoft Windows XP Professional x64 Edition“ pradžios data buvo 2005 m. balandžio 24 d.\n\n## <a name=\"editions\"></a>Leidimai \n* „Home“\n* „Professional“\n* „Professional“, skirta „Embedded Systems“\n* „Professional“ x64\n* „Starter“"

@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: „Microsoft BizTalk Server 2004“
-  description: „Microsoft BizTalk Server 2004“ atitinka fiksuotojo ciklo palaikymo strategiją.
+  description: „Microsoft BizTalk Server 2004“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 09/10/2020
   keywords: Developer,Enterprise,Partner,Standard
   ms.openlocfilehash: ac8cc735c5aeaf762b312fab2b7cb30d0fb39178
@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "1000137"
 name: „Microsoft BizTalk Server 2004“
 summary: >+
-  „Microsoft BizTalk Server 2004“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+  „Microsoft BizTalk Server 2004“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
 
 
   Tai taikoma šiems leidimams: „Developer“, „Enterprise“, „Partner“, „Standard“

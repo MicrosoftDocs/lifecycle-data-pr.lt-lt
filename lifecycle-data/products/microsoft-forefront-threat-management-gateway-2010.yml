@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: „Microsoft Forefront Threat Management Gateway 2010“
-  description: „Microsoft Forefront Threat Management Gateway 2010“ atitinka fiksuotojo ciklo palaikymo strategiją.
+  description: „Microsoft Forefront Threat Management Gateway 2010“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: b14bccc0637b191a7523238e5ee8b25c39183469
@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933830"
 name: „Microsoft Forefront Threat Management Gateway 2010“
-summary: "„Microsoft Forefront Threat Management Gateway 2010“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: „Enterprise“, „Standard“\n\n> [!IMPORTANT]\n> Palaikymas baigėsi. Žiūrėkite toliau pateiktas perkėlimo gaires.\n"
+summary: "„Microsoft Forefront Threat Management Gateway 2010“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: „Enterprise“, „Standard“\n\n> [!IMPORTANT]\n> Palaikymas baigėsi. Žiūrėkite toliau pateiktas perkėlimo gaires.\n"
 products:
 - office
 policyType: fixed

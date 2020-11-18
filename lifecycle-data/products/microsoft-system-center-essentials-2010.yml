@@ -15,7 +15,7 @@ summary: >+
   „Microsoft System Center Essentials 2010“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
 
 
-  Tai taikoma šiems leidimams: „All applicable“, „wSQL“
+  Tai taikoma šiems leidimams: visi taikomi, „wSQL“
 
 products:
 - msc
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/28/2010
   endDate: 10/13/2020
-content: "\n\n\n## <a name=\"editions\"></a>Leidimai \n* Visos taikomos\n* „wSQL“"
+content: "\n\n\n## <a name=\"editions\"></a>Leidimai \n* Visi taikomi\n* „wSQL“"
