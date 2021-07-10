@@ -2,14 +2,14 @@
 metadata:
   title: „Windows Server 2008“
   description: „Windows Server 2008“ atitinka fiksuotojo ciklo palaikymo strategiją.
-  ms.date: 09/01/2020
-  keywords: Datacenter,Datacenter without Hyper-V,Enterprise,Enterprise without Hyper-V,for Itanium-Based Systems,Foundation,Standard,Standard without Hyper-V,Web
-  ms.openlocfilehash: 30b07c95bb7d37ab822e5e2238983fd70d918889
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 04/23/2021
+  keywords: 
+  ms.openlocfilehash: 9f958fbc26dddbf3e388c598e868b94eb1713541
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: lt-LT
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939528"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029847"
 name: „Windows Server 2008“
 summary: "„Windows Server 2008“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: „Datacenter“, „Datacenter without Hyper-V“, „Enterprise“, „Enterprise without Hyper-V“, „for Itanium-Based Systems“, „Foundation“, „Standard“, „Standard without Hyper-V“, „Web“\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas. Žiūrėkite toliau pateiktas perkėlimo gaires.\n"
 products:
@@ -20,10 +20,19 @@ supportDates:
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
+- version: Extended Security Update Year 3
+  startDate: 01/11/2022
+  endDate: 01/10/2023
+- version: Extended Security Update Year 2
+  startDate: 01/12/2021
+  endDate: 01/11/2022
+- version: Extended Security Update Year 1
+  startDate: 01/14/2020
+  endDate: 01/12/2021
 - version: Service Pack 2
   startDate: 04/29/2009
   endDate: 01/14/2020
 - version: Original Release
   startDate: 05/06/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](https://aka.ms/AA1ovn4)\n* [Serverio versijos naujinimo informacija](/windows-server/upgrade/upgrade-overview)\n* [Kas yra išplėstinio saugos naujinimo (ESU) programa?](/lifecycle/faq/extended-security-updates)\n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Išplėstinio saugumo naujinimas (ESU) galimas per specifinio dydžio licencijos programas šio produkto „Datacenter“, „Standard“, „Enterprise“ ir „Embedded“ leidimams iki trejų papildomų metų po palaikymo pabaigos. Norėdami sužinoti daugiau kreipkitės į „Microsoft“ partnerį arba paskyros komandą. \n\nLeidimas-------------------------------Pradžios data----Pabaigos data\n\nIšplėstinis saugos naujinimas 3 metai---01/11/2022---01/10/2023\n\nIšplėstinis saugos naujinimas 2 metai---01/12/2021---01/11/2022\n\nIšplėstinis saugos naujinimas 1 metai---01/14/2020---01/12/2021\n> [!NOTE]\n> „Windows Server 2008 Foundation“ išleistas 2009 m. gegužės 21 d.\n\n## <a name=\"editions\"></a>Leidimai \n* „Datacenter“\n* Duomenų centras be „Hyper-V“\n* „Enterprise“\n* „Enterprise“ be „Hyper-V“\n* „Itanium“ pagrindu sukurtoms sistemoms\n* Fondas\n* „Standard“\n* „Standard“ be „Hyper-V“\n* Žiniatinklis"
+content: "> [!TIP]\n> *Išplėstinio saugumo naujinimas (ESU) galimas per specifinio dydžio licencijos programas šio produkto „Datacenter“, „Standard“, „Enterprise“ ir „Embedded“ leidimams iki trejų papildomų metų po palaikymo pabaigos. Norėdami sužinoti daugiau kreipkitės į „Microsoft“ partnerį arba paskyros komandą. \n\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](https://aka.ms/AA1ovn4)\n* [Serverio versijos naujinimo informacija](/windows-server/upgrade/upgrade-overview)\n* [Kas yra išplėstinio saugos naujinimo (ESU) programa?](/lifecycle/faq/extended-security-updates)\n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> „Windows Server 2008 Foundation“ išleistas 2009 m. gegužės 21 d.\n\n## <a name=\"editions\"></a>Leidimai \n* „Datacenter“\n* Duomenų centras be „Hyper-V“\n* „Enterprise“\n* „Enterprise“ be „Hyper-V“\n* „Itanium“ pagrindu sukurtoms sistemoms\n* Fondas\n* „Standard“\n* „Standard“ be „Hyper-V“\n* Žiniatinklis"
