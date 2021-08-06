@@ -2,22 +2,25 @@
 metadata:
   title: „Windows Server“
   description: „Windows Server“ atitinka šiuolaikinę ciklo palaikymo strategiją.
-  ms.date: 10/19/2020
+  ms.date: 07/12/2021
   keywords: 
-  ms.openlocfilehash: cc8dd57a0773e9b67fd312e52d7f25bbb96ce10e
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
+  ms.openlocfilehash: 79c81dbee5c7ce3220e5cba21c2f116a65eaf0bf
+  ms.sourcegitcommit: c5cb11b464035a1b4d239621b8d4bf06f574da82
   ms.translationtype: HT
   ms.contentlocale: lt-LT
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162342"
+  ms.lasthandoff: 07/28/2021
+  ms.locfileid: "2255178"
 name: „Windows Server“
-summary: "„Windows Server“ atitinka [šiuolaikinę](/lifecycle/policies/modern) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: „Datacenter“, „Standard“\n\n"
+summary: "„Windows Server“ atitinka [šiuolaikinę](/lifecycle/policies/modern) ciklo palaikymo strategiją. \n\n\nTai taikoma šiems leidimams: „Datacenter“, „Standard“\n\n\n\n"
 products:
 - windows
 policyType: modern-on-prem
 supportDates:
   start: 10/17/2017
 releases:
+- version: Version 21H1
+  startDate: 05/18/2021
+  endDate: 12/13/2022
 - version: Version 20H2
   startDate: 10/20/2020
   endDate: 05/10/2022
@@ -39,4 +42,4 @@ releases:
 - version: Version 1709
   startDate: 10/17/2017
   endDate: 04/09/2019
-content: "\n## <a name=\"links\"></a>Saitai \n* [„Windows Server“ priežiūros kanalai: „LTSC“ ir „SAC“](/windows-server/get-started-19/servicing-channels-19)\n* [DUK apie ciklą – „Windows“ produktai](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n> [!NOTE]\n> „Windows Server“ 1809 versija buvo dar kartą išleista 2018 m. lapkričio 13 d. Palaikymo datos buvo atitinkamai pakeistos.\n\n## <a name=\"editions\"></a>Leidimai \n* „Datacenter“\n* „Standard“"
+content: "\n\n## <a name=\"links\"></a>Saitai \n* [„Windows“ konteinerių bazės vaizdo priežiūros trukmė](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n* [„Windows Server“ priežiūros kanalai: „LTSC“ ir „SAC“](/windows-server/get-started-19/servicing-channels-19)\n* [DUK apie ciklą – „Windows“ produktai](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n\n> [!NOTE]\n> Konteineriuose, išleistuose su anksčiau išvardytomis „Windows Server“ versijomis, nurodomos tos pačios ciklo palaikymo datos. Eikite į pagrindinį vaizdo aptarnavimo puslapį adresu [„Windows“ konteinerių bazės vaizdo aptarnavimo ciklai](https://docs.microsoft.com/virtualization/windowscontainers/deploy-containers/base-image-lifecycle) daugiau detalių.\n> [!NOTE]\n> „Windows Server“ 1809 versija buvo dar kartą išleista 2018 m. lapkričio 13 d. Palaikymo datos buvo atitinkamai pakeistos.\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Datacenter“\n* „Standard“"
