@@ -3,12 +3,12 @@ title: Ciklo duomenų eksportavimas
 description: Eksportuoti produkto ciklo informaciją
 ms.date: 01/06/2021
 layout: ContentPage
-ms.openlocfilehash: 4a27cd96ddaa1b3d128d9f1d711504d88c28e36e
-ms.sourcegitcommit: f24c8653f7fd67e5b3f9f41e17b47edcecb5856e
+ms.openlocfilehash: bb0772b4fd406f9567737896de01daedeb25333b5d6846137f164c4ef86ed314
+ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "1367572"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "2498965"
 ---
 # <a name="lifecycle-data-export"></a>Ciklo duomenų eksportavimas
 
