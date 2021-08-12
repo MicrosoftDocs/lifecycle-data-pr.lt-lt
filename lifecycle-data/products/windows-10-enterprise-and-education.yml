@@ -4,12 +4,12 @@ metadata:
   description: „Windows 10 Enterprise“ ir „Education“ atitinka šiuolaikinę ciklo palaikymo strategiją.
   ms.date: 04/23/2021
   keywords: 
-  ms.openlocfilehash: 0642fb0309b42b0a86300bb8e8f0fe2f5e15deec
-  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
+  ms.openlocfilehash: e4f4d2c662017aa3334a0b08db7b1e46e752c50257c057dd511222e65e58a3e1
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: lt-LT
-  ms.lasthandoff: 06/25/2021
-  ms.locfileid: "2029921"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2497559"
 name: „Windows 10 Enterprise and Education“
 summary: "„Windows 10 Enterprise“ ir „Education“ atitinka [šiuolaikinę](/lifecycle/policies/modern) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: „Education“, „Enterprise“\n\n> [!IMPORTANT]\n> „Microsoft“ toliau palaikys bent vieną „Windows 10“ pusmetinių naujinimų kanalą iki 2025 m. spalio 14 d.\nToliesnėje lentelėje pateikiamos iki šiol išleistos versijos.\n"
 products:
