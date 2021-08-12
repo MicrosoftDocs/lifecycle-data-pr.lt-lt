@@ -3,23 +3,17 @@ metadata:
   title: „Microsoft Internet Information Services 8.0“
   description: „Microsoft Internet Information Services 8.0“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 71be1061b611798489998e4437c1e3d80bbe19b3
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: lt-LT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "829121"
 name: „Microsoft Internet Information Services 8.0“
-summary: >+
+summary: |+
   „Microsoft Internet Information Services 8.0“ atitinka [fiksuotojo](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) ciklo palaikymo strategiją.
 
 
 products:
-- windows
+  - windows
 policyType: component
 supportDates:
   start: 10/30/2012
 releases:
-- version: Original Release
-  startDate: 10/30/2012
-content: "> [!TIP]\n> Šis leidimas yra žinomas kaip komponentas, kuris bus po pagrindinio produkto „Windows Server 2012“ ir „Windows 8“ ciklo palaikymo\n\n## <a name=\"links\"></a>Saitai \n* [„Windows Server 2012“](/lifecycle/products/windows-server-2012)\n* [„Windows 8“](/lifecycle/products/windows-8)\n\n\n\n"
+  - version: Original Release
+    startDate: 10/30/2012
+content: "> [!TIP]\n> Šis leidimas yra žinomas kaip komponentas, kuris bus po pagrindinio produkto „Windows Server 2012“ ir „Windows 8“ ciklo palaikymo\n\n## <a name=\"links\"></a>Saitai \n* [„Windows Server 2012“](/lifecycle/products/windows-server-2012)\n* [„Windows\_8“](/lifecycle/products/windows-8)\n\n\n\n"

@@ -3,33 +3,44 @@ metadata:
   title: „Microsoft Application Virtualization 4.6“
   description: „Microsoft Application Virtualization 4.6“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 09/01/2020
-  keywords: for Remote Desktop Services,for Windows Desktops,Sequencer
-  ms.openlocfilehash: e7ee52090b6e77209d2cc75b5862c21dfe4fe3dd
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: lt-LT
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935569"
+  keywords: 'for Remote Desktop Services,for Windows Desktops,Sequencer'
 name: „Microsoft Application Virtualization 4.6“
-summary: "„Microsoft Application Virtualization 4.6“ [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: nuotolinio darbalaukio tarnyboms, „Windows“ staliniams kompiuteriams, „Sequencer“\n\n"
+summary: |+
+  „Microsoft Application Virtualization 4.6“ [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. 
+
+  Tai taikoma šiems leidimams: nuotolinio darbalaukio tarnyboms, „Windows“ staliniams kompiuteriams, „Sequencer“
+
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 05/27/2010
   end: 07/14/2015
   extendedEnd: 07/14/2020
 releases:
-- version: Service Pack 3
-  startDate: 12/02/2013
-  endDate: 07/14/2020
-- version: Service Pack 2
-  startDate: 10/01/2012
-  endDate: 01/13/2015
-- version: Service Pack 1
-  startDate: 01/26/2011
-  endDate: 10/08/2013
-- version: Original Release
-  startDate: 05/27/2010
-  endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Saitai \n* [Produkto ir perkėlimo informacija](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Perkėlimo našumo rekomendacijos](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Nuo tada, kai „App-V 4.6“ klientas naudoja „App-V 4.5 Server“, „App-V 4.5 Server“ ir toliau bus palaikoma pagal palaikymo ciklo datas „App-V 4.6“, kai naudojamas su palaikoma „App-V 4.6“ klientu.\n\n## <a name=\"editions\"></a>Leidimai \n* nuotolinio darbalaukio tarnyboms\n* „Windows“ staliniams kompiuteriams\n* „Sequencer“"
+  - version: Service Pack 3
+    startDate: 12/02/2013
+    endDate: 07/14/2020
+  - version: Service Pack 2
+    startDate: 10/01/2012
+    endDate: 01/13/2015
+  - version: Service Pack 1
+    startDate: 01/26/2011
+    endDate: 10/08/2013
+  - version: Original Release
+    startDate: 05/27/2010
+    endDate: 04/10/2012
+content: |
+
+  ## <a name="links"></a>Saitai 
+  * [Produkto ir perkėlimo informacija](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)
+  * [Perkėlimo našumo rekomendacijos](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)
+  * [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > Nuo tada, kai „App-V 4.6“ klientas naudoja „App-V 4.5 Server“, „App-V 4.5 Server“ ir toliau bus palaikoma pagal palaikymo ciklo datas „App-V 4.6“, kai naudojamas su palaikoma „App-V 4.6“ klientu.
+
+  ## <a name="editions"></a>Leidimai 
+  * nuotolinio darbalaukio tarnyboms
+  * „Windows“ staliniams kompiuteriams
+  * „Sequencer“
