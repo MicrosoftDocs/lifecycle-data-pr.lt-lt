@@ -3,24 +3,34 @@ metadata:
   title: „Expression“
   description: „Expression“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 09/01/2020
-  keywords: Blend,Design,Encoder,Studio
-  ms.openlocfilehash: 2d2e5c18c1e8ca1b355bfe392df42d6a351e6585
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: lt-LT
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "936235"
+  keywords: 'Blend,Design,Encoder,Studio'
 name: „Expression“
-summary: "„Expression“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.\n\nTai taikoma šiems leidimams: „Blend“, „Design“, „Encoder“, „Studio“\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas. \n"
+summary: |
+  „Expression“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
+
+  Tai taikoma šiems leidimams: „Blend“, „Design“, „Encoder“, „Studio“
+
+  > [!IMPORTANT]
+  > Baigėsi šio produkto palaikymas. 
 products:
-- expression
+  - expression
 policyType: fixed
 supportDates:
   start: 07/27/2007
   end: 10/09/2012
   extendedEnd: 10/10/2017
 releases:
-- version: Original Release
-  startDate: 07/27/2007
-  endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> „Expression Blend“ pradžios data yra 2007 m. liepos 13 d. \n\n## <a name=\"editions\"></a>Leidimai \n* „Blend“\n* „Design“\n* „Encoder“\n* „Studio“"
+  - version: Original Release
+    startDate: 07/27/2007
+    endDate: 10/10/2017
+content: |
+
+
+  > [!NOTE]
+  > „Expression Blend“ pradžios data yra 2007 m. liepos 13 d. 
+
+  ## <a name="editions"></a>Leidimai 
+  * „Blend“
+  * „Design“
+  * „Encoder“
+  * „Studio“

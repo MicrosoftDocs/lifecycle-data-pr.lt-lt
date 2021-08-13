@@ -3,30 +3,25 @@ metadata:
   title: „Microsoft System Center Virtual Machine Manager 2007“
   description: „Microsoft System CenterVirtual Machine Manager 2007“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
-  ms.openlocfilehash: f56ee87e6d98efe5304c881cf8adecfaa3e103d2
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: lt-LT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "829635"
 name: „Microsoft System Center Virtual Machine Manager 2007“
-summary: >
+summary: |
   „Microsoft System Center Virtual Machine Manager 2007“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
 
 
-
   > [!IMPORTANT]
-
   > Baigėsi šio produkto palaikymas. Žiūrėkite toliau pateiktas perkėlimo gaires.
 products:
-- msc
+  - msc
 policyType: fixed
 supportDates:
   start: 11/29/2007
   end: 01/08/2013
   extendedEnd: 01/09/2018
 releases:
-- version: Original Release
-  startDate: 11/29/2007
-  endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](https://blogs.technet.microsoft.com/scvmm/2017/01/10/system-center-virtual-machine-manager-2007-version-nearing-end-of-support/)"
+  - version: Original Release
+    startDate: 11/29/2007
+    endDate: 01/09/2018
+content: |+
+
+  ## <a name="links"></a>Saitai 
+  * [Perkėlimo našumo rekomendacijos](https://blogs.technet.microsoft.com/scvmm/2017/01/10/system-center-virtual-machine-manager-2007-version-nearing-end-of-support/)
