@@ -3,20 +3,24 @@ metadata:
   title: Internet Explorer 9
   description: „Internet Explorer 9“ atitinka komponento ciklo palaikymo strategiją.
   ms.date: 08/12/2020
-  ms.openlocfilehash: 56f6d95703597d63faee14b9b135d0d6611e80c8
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: HT
-  ms.contentlocale: lt-LT
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893618"
 name: Internet Explorer 9
-summary: "„Internet Explorer 9“ atitinka [komponento](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) ciklo palaikymo strategijos. \n\n\n"
+summary: |+
+  „Internet Explorer 9“ atitinka [komponento](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) ciklo palaikymo strategijos. 
+
+
 products:
-- internet-explorer
+  - internet-explorer
 policyType: component
 supportDates:
   start: 03/15/2011
 releases:
-- version: Original Release
-  startDate: 03/15/2011
-content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](https://www.microsoft.com/itpro/microsoft-edge)\n* [DUK apie „Internet Explorer“ palaikymo trukmės strategiją](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Nuo 2016 m. sausio 12 d. techninis palaikymas bus užtikrinamas tik naujausiai konkrečiai operacinei sistemai skirtai „Internet Explorer“ versijai. Tik jai bus kuriami ir saugos naujiniai."
+  - version: Original Release
+    startDate: 03/15/2011
+content: |+
+
+  ## <a name="links"></a>Saitai 
+  * [Perkėlimo našumo rekomendacijos](https://www.microsoft.com/itpro/microsoft-edge)
+  * [DUK apie „Internet Explorer“ palaikymo trukmės strategiją](/lifecycle/faq/internet-explorer-microsoft-edge)
+
+  > [!NOTE]
+  > Nuo 2016 m. sausio 12 d. techninis palaikymas bus užtikrinamas tik naujausiai konkrečiai operacinei sistemai skirtai „Internet Explorer“ versijai. Tik jai bus kuriami ir saugos naujiniai.

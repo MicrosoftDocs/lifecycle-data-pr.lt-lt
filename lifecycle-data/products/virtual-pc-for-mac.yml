@@ -1,27 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Virtualusis kompiuteris, skirtas „Mac“
-  description: Virtualusis kompiuteris, skirtas „Mac“, atitinka fiksuotojo ciklo palaikymo strategiją.
+  title: 'Virtualusis kompiuteris, skirtas „Mac“'
+  description: 'Virtualusis kompiuteris, skirtas „Mac“, atitinka fiksuotojo ciklo palaikymo strategiją.'
   ms.date: 07/28/2020
-  ms.openlocfilehash: cf556aeada0feade9a260e41c921b5f0ac6638e7
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: lt-LT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "829586"
-name: Virtualusis kompiuteris, skirtas „Mac“
-summary: >+
+name: 'Virtualusis kompiuteris, skirtas „Mac“'
+summary: |+
   Virtualusis kompiuteris, skirtas „Mac“, atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 11/12/2003
   end: 04/13/2010
 releases:
-- version: Original Release
-  startDate: 11/12/2003
-  endDate: 01/13/2009
-content: "\n\n> [!NOTE]\n> Įtraukta versija 5.01, versija 5.02, versija 5.03, versija 5.04, versija 6.01, versija 6.02, versija 6.1, versijos 6.1.1 naujinimas, versijos 7 naujinimas, versija 7.01"
+  - version: Original Release
+    startDate: 11/12/2003
+    endDate: 01/13/2009
+content: |+
+
+
+  > [!NOTE]
+  > Įtraukta versija 5.01, versija 5.02, versija 5.03, versija 5.04, versija 6.01, versija 6.02, versija 6.1, versijos 6.1.1 naujinimas, versijos 7 naujinimas, versija 7.01

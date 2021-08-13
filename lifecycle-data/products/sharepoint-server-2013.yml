@@ -4,29 +4,30 @@ metadata:
   description: „SharePoint Server 2013“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 09/02/2020
   keywords: ''
-  ms.openlocfilehash: ccd15eb6ef3e1766b31cadaa08b558c6071fddf9
-  ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: HT
-  ms.contentlocale: lt-LT
-  ms.lasthandoff: 09/02/2020
-  ms.locfileid: "941605"
 name: „SharePoint Server 2013“
-summary: >+
+summary: |+
   „SharePoint Server 2013“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
 
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 01/09/2013
   end: 04/10/2018
   extendedEnd: 04/11/2023
 releases:
-- version: Service Pack 1
-  startDate: 02/25/2014
-  endDate: 04/11/2023
-- version: Original Release
-  startDate: 01/09/2013
-  endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Saitai \n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)\n* [Techninės priežiūros informacija](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> Peržiūrėkite [produkto](https://docs.microsoft.com/sharepoint/sharepoint-server) ir [kūrėjo](https://developer.microsoft.com/sharepoint/docs) dokumentus."
+  - version: Service Pack 1
+    startDate: 02/25/2014
+    endDate: 04/11/2023
+  - version: Original Release
+    startDate: 01/09/2013
+    endDate: 04/14/2015
+content: |+
+
+  ## <a name="links"></a>Saitai 
+  * [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)
+  * [Techninės priežiūros informacija](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)
+
+  > [!NOTE]
+  > Peržiūrėkite [produkto](https://docs.microsoft.com/sharepoint/sharepoint-server) ir [kūrėjo](https://developer.microsoft.com/sharepoint/docs) dokumentus.
