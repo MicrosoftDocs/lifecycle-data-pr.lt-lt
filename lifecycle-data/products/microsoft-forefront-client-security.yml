@@ -3,25 +3,25 @@ metadata:
   title: Microsoft Forefront Client Security
   description: „Microsoft Forefront Client Security“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 08/28/2020
-  ms.openlocfilehash: 335ae81ffa4b7cb64352b19e7330765a4cac6c68
-  ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
-  ms.translationtype: HT
-  ms.contentlocale: lt-LT
-  ms.lasthandoff: 08/28/2020
-  ms.locfileid: "924264"
 name: Microsoft Forefront Client Security
-summary: >+
+summary: |+
   „Microsoft Forefront Client Security“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
 
 
 products:
-- msc
+  - msc
 policyType: fixed
 supportDates:
   start: 08/02/2007
   extendedEnd: 07/14/2015
 releases:
-- version: Original Release
-  startDate: 08/02/2007
-  endDate: 07/14/2015
-content: "\n## <a name=\"links\"></a>Saitai \n* [„System Center Endpoint Protection“](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> „Forefront Client Security“ nebeveikia nuo 2015 m. liepos 14 d. Pasibaigus produkto versijos palaikymui, apsaugos nuo kenkėjiškų programų ir apsaugos nuo šnipinėjimo programų aprašų naujinimai nebebus pasiekiami. Įvertinkite „System Center Endpoint Protection“ kaip pakeitimą."
+  - version: Original Release
+    startDate: 08/02/2007
+    endDate: 07/14/2015
+content: |+
+
+  ## <a name="links"></a>Saitai 
+  * [„System Center Endpoint Protection“](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)
+
+  > [!NOTE]
+  > „Forefront Client Security“ nebeveikia nuo 2015 m. liepos 14 d. Pasibaigus produkto versijos palaikymui, apsaugos nuo kenkėjiškų programų ir apsaugos nuo šnipinėjimo programų aprašų naujinimai nebebus pasiekiami. Įvertinkite „System Center Endpoint Protection“ kaip pakeitimą.
