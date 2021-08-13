@@ -3,29 +3,22 @@ metadata:
   title: „Microsoft Antigen“
   description: „Microsoft Antigen“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 09/10/2020
-  keywords: 9.0 for Exchange,Enterprise Manager 9.0,for SMTP Gateways,Spam Manager
-  ms.openlocfilehash: ab3c9aa07c1afe64cd5a98d0d6a885617221afc0
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: lt-LT
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001990"
+  keywords: '9.0 for Exchange,Enterprise Manager 9.0,for SMTP Gateways,Spam Manager'
 name: „Microsoft Antigen“
-summary: >+
+summary: |+
   „Microsoft Antigen“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
-
 
   Tai taikoma šiems leidimams: „9.0 for Exchange“, „Enterprise Manager 9.0“, „for SMTP Gateways“, pašto šiukšlių tvarkytuvas
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 07/17/2006
   end: 04/08/2014
   extendedEnd: 12/31/2015
 releases:
-- version: Original Release
-  startDate: 07/17/2006
-  endDate: 12/31/2015
-content: "\n\n> [!NOTE]\n> Pasikeitė „Forefront“ prekės ženklo saugos produktų planas. Šis produktas nutraukiamas nuo 2015 m. gruodžio 31 d.\n\n## <a name=\"editions\"></a>Leidimai \n* „9.0 for Exchange“\n* „Enterprise Manager 9.0“\n* skirta „SMTP Gateways“\n* Pašto šiukšlių tvarkytuvas\n"
+  - version: Original Release
+    startDate: 07/17/2006
+    endDate: 12/31/2015
+content: "\n\n> [!NOTE]\n> Pasikeitė „Forefront“ prekės ženklo saugos produktų planas.\_Šis produktas nutraukiamas nuo 2015 m. gruodžio 31 d.\n\n## <a name=\"editions\"></a>Leidimai \n* „9.0 for Exchange“\n* „Enterprise Manager 9.0“\n* skirta „SMTP Gateways“\n* Pašto šiukšlių tvarkytuvas\n"

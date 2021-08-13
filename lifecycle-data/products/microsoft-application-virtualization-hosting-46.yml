@@ -1,35 +1,43 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: „Microsoft Application Virtualization Hosting 4.6“, skirtas staliniams kompiuteriams
-  description: „Microsoft Application Virtualization Hosting 4.6“, skirta „Windows“ staliniams kompiuteriams, atitinka fiksuotąją ciklo palaikymo strategiją.
+  title: '„Microsoft Application Virtualization Hosting 4.6“, skirtas staliniams kompiuteriams'
+  description: '„Microsoft Application Virtualization Hosting 4.6“ , skirta „Windows“ staliniams kompiuteriams, atitinka fiksuotąją ciklo palaikymo strategiją.'
   ms.date: 09/01/2020
   keywords: for Windows Desktops
-  ms.openlocfilehash: 8a32729ae5fbf7f57a14b6a6ec048c7a1f412a52
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: lt-LT
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935458"
-name: „Microsoft Application Virtualization Hosting 4.6“, skirtas staliniams kompiuteriams
-summary: "„Microsoft Application Virtualization Hosting 4.6“, skirta „Windows“ staliniams kompiuteriams, atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: „Windows“ staliniams kompiuteriams\n\n"
+name: '„Microsoft Application Virtualization Hosting 4.6“, skirtas staliniams kompiuteriams'
+summary: |+
+  „Microsoft Application Virtualization Hosting 4.6“, skirta „Windows“ staliniams kompiuteriams, atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. 
+
+  Tai taikoma šiems leidimams: „Windows“ staliniams kompiuteriams
+
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 05/27/2010
   end: 07/14/2015
   extendedEnd: 07/14/2020
 releases:
-- version: Service Pack 3
-  startDate: 12/02/2013
-  endDate: 07/14/2020
-- version: Service Pack 2
-  startDate: 10/01/2012
-  endDate: 01/13/2015
-- version: Service Pack 1
-  startDate: 01/26/2011
-  endDate: 10/08/2013
-- version: Original Release
-  startDate: 05/27/2010
-  endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Saitai \n* [Produkto ir perkėlimo informacija](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Nuo tada, kai „App-V 4.6“ klientas naudoja „App-V 4.5 Server“, „App-V 4.5 Server“ ir toliau bus palaikoma pagal palaikymo ciklo datas „App-V 4.6“, kai naudojamas su palaikomu „App-V 4.6“ klientu.\n\n## <a name=\"editions\"></a>Leidimai \n* „Windows“ staliniams kompiuteriams"
+  - version: Service Pack 3
+    startDate: 12/02/2013
+    endDate: 07/14/2020
+  - version: Service Pack 2
+    startDate: 10/01/2012
+    endDate: 01/13/2015
+  - version: Service Pack 1
+    startDate: 01/26/2011
+    endDate: 10/08/2013
+  - version: Original Release
+    startDate: 05/27/2010
+    endDate: 04/10/2012
+content: |
+
+  ## <a name="links"></a>Saitai 
+  * [Produkto ir perkėlimo informacija](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)
+  * [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > Nuo tada, kai „App-V 4.6“ klientas naudoja „App-V 4.5 Server“, „App-V 4.5 Server“ ir toliau bus palaikoma pagal palaikymo ciklo datas „App-V 4.6“, kai naudojamas su palaikoma „App-V 4.6“ klientu.
+
+  ## <a name="editions"></a>Leidimai 
+  * „Windows“ staliniams kompiuteriams

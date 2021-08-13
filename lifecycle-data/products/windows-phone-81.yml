@@ -3,22 +3,27 @@ metadata:
   title: „Windows Phone 8.1“
   description: „Windows Phone 8.1“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 07/28/2020
-  ms.openlocfilehash: d81cd34117e63701bf48f128d7d3aafdd93ac581
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: lt-LT
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "859054"
 name: „Windows Phone 8.1“
-summary: "„Windows Phone 8.1“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas.\n"
+summary: |
+  „Windows Phone 8.1“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją. 
+
+
+  > [!IMPORTANT]
+  > Baigėsi šio produkto palaikymas.
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 06/24/2014
   end: 07/11/2017
 releases:
-- version: Original Release
-  startDate: 06/24/2014
-  endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Saitai \n* [ DUK apie „Windows Phone 8.1“](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> „Microsoft“ mažiausiai 36 mėnesius nuo ciklo pradžios datos pateiks operacinės sistemos naujinimus, įskaitant saugos naujinimus. Šie naujinimai bus papildomieji – kiekvienas naujinimas bus sukurtas ankstesniojo naujinimo pagrindu. Kad nenutrūktų palaikymas, klientai turi įdiegti kiekvieną išleidžiamą naujinimą. Šių papildomų naujinimų platinimą gali valdyti mobiliojo ryšio operatorius arba telefono gamintojas, iš kurio įsigijote telefoną, o diegiant reikės, kad jūsų telefone būtų visi išankstiniai naujinimai. Naujinimo pasiekiamumas taip pat priklausys nuo šalies, regiono ir aparatūros galimybių."
+  - version: Original Release
+    startDate: 06/24/2014
+    endDate: 07/11/2017
+content: |+
+
+  ## <a name="links"></a>Saitai 
+  * [ DUK apie „Windows Phone 8.1“](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)
+
+  > [!NOTE]
+  > „Microsoft“ mažiausiai 36 mėnesius nuo ciklo pradžios datos pateiks operacinės sistemos naujinimus, įskaitant saugos naujinimus. Šie naujinimai bus papildomieji – kiekvienas naujinimas bus sukurtas ankstesniojo naujinimo pagrindu. Kad nenutrūktų palaikymas, klientai turi įdiegti kiekvieną išleidžiamą naujinimą. Šių papildomų naujinimų platinimą gali valdyti mobiliojo ryšio operatorius arba telefono gamintojas, iš kurio įsigijote telefoną, o diegiant reikės, kad jūsų telefone būtų visi išankstiniai naujinimai. Naujinimo pasiekiamumas taip pat priklausys nuo šalies, regiono ir aparatūros galimybių.

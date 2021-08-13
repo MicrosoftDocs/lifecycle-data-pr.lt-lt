@@ -3,29 +3,31 @@ metadata:
   title: „Microsoft BizTalk Adapter 2.0“
   description: „Microsoft BizTalk Adapter 2.0“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 09/01/2020
-  keywords: for MSMQ,for mySAP Business Suite,for SAP
-  ms.openlocfilehash: e6ccc3e11575a0d48e60228fa8eca4d1e4849669
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: lt-LT
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "934755"
+  keywords: 'for MSMQ,for mySAP Business Suite,for SAP'
 name: „Microsoft BizTalk Adapter 2.0“
-summary: >+
+summary: |+
   „Microsoft BizTalk Adapter 2.0“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
-
 
   Tai taikoma šiems leidimams: MSMQ, „mySAP Business Suite“, SAP
 
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 10/20/2004
   end: 01/12/2010
   extendedEnd: 01/13/2015
 releases:
-- version: Original Release
-  startDate: 10/20/2004
-  endDate: 01/13/2015
-content: "\n\n> [!NOTE]\n> „Microsoft BizTalk Adapter 2.0“, skirto SAP, pradžios data yra 2004 m. lapkričio 2 d. „Microsoft BizTalk Adapter\", skirto MSMQ 2.0, pradžios data yra 2004 m. gruodžio 10 d.\n\n## <a name=\"editions\"></a>Leidimai \n* skirtas MSMQ\n* skirtas „mySAP Business Suite“\n* skirtas SAP"
+  - version: Original Release
+    startDate: 10/20/2004
+    endDate: 01/13/2015
+content: |
+
+
+  > [!NOTE]
+  > „Microsoft BizTalk Adapter 2.0“, skirto SAP, pradžios data yra 2004 m. lapkričio 2 d. „Microsoft BizTalk Adapter", skirto MSMQ 2.0, pradžios data yra 2004 m. gruodžio 10 d.
+
+  ## <a name="editions"></a>Leidimai 
+  * skirtas MSMQ
+  * skirtas „mySAP Business Suite“
+  * skirtas SAP
