@@ -4,14 +4,14 @@ metadata:
   description: „Windows Storage Server 2008“ atitinka fiksuotąją ciklo palaikymo strategiją.
   ms.date: 09/01/2020
   keywords: Basic,Basic 32-Bit,Basic 64-bit,Basic Embedded,Basic Embedded 32-bit,Enterprise,Enterprise Embedded,Standard,Standard Embedded,Workgroup
-  ms.openlocfilehash: 8953fec16d2e39e18ff29a4e7ad1f297888f0b75
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 7c8c31e0c0a097e251c7f9ee15281b81ba1478ad5f3944020029630aa1bcdd0d
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: lt-LT
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939047"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2486459"
 name: „Windows Storage Server 2008“
-summary: "„Windows Storage Server 2008“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: „Basic“, „Basic“ 32 bitų, „Basic“ 64 bitų, „Basic Embedded“, „Basic Embedded“ 32 bitų, „Enterprise“, „Enterprise Embedded“, „Standard“, „Standard Embedded“, „Workgroup“\n\n> [!IMPORTANT]\n> Šio produkto palaikymas nutrauktas. Toliau pateikiamos nuorodos dėl perkėlimo.\n"
+summary: "„Windows Storage Server 2008“ atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: „Basic“, „Basic 32-Bit“, „Basic 64-bit“, „Basic Embedded“, „Basic Embedded 32-bit“, „Enterprise“, „Enterprise Embedded“, „Standard“, „Standard Embedded“, „Workgroup“\n\n> [!IMPORTANT]\n> Šio produkto palaikymas nutrauktas. Toliau pateikiamos nuorodos dėl perkėlimo.\n"
 products:
 - windows
 policyType: fixed
