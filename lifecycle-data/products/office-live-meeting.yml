@@ -4,22 +4,29 @@ metadata:
   description: „Office Live Meeting“ atitinka šiuolaikinę ciklo palaikymo strategiją.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: f5d328b887173c82655f707e9d931266c2d7b857
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: lt-LT
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "928909"
 name: „Office Live Meeting“
-summary: "„Office Live Meeting“ atitinka [šiuolaikinę](/lifecycle/policies/modern) ciklo palaikymo strategiją.\n\nTai taikoma šiems leidimams: „Standard“\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas. Žiūrėkite toliau pateiktas perkėlimo gaires. \n"
+summary: |
+  „Office Live Meeting“ atitinka [šiuolaikinę](/lifecycle/policies/modern) ciklo palaikymo strategiją.
+
+  Tai taikoma šiems leidimams: „Standard“
+
+  > [!IMPORTANT]
+  > Baigėsi šio produkto palaikymas. Žiūrėkite toliau pateiktas perkėlimo gaires. 
 products:
-- office
+  - office
 policyType: modern-online
 supportDates:
   start: 04/10/2009
   end: 12/31/2017
 releases:
-- version: Original Release
-  startDate: 04/10/2009
-  endDate: 12/31/2017
-content: "\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](https://support.office.com/article/Live-Meeting-Server-End-of-Life-6af25745-1f4a-4bcd-8051-fd0766f53c4f)\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Standard“"
+  - version: Original Release
+    startDate: 04/10/2009
+    endDate: 12/31/2017
+content: |
+
+  ## <a name="links"></a>Saitai 
+  * [Perkėlimo našumo rekomendacijos](https://support.office.com/article/Live-Meeting-Server-End-of-Life-6af25745-1f4a-4bcd-8051-fd0766f53c4f)
+
+
+  ## <a name="editions"></a>Leidimai 
+  * „Standard“
