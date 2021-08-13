@@ -3,24 +3,32 @@ metadata:
   title: Programinės įrangos licencijavimo ir apsaugos serveris
   description: Programinės įrangos licencijavimo ir apsaugos serveris atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 09/10/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 567392e4c49c46a29c7f9f80730542f0ded21608
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: lt-LT
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001065"
+  keywords: 'Enterprise,Standard'
 name: Programinės įrangos licencijavimo ir apsaugos serveris
-summary: "Programinės įrangos licencijavimo ir apsaugos serveris atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\nTai taikoma šiems leidimams: „Enterprise“, „Standard“\n\n> [!IMPORTANT]\n> Dėl programinės įrangos licencijavimo ir apsaugos serverio (SLPS) pardavimo „Microsoft“ palaiko SLPS iki 2009 m. rugsėjo 24 d.\n"
+summary: |
+  Programinės įrangos licencijavimo ir apsaugos serveris atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. 
+
+  Tai taikoma šiems leidimams: „Enterprise“, „Standard“
+
+  > [!IMPORTANT]
+  > Dėl programinės įrangos licencijavimo ir apsaugos serverio (SLPS) pardavimo „Microsoft“ palaiko SLPS iki 2009 m. rugsėjo 24 d.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 12/30/2007
   end: 09/24/2009
   extendedEnd: 09/24/2009
 releases:
-- version: Original Release
-  startDate: 12/30/2007
-  endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Saitai \n* [Programinės įrangos licencijavimo ir apsaugos serveris (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Enterprise“\n* „Standard“"
+  - version: Original Release
+    startDate: 12/30/2007
+    endDate: 01/09/2018
+content: |
+
+  ## <a name="links"></a>Saitai 
+  * [Programinės įrangos licencijavimo ir apsaugos serveris (SLPS)](https://www.microsoft.com/slps)
+
+
+  ## <a name="editions"></a>Leidimai 
+  * „Enterprise“
+  * „Standard“
