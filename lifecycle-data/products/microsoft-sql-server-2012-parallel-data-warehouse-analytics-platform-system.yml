@@ -3,24 +3,34 @@ metadata:
   title: „Microsoft SQL Server 2012 Parallel Data Warehouse“ („Analytics“ platformos sistema)
   description: „Microsoft SQL Server 2012 Parallel Data Warehouse“ („Analytics“ platformos sistema) atitinka fiksuotąją palaikymo ciklo strategiją.
   ms.date: 07/12/2021
-  keywords: 
-  ms.openlocfilehash: b8b7ba18a9194156b247cc21091283d7b6e3af28
-  ms.sourcegitcommit: 1629a54febaf89d1050ce02280d58f9ec8736d8c
-  ms.translationtype: HT
-  ms.contentlocale: lt-LT
-  ms.lasthandoff: 07/23/2021
-  ms.locfileid: "2172235"
+  keywords: null
 name: „Microsoft SQL Server 2012 Parallel Data Warehouse“ („Analytics“ platformos sistema)
-summary: "„Microsoft SQL Server 2012 Parallel Data Warehouse“ („Analytics“ platformos sistema) atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\n\n\n\n> [!IMPORTANT]\n> „Analytics“ platformos sistemos palaikymo pabaiga pratęsta nuo 2024 m. spalio 8 d. iki 2026 m. kovo 31 d.\n\n"
+summary: |+
+  „Microsoft SQL Server 2012 Parallel Data Warehouse“ („Analytics“ platformos sistema) atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją. 
+
+
+
+
+  > [!IMPORTANT]
+  > „Analytics“ platformos sistemos palaikymo pabaiga pratęsta nuo 2024 m. spalio 8 d. iki 2026 m. kovo 31 d.
+
 products:
-- sql-server
+  - sql-server
 policyType: fixed
 supportDates:
   start: 07/12/2013
   end: 10/08/2019
   extendedEnd: 03/31/2026
 releases:
-- version: Original Release
-  startDate: 07/12/2013
-  endDate: 10/08/2024
-content: "\n\n## <a name=\"links\"></a>Saitai \n* [Informacija apie gaminį](https://www.microsoft.com/sql-server/analytics-platform-system)\n\n\n> [!NOTE]\n> „SQL Server 2012 Parallel Data Warehouse“ (PDW) pervardytas į APS („Analytics“ platformos sistema)."
+  - version: Original Release
+    startDate: 07/12/2013
+    endDate: 10/08/2024
+content: |+
+
+
+  ## <a name="links"></a>Saitai 
+  * [Informacija apie gaminį](https://www.microsoft.com/sql-server/analytics-platform-system)
+
+
+  > [!NOTE]
+  > „SQL Server 2012 Parallel Data Warehouse“ (PDW) pervardytas į APS („Analytics“ platformos sistema).
