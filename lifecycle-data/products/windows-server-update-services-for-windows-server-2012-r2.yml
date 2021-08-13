@@ -1,25 +1,27 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: „Windows Server Update Services“, skirta „Windows Server 2012 R2“
-  description: „Windows Server Update Services“, skirtas „Windows Server 2012 R2“, atitinka komponento ciklo palaikymo strategiją.
+  title: '„Windows Server Update Services“, skirta „Windows Server 2012 R2“'
+  description: '„Windows Server Update Services“, skirtas „Windows Server 2012 R2“, atitinka komponento ciklo palaikymo strategiją.'
   ms.date: 01/22/2021
-  keywords: 
-  ms.openlocfilehash: efa11337dbeba8601a1ef70ef003f709f286e6b6
-  ms.sourcegitcommit: cea6a4b7fe734aba8b534ecdef302cb56c5f7cca
-  ms.translationtype: HT
-  ms.contentlocale: lt-LT
-  ms.lasthandoff: 01/23/2021
-  ms.locfileid: "1416758"
-name: „Windows Server Update Services“, skirta „Windows Server 2012 R2“
-summary: "„Windows Server Update Services“, skirtas „Windows Server 2012 R2“, atitinka [komponento](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) ciklo palaikymo strategiją. \n\n\n"
+  keywords: null
+name: '„Windows Server Update Services“, skirta „Windows Server 2012 R2“'
+summary: |+
+  „Windows Server Update Services“, skirtas „Windows Server 2012 R2“, atitinka [komponento](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) ciklo palaikymo strategiją. 
+
+
 products:
-- windows
+  - windows
 policyType: component
 supportDates:
   start: 11/25/2013
   end: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 11/25/2013
-  endDate: 10/10/2023
-content: "> [!TIP]\n> Šiam komponentui taikomas pagrindinio produkto, „Windows Server 2012 R2“, ciklas.\n\n## <a name=\"links\"></a>Saitai \n* [„Windows Server 2012 R2“](/lifecycle/)"
+  - version: Original Release
+    startDate: 11/25/2013
+    endDate: 10/10/2023
+content: |+
+  > [!TIP]
+  > Šiam komponentui taikomas pagrindinio produkto, „Windows Server 2012 R2“, ciklas.
+
+  ## <a name="links"></a>Saitai 
+  * [„Windows Server 2012 R2“](/lifecycle/)
