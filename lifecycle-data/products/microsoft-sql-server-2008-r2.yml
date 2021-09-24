@@ -2,64 +2,46 @@
 metadata:
   title: „Microsoft SQL Server 2008 R2“
   description: „Microsoft SQL Server 2008 R2“ atitinka fiksuotojo ciklo palaikymo strategiją.
-  ms.date: 04/23/2021
-  keywords: null
+  ms.date: 08/31/2021
+  keywords: 
+  ms.openlocfilehash: 8b01fd4da97f575b8fb19e16fd4aa1a221140af8
+  ms.sourcegitcommit: b7b46fb942fa16a0d96d486f6b591e470c048157
+  ms.translationtype: HT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 09/21/2021
+  ms.locfileid: "3460724"
 name: „Microsoft SQL Server 2008 R2“
-summary: |+
-  „Microsoft SQL Server 2008 R2“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. 
-
-  Tai taikoma šiems leidimams: „Datacenter“, „Developer“, „Enterprise“, „Express“, „Express“ su papildomomis paslaugomis, įdėtosioms sistemoms, „Standard“, „Standard Edition“ smulkiajam verslui, „Web“, „Workgroup“
-
+summary: "„Microsoft SQL Server 2008 R2“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\n\nTai taikoma šiems leidimams: „Datacenter“, „Developer“, „Enterprise“, „Express“, „Express“ su papildomomis paslaugomis, įdėtosioms sistemoms, „Standard“, „Standard Edition“ smulkiajam verslui, „Web“, „Workgroup“\n\n\n\n"
 products:
-  - sql-server
+- sql-server
 policyType: fixed
 supportDates:
   start: 07/20/2010
   end: 07/08/2014
   extendedEnd: 07/09/2019
 releases:
-  - version: Extended Security Update Year 3
-    startDate: 07/14/2021
-    endDate: 07/12/2022
-  - version: Extended Security Update Year 2
-    startDate: 07/15/2020
-    endDate: 07/13/2021
-  - version: Extended Security Update Year 1
-    startDate: 07/09/2019
-    endDate: 07/14/2020
-  - version: Service Pack 3
-    startDate: 07/07/2014
-    endDate: 07/09/2019
-  - version: Service Pack 2
-    startDate: 07/26/2012
-    endDate: 10/13/2015
-  - version: Service Pack 1
-    startDate: 07/12/2011
-    endDate: 10/08/2013
-  - version: Original Release
-    startDate: 07/20/2010
-    endDate: 07/10/2012
-content: |
-  > [!TIP]
-  > *Išplėstinio saugumo naujinimas (ESU) galimas šio produkto „Datacenter“, „Standard“, „Enterprise“ ir „Embedded“ leidimams iki trejų papildomų metų po palaikymo pabaigos. Norėdami sužinoti daugiau kreipkitės į „Microsoft“ partnerį arba paskyros komandą. 
-
-  ## <a name="links"></a>Saitai 
-  * [„SQL Server 2008“ ir „Windows Server 2008“ palaikymo pabaiga](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)
-  * [„SQL Server“ palaikymo pabaigos parinktys](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)
-  * [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)
-  * [Kas yra išplėstinio saugos naujinimo (ESU) programa?](/lifecycle/faq/extended-security-updates)
-
-  > [!NOTE]
-  > Tik „IA64“ atveju SP2 bus palaikomas iki 2019 m. rugsėjo 7 d. Daugiau informacijos rasite „SQL Release Services“ bendruomenės tinklaraštyje.
-
-  ## <a name="editions"></a>Leidimai 
-  * „Datacenter“
-  * „Developer“
-  * „Enterprise“
-  * „Express“
-  * „Express“ su išplėstinėmis paslaugomis
-  * skirta „Embedded Systems“
-  * „Standard“
-  * Standartinis leidimas smulkiajam verslui
-  * Žiniatinklis
-  * „Workgroup“
+- version: Extended Security Update Year 4 (Azure only)
+  startDate: 07/13/2022
+  endDate: 07/11/2023
+- version: Extended Security Update Year 3
+  startDate: 07/14/2021
+  endDate: 07/12/2022
+- version: Extended Security Update Year 2
+  startDate: 07/15/2020
+  endDate: 07/13/2021
+- version: Extended Security Update Year 1
+  startDate: 07/09/2019
+  endDate: 07/14/2020
+- version: Service Pack 3
+  startDate: 07/07/2014
+  endDate: 07/09/2019
+- version: Service Pack 2
+  startDate: 07/26/2012
+  endDate: 10/13/2015
+- version: Service Pack 1
+  startDate: 07/12/2011
+  endDate: 10/08/2013
+- version: Original Release
+  startDate: 07/20/2010
+  endDate: 07/10/2012
+content: "> [!TIP]\n> *Išplėstinio saugumo naujinimas (ESU) galimas šio produkto „Datacenter“, „Standard“, „Enterprise“ ir „Embedded“ leidimams iki trejų papildomų metų po palaikymo pabaigos. Norėdami sužinoti daugiau kreipkitės į „Microsoft“ partnerį arba paskyros komandą. \n\n\n## <a name=\"links\"></a>Saitai \n* [„SQL Server 2008“ ir „Windows Server 2008“ palaikymo pabaiga](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [„SQL Server“ palaikymo pabaigos parinktys](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)\n* [Kas yra išplėstinio saugos naujinimo (ESU) programa?](/lifecycle/faq/extended-security-updates)\n\n\n> [!NOTE]\n> Tik „IA64“ atveju SP2 bus palaikomas iki 2019 m. rugsėjo 7 d. Daugiau informacijos rasite „SQL Release Services“ bendruomenės tinklaraštyje.\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Datacenter“\n* „Developer“\n* „Enterprise“\n* „Express“\n* „Express“ su išplėstinėmis paslaugomis\n* skirta „Embedded Systems“\n* „Standard“\n* Standartinis leidimas smulkiajam verslui\n* Žiniatinklis\n* „Workgroup“"
