@@ -2,14 +2,14 @@
 metadata:
   title: „Internet Explorer 11“
   description: „Internet Explorer 11“ atitinka komponento ciklo palaikymo strategijos.
-  ms.date: 05/18/2021
-  keywords: 
-  ms.openlocfilehash: 3224f71b4a69cb311899809b385069ab7e3664274146044d9d624e29d3cde008
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.date: 11/03/2021
+  keywords: IE
+  ms.openlocfilehash: 395b45e3032265adf245359b254cbf5426bbd182
+  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
   ms.translationtype: HT
   ms.contentlocale: lt-LT
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2519759"
+  ms.lasthandoff: 11/04/2021
+  ms.locfileid: "3560014"
 name: „Internet Explorer 11“
 summary: "„Internet Explorer 11“ atitinka [komponento](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) ciklo palaikymo strategiją. \n\n\n\n\n> [!IMPORTANT]\n> Atkreipkite dėmesį, kad „Internet Explorer“ (IE) 11 darbalaukio programa nustos palaikyti tam tikras operacines sistemas nuo 2022 m. birželio 15 d. Klientai raginami pereiti į „Microsoft Edge“ su IE režimu. IE režimas įgalina atgalinį suderinamumą ir bus palaikomas mažiausiai iki 2029 m. Be to, „Microsoft“ praneš apie tai likus metams iki IE režimo panaikinimo. Eikite [čia](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-) norėdami peržiūrėti „Internet Explorer“ palaikančių operacinių sistemų sąrašą, įskaitant versijas, susijusias su šiuo pranešimu.\n\n"
 products:
@@ -20,4 +20,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2013
-content: "\n\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](https://www.microsoft.com/itpro/microsoft-edge)\n* [DUK apie „Internet Explorer“ ir „Microsoft Edge“ gyvavimo ciklą](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [„Internet Explorer“ palaikomos operacinės sistemos](/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)\n* [„Microsoft Edge“ palaikomos operacinės sistemos](/deployedge/microsoft-edge-supported-operating-systems)\n\n\n> [!NOTE]\n> Kai kurios „Internet Explorer“ versijos gali būti palaikomos po paskutinės operacinės sistemos pabaigos datos, kai galimi išplėstiniai saugos naujinimai (ESU). Eikite [čia](https://docs.microsoft.com/lifecycle/faq/extended-security-updates), kur rasite produktų, palaikančių ESU, sąrašą."
+content: "\n\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [DUK apie „Internet Explorer“ ir „Microsoft Edge“ gyvavimo ciklą](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [„Internet Explorer“ palaikomos operacinės sistemos](/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)\n* [„Microsoft Edge“ palaikomos operacinės sistemos](/deployedge/microsoft-edge-supported-operating-systems)\n\n\n> [!NOTE]\n> Kai kurios „Internet Explorer“ versijos gali būti palaikomos po paskutinės operacinės sistemos pabaigos datos, kai galimi išplėstiniai saugos naujinimai (ESU). Eikite [čia](https://docs.microsoft.com/lifecycle/faq/extended-security-updates), kur rasite produktų, palaikančių ESU, sąrašą."
