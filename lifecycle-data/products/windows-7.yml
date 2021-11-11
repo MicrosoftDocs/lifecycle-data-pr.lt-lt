@@ -1,62 +1,38 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "„Windows\_7“"
+  title: „Windows 7“
   description: „Windows 7“ atitinka fiksuotąją palaikymo trukmės strategiją.
-  ms.date: 09/01/2020
-  keywords: 'Enterprise,Enterprise N,Home Basic,Home Premium,Home Premium N,Professional,Professional for Embedded Systems,Professional N,Starter,Starter N,Ultimate,Ultimate for Embedded Systems,Ultimate N'
-name: "„Windows\_7“"
-summary: |
-  „Windows 7“ atitinka [fiksuotąją](/lifecycle/policies/fixed) palaikymo trukmės strategiją. 
-
-  Tai taikoma šiems leidimams: „Enterprise“, „Enterprise N“, „Home Basic“, „Home Premium“, „Home Premium N“, „Professional“, „Professional for Embedded Systems“, „Professional N“, „Starter“, „Starter N“, „Ultimate“, „Ultimate for Embedded Systems“, „Ultimate N“
-
-  > [!IMPORTANT]
-  > Baigėsi šio produkto palaikymas. Žiūrėkite toliau pateiktas perkėlimo gaires. 
+  ms.date: 10/19/2021
+  keywords: 
+  ms.openlocfilehash: 006d77b325d21e4696c54f95f7e95804aa5420de
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
+  ms.translationtype: HT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3546680"
+name: „Windows 7“
+summary: "„Windows 7“ atitinka [fiksuotąją](/lifecycle/policies/fixed) palaikymo trukmės strategiją. \n\n\nTai taikoma šiems leidimams: „Enterprise“, „Enterprise N“, „Home Basic“, „Home Premium“, „Home Premium N“, „Professional“, „Professional for Embedded Systems“, „Professional N“, „Starter“, „Starter N“, „Ultimate“, „Ultimate for Embedded Systems“, „Ultimate N“\n\n\n> [!IMPORTANT]\n> Baigėsi šio produkto palaikymas. Žiūrėkite toliau pateiktas perkėlimo gaires. \n\n"
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
   start: 10/22/2009
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
-  - version: Extended Security Update Year 3*
-    startDate: 01/11/2022
-    endDate: 01/10/2023
-  - version: Extended Security Update Year 2*
-    startDate: 01/12/2021
-    endDate: 01/11/2022
-  - version: Extended Security Update Year 1*
-    startDate: 01/14/2020
-    endDate: 01/12/2021
-  - version: Service Pack 1
-    startDate: 02/22/2011
-    endDate: 01/14/2020
-  - version: Original Release
-    startDate: 10/22/2009
-    endDate: 04/09/2013
-content: |
-  > [!TIP]
-  > *Išplėstinio saugumo naujinimas (ESU) galimas šio produkto „Windows 7 Professional“, „Enterprise“ ir „Professional for Embedded Systems“ leidimams iki trejų papildomų metų po palaikymo pabaigos. Norėdami sužinoti daugiau kreipkitės į „Microsoft“ partnerį arba paskyros komandą. 
-
-  ## <a name="links"></a>Saitai 
-  * [Perkėlimo našumo rekomendacijos](https://support.microsoft.com/help/4057281)
-  * [Versijos naujinimas iš „Windows 7“ į „Windows 10“](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)
-  * [Kas yra išplėstinio saugos naujinimo (ESU) programa?](/lifecycle/faq/extended-security-updates)
-  * [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)
-
-
-  ## <a name="editions"></a>Leidimai 
-  * „Enterprise“
-  * „Enterprise N“
-  * „Home Basic“
-  * „Home Premium“
-  * „Home Premium N“
-  * „Professional“
-  * „Professional“, skirta įdėtosioms sistemoms
-  * „Profesionalus N“
-  * „Starter“
-  * „Starter N“
-  * „Ultimate“
-  * „Ultimate“, skirta įdėtosioms sistemoms
-  * „Ultimate N“
+- version: Extended Security Update Year 3*
+  startDate: 01/12/2022
+  endDate: 01/10/2023
+- version: Extended Security Update Year 2*
+  startDate: 01/13/2021
+  endDate: 01/11/2022
+- version: Extended Security Update Year 1*
+  startDate: 01/14/2020
+  endDate: 01/12/2021
+- version: Service Pack 1
+  startDate: 02/22/2011
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 10/22/2009
+  endDate: 04/09/2013
+content: "> [!TIP]\n> * Išplėstinio saugumo naujinimas (ESU) galimas šio produkto „Windows 7 Professional“, „Enterprise“ ir „Professional for Embedded Systems“ leidimams iki trejų papildomų metų po palaikymo pabaigos. Norėdami sužinoti daugiau kreipkitės į „Microsoft“ partnerį arba paskyros komandą. \n\n\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](https://support.microsoft.com/help/4057281)\n* [Versijos naujinimas iš „Windows 7“ į „Windows 10“](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [Kas yra išplėstinio saugos naujinimo (ESU) programa?](/lifecycle/faq/extended-security-updates)\n* [Pakeitimų paketo strategija](/lifecycle/policies/fixed#service-packs)\n\n\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Enterprise“\n* „Enterprise N“\n* „Home Basic“\n* „Home Premium“\n* „Home Premium N“\n* „Professional“\n* „Professional“, skirta įdėtosioms sistemoms\n* „Profesionalus N“\n* „Starter“\n* „Starter N“\n* „Ultimate“\n* „Ultimate“, skirta įdėtosioms sistemoms\n* „Ultimate N“"
