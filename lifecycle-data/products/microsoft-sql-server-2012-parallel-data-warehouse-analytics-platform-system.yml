@@ -3,34 +3,24 @@ metadata:
   title: „Microsoft SQL Server 2012 Parallel Data Warehouse“ („Analytics“ platformos sistema)
   description: „Microsoft SQL Server 2012 Parallel Data Warehouse“ („Analytics“ platformos sistema) atitinka fiksuotąją palaikymo ciklo strategiją.
   ms.date: 07/12/2021
-  keywords: null
+  keywords: 
+  ms.openlocfilehash: 9aaadf9136f7ac0543baa98e96a421f6a4bb0414
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4120706"
 name: „Microsoft SQL Server 2012 Parallel Data Warehouse“ („Analytics“ platformos sistema)
-summary: |+
-  „Microsoft SQL Server 2012 Parallel Data Warehouse“ („Analytics“ platformos sistema) atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją. 
-
-
-
-
-  > [!IMPORTANT]
-  > „Analytics“ platformos sistemos palaikymo pabaiga pratęsta nuo 2024 m. spalio 8 d. iki 2026 m. kovo 31 d.
-
+summary: "„Microsoft SQL Server 2012 Parallel Data Warehouse“ („Analytics“ platformos sistema) atitinka [fiksuotąją](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\n\n\n\n> [!IMPORTANT]\n> „Analytics“ platformos sistemos palaikymo pabaiga pratęsta nuo 2024 m. spalio 8 d. iki 2026 m. kovo 31 d.\n\n"
 products:
-  - sql-server
+- sql-server
 policyType: fixed
 supportDates:
-  start: 07/12/2013
-  end: 10/08/2019
-  extendedEnd: 03/31/2026
+  start: 2013-07-12T00:00:00.000-08:00
+  end: 2019-10-08T22:59:59.999-08:00
+  extendedEnd: 2026-03-31T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 07/12/2013
-    endDate: 10/08/2024
-content: |+
-
-
-  ## <a name="links"></a>Saitai 
-  * [Informacija apie gaminį](https://www.microsoft.com/sql-server/analytics-platform-system)
-
-
-  > [!NOTE]
-  > „SQL Server 2012 Parallel Data Warehouse“ (PDW) pervardytas į APS („Analytics“ platformos sistema).
+- version: Original Release
+  startDate: 2013-07-12T00:00:00.000-08:00
+  endDate: 2024-10-08T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Saitai \n* [Informacija apie gaminį](https://www.microsoft.com/sql-server/analytics-platform-system)\n\n\n> [!NOTE]\n> „SQL Server 2012 Parallel Data Warehouse“ (PDW) pervardytas į APS („Analytics“ platformos sistema)."
