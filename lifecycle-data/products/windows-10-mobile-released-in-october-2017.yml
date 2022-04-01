@@ -1,27 +1,31 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: '„Windows 10 Mobile“, išleista 2017 m. spalio mėn.'
-  description: '„Windows 10 Mobile“, išleista 2017 m. spalį, atitinka fiksuotojo ciklo palaikymo strategiją.'
+  title: „Windows 10 Mobile“, išleista 2017 m. spalio mėn.
+  description: „Windows 10 Mobile“, išleista 2017 m. spalį, atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
-name: '„Windows 10 Mobile“, išleista 2017 m. spalio mėn.'
-summary: |
+  ms.openlocfilehash: d13fa57cd9f94affd5849b104bb318dee291d3cb
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4118788"
+name: „Windows 10 Mobile“, išleista 2017 m. spalio mėn.
+summary: >
   „Windows 10 Mobile“, išleista 2017 m. spalį, atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją.
 
 
+
   > [!IMPORTANT]
+
   > Baigėsi šio produkto palaikymas.
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 10/17/2017
-  end: 12/10/2019
-  extendedEnd: 01/14/2020
+  start: 2017-10-17T00:00:00.000-08:00
+  end: 2019-12-10T22:59:59.999-08:00
+  extendedEnd: 2020-01-14T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 10/17/2017
-content: |+
-
-  ## <a name="links"></a>Saitai 
-  * [DUK apie įrenginio OS ciklo palaikymą](/lifecycle/faq/device-operating-systems)
-  * [„Windows 10 Mobile“ palaikymo pabaiga  – 2019 m. gruodžio 10 d.](/lifecycle/announcements/windows-10-mobile-end-of-support)
+- version: Original Release
+  startDate: 2017-10-17T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>Saitai \n* [DUK apie įrenginio OS ciklo palaikymą](/lifecycle/faq/device-operating-systems)\n* [„Windows 10 Mobile“ palaikymo pabaiga  – 2019 m. gruodžio 10 d.](/lifecycle/announcements/windows-10-mobile-end-of-support)"

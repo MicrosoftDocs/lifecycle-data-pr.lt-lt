@@ -4,23 +4,23 @@ metadata:
   description: „Windows Server 2019“ atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/09/2021
   keywords: 
-  ms.openlocfilehash: e34081f9884772bcc3d6aa54162cdaa565e9855a885118a5c778fba95408c6e4
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 38d26e4f3995db4395f241fe8bfd19c21ea0da05
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: lt-LT
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2486570"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4134840"
 name: „Windows Server 2019“
 summary: "„Windows Server 2019“ atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\n\nTai taikoma šiems leidimams: „Datacenter“, „Essentials“, „Standard“\n\n\n\n"
 products:
 - windows
 policyType: fixed
 supportDates:
-  start: 11/13/2018
-  end: 01/09/2024
-  extendedEnd: 01/09/2029
+  start: 2018-11-13T00:00:00.000-08:00
+  end: 2024-01-09T22:59:59.999-08:00
+  extendedEnd: 2029-01-09T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 11/13/2018
-  endDate: 01/09/2029
+  startDate: 2018-11-13T00:00:00.000-08:00
+  endDate: 2029-01-09T22:59:59.999-08:00
 content: "\n\n## <a name=\"links\"></a>Saitai \n* [Informacija apie gaminį](/windows-server/get-started-19/whats-new-19)\n* [Naujinimas, skirtas „Windows Server 2019“ ](https://aka.ms/WSRelaunchBlog)\n* [DUK apie ciklą – „Windows“ produktai](/lifecycle/faq/windows)\n* [„Windows“ konteinerių bazės vaizdų priežiūros ciklai.](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n\n\n> [!NOTE]\n> „Windows Server 2019“ išleisti konteineriai laikosi tos pačios ciklo palaikymo datos.\n> [!NOTE]\n> „Windows Server 2019“ ir „Windows Server“ 1809 versija buvo pakartotinai išleistos 2018 m. lapkričio 13 d. Palaikymo datos buvo atitinkamai pakeistos.\n\n\n## <a name=\"editions\"></a>Leidimai \n* „Datacenter“\n* „Essentials“\n* „Standard“"

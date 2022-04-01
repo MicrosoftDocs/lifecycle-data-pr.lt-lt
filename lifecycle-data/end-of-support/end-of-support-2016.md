@@ -1,13 +1,13 @@
 ---
 title: Produktai, kurių palaikymas baigiasi 2016 m.
 description: Sužinokite, kurie produktai 2016 m. pasieks palaikymo pabaigą arba pereis nuo pagrindinio palaikymo į išplėstinį palaikymą.
-ms.date: 09/17/2021
-ms.openlocfilehash: 173d56e15247cd3bb3e31ece82f9aa2d05a54146
-ms.sourcegitcommit: 203d765be641181ebf7b895f783ce497a9568616
+ms.date: 01/14/2022
+ms.openlocfilehash: 02f886067fe5d4199a1f0e5f4505c6afa5cd6194
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "4028903"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117561"
 ---
 # <a name="products-ending-support-in-2016"></a>Produktai, kurių palaikymas baigiasi 2016 m.
 
@@ -20,13 +20,6 @@ Jei turite klausimų, susijusių su produkto palaikymu, kreipkitės į savo „M
 
 
 
-## <a name="release-end-of-servicing"></a>Techninės priežiūros pabaiga
-
-Toliau nurodytų produktų, kuriems taikoma [modernioji strategija](/lifecycle/policies/modern), palaikymas baigsis 2016 m.
-
-| Produktas | Techninės priežiūros pabaiga |
-| --- | --- |
-| [„Microsoft Endpoint Configuration Manager“, 1511 versija](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2016 m. gruodžio 8 d. |
 
 
 ## <a name="products-reaching-end-of-support"></a>Palaikymo pabaigos data

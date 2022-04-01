@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: „Dynamics 365 Field Service“
+  description: „Dynamics 365 Field Service“ atitinka šiuolaikinę ciklo palaikymo strategiją.
+  ms.date: 2022/03/11
+  keywords: Xamarin, field service mobile, mobile
+  ms.openlocfilehash: 76b0b6832ddeb85a55d84e377c8d26482e7eb87d
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4157058"
+name: „Dynamics 365 Field Service“
+summary: >+
+  „Dynamics 365 Field Service“ atitinka [šiuolaikinę](/lifecycle/policies/modern) ciklo palaikymo strategiją.
+
+
+
+
+
+  > [!IMPORTANT]
+
+  > Atkreipkite dėmesį, kad pirminės „Field Service Mobile“ („Xamarin“) programos palaikymas bus nutrauktas 2022 m. birželio 30 d. Klientai turėtų pereiti į [„Field Service“ („Dynamics 365“) mobiliųjų](https://docs.microsoft.com/dynamics365/field-service/mobile-2020-power-platform) įrenginių programėlę iki tos datos. Daugiau informacijos žr. DUK apie [„Field Service Mobile Xamarin“ palaikymo pabaigą](https://docs.microsoft.com/dynamics365/field-service/activate-fs-mobile-app-license#faqs).
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 2016-05-02T00:00:00.000-08:00
+releases:
+- version: Original Release
+  startDate: 2016-05-02T00:00:00.000-08:00
+content: "\n\n## <a name=\"links\"></a>Saitai \n* [Informacija apie gaminį](/dynamics365/field-service/overview)\n* [„Dynamics 365 Field Service“ mobiliųjų įrenginių programėlės perkėlimo informacija](https://aka.ms/fsmobile-adoption)"

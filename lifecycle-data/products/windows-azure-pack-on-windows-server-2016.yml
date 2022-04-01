@@ -3,26 +3,23 @@ metadata:
   title: „Windows Azure Pack“ („Windows Server 2016“)
   description: „Windows Azure Pack“ („Windows Server 2016“) atitinka fiksuotojo ciklo palaikymo strategiją.
   ms.date: 07/28/2020
+  ms.openlocfilehash: 6bacf76dd121b50595c3b92393bc5c0c2a7f778c
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4118523"
 name: „Windows Azure Pack“ („Windows Server 2016“)
-summary: |+
-  „Windows Azure Pack“ („Windows Server 2016“) atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. 
-
-
+summary: "„Windows Azure Pack“ („Windows Server 2016“) atitinka [fiksuotojo](/lifecycle/policies/fixed) ciklo palaikymo strategiją. \n\n\n"
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 10/12/2016
-  end: 01/11/2022
-  extendedEnd: 01/12/2027
+  start: 2016-10-12T00:00:00.000-08:00
+  end: 2022-01-11T22:59:59.999-08:00
+  extendedEnd: 2027-01-12T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 10/12/2016
-    endDate: 01/12/2027
-content: |+
-
-  ## <a name="links"></a>Saitai 
-  * [Daugiau informacijos](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))
-
-  > [!NOTE]
-  > „Windows Azure Pack“, skirtas „Windows Server“, yra hibridinis debesies sprendimas, kuris suteikia „Windows Azure“ technologijas jūsų duomenų centrui. Dėl jos „Microsoft“ klientams be papildomo mokesčio siūlomas turtingas, savitarnos, kelių nuomotojų debesis jūsų duomenų centro aparatūrai.
+- version: Original Release
+  startDate: 2016-10-12T00:00:00.000-08:00
+  endDate: 2027-01-12T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Saitai \n* [Daugiau informacijos](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n> [!NOTE]\n> „Windows Azure Pack“, skirtas „Windows Server“, yra hibridinis debesies sprendimas, kuris suteikia „Windows Azure“ technologijas jūsų duomenų centrui. Dėl jos „Microsoft“ klientams be papildomo mokesčio siūlomas turtingas, savitarnos, kelių nuomotojų debesis jūsų duomenų centro aparatūrai."

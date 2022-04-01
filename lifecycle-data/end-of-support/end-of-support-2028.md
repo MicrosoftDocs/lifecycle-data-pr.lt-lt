@@ -1,13 +1,13 @@
 ---
 title: Produktai, kurių palaikymas baigiasi 2028 m.
 description: Sužinokite, kurie produktai 2028 m. pasieks palaikymo pabaigą arba pereis nuo pagrindinio palaikymo į išplėstinį palaikymą.
-ms.date: 08/11/2021
-ms.openlocfilehash: d9483ab57d5626bb7db3be75fd915951aa68adf1
-ms.sourcegitcommit: 5e9349227c409d98c77eb151f27be486fb55a00c
+ms.date: 01/26/2022
+ms.openlocfilehash: a8b3c4f4e6e462fa015bad7b2c1b609d44d9838b
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "4028551"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4116969"
 ---
 # <a name="products-ending-support-in-2028"></a>Produktai, kurių palaikymas baigiasi 2028 m.
 
@@ -39,3 +39,11 @@ Toliau nurodytų produktų, kuriems taikoma [nustatytoji strategija](/lifecycle/
 | [„Dynamics SL 2018“](/lifecycle/products/dynamics-sl-2018?branch=live)<br> | 2028 m. liepos 11 d. |
 
 
+## <a name="products-moving-to-extended-support"></a>Produktai, perkelti iš pagrindinio į išplėstinį palaikymą
+
+Toliau nurodytų produktų palaikymas 2028 m. bus pakeistas iš standartinio į papildomą. Papildomas palaikymas apima nemokamus saugos naujinimus ir mokamus su sauga nesusijusius naujinimus ir palaikymą. Be to, papildomo palaikymo laikotarpiu „Microsoft“ nepriims užklausų dėl dizaino pakeitimų ar naujų funkcijų.
+
+| Produktas | Pagrindinio palaikymo pabaiga |
+| --- | --- |
+| [„BizTalk Server 2020“](/lifecycle/products/biztalk-server-2020?branch=live)<br> | 2028 m. balandžio 11 d., antradienis |
+| [„Microsoft Host Integration Server 2020“](/lifecycle/products/microsoft-host-integration-server-2020?branch=live)<br> | 2028 m. liepos 11 d. |

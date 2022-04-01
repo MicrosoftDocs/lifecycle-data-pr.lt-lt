@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: „Microsoft Defender“, skirta „IoT“
+  description: „Microsoft Defender“, skirta „IoT“, atitinka šiuolaikinę ciklo palaikymo strategiją.
+  ms.date: 01/12/2022
+  keywords: Azure Defender for IoT
+  ms.openlocfilehash: 83da229791471d07d50fc96de0b5a6a0aebf8448
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4156966"
+name: „Microsoft Defender“, skirta „IoT“
+summary: >+
+  „Microsoft Defender“, skirta „IoT“, atitinka [šiuolaikinę](/lifecycle/policies/modern) ciklo palaikymo strategiją.
+
+
+
+
+
+products:
+- azure
+policyType: modern-on-prem
+supportDates:
+  start: 2021-01-04T00:00:00.000-08:00
+releases:
+- version: Original Release
+  startDate: 2021-01-04T00:00:00.000-08:00
+content: "\n\n## <a name=\"links\"></a>Saitai \n* [Tarnybos gairės](/azure/defender-for-iot/release-notes#versions-and-support-dates)"

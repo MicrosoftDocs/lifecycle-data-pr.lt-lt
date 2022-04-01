@@ -3,32 +3,26 @@ metadata:
   title: „Microsoft 365“ taikomosios programėlės
   description: „Microsoft 365“ taikomosios programos atitinka šiuolaikinę palaikymo strategiją.
   ms.date: 04/07/2021
-  keywords: 'Office 365 Business,Office 365 ProPlus,for business,for enterprise'
+  keywords: Office 365 Business,Office 365 ProPlus,for business,for enterprise
+  ms.openlocfilehash: df188eeb73187be1007b85338632762e6c9153b7
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4155005"
 name: „Microsoft 365“ taikomosios programėlės
-summary: |+
+summary: >+
   „Microsoft 365“ taikomosios programėlės atitinka [šiuolaikinę](/lifecycle/policies/modern) ciklo palaikymo strategiją.
+
 
   Tai taikoma šiems leidimams: verslui, korporacijoms
 
 products:
-  - office
+- office
 policyType: modern-online
 supportDates:
-  start: 09/22/2015
+  start: 2015-09-22T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 09/22/2015
-content: |
-
-  ## <a name="links"></a>Saitai 
-  * [Palaikomos versijos](/officeupdates/update-history-microsoft365-apps-by-date#supported-versions)
-  * [Sistemos reikalavimai](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)
-  * [„Office“ konfigūracijos palaikymo matrica](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OqRI)
-  * [„Microsoft 365“ taikomųjų programų diegimo gidas](/DeployOffice/deployment-guide-microsoft-365-apps)
-
-  > [!NOTE]
-  > „Microsoft 365“ taikomosios programos įmonėms (anksčiau vadintos „Office 365 ProPlus“) „Microsoft 365“ programos verslui (anksčiau vadintos „Office 365 Business“)
-
-  ## <a name="editions"></a>Leidimai 
-  * verslui
-  * įmonėms
+- version: Original Release
+  startDate: 2015-09-22T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>Saitai \n* [Palaikomos versijos](/officeupdates/update-history-microsoft365-apps-by-date#supported-versions)\n* [Sistemos reikalavimai](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [„Office“ konfigūracijos palaikymo matrica](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OqRI)\n* [„Microsoft 365“ taikomųjų programų diegimo gidas](/DeployOffice/deployment-guide-microsoft-365-apps)\n\n> [!NOTE]\n> „Microsoft 365“ taikomosios programos įmonėms (anksčiau vadintos „Office 365 ProPlus“) „Microsoft 365“ programos verslui (anksčiau vadintos „Office 365 Business“)\n\n## <a name=\"editions\"></a>Leidimai \n* verslui\n* įmonėms"
