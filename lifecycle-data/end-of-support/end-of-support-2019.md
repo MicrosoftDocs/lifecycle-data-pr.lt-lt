@@ -1,13 +1,13 @@
 ---
 title: Produktai, kurių palaikymo pabaiga yra 2019 m.
 description: Sužinokite, kurie produktai 2019 m. pasieks palaikymo pabaigą arba pereis nuo pagrindinio palaikymo į išplėstinį palaikymą.
-ms.date: 10/18/2021
-ms.openlocfilehash: 8897f8ee06e300688a7ed3680a67f28727d9be00
-ms.sourcegitcommit: dac122fba5780fbedce4e9575efe921fffde28c3
+ms.date: 07/26/2022
+ms.openlocfilehash: 22b7432a5180f392bf343c5fae25f83da39a9753
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 10/19/2021
-ms.locfileid: "4029187"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518239"
 ---
 # <a name="products-ending-support-in-2019"></a>Produktų, kurių palaikymas baigiasi 2019 m.
 
@@ -24,7 +24,6 @@ Jei turite klausimų, susijusių su produkto palaikymu, kreipkitės į savo „M
 
 | Produktas | Išėmimas |
 | --- | --- |
-| [„Azure“ planuoklė](/lifecycle/products/azure-scheduler?branch=live)<br> | 2019 m. rugsėjo 30 d. |
 | [„HockeyApp“](/lifecycle/products/hockeyapp?branch=live)<br> | 2019 m. lapkričio 16 d. |
 
 
@@ -34,6 +33,7 @@ Toliau nurodytų produktų, kuriems taikoma [modernioji strategija](/lifecycle/p
 
 | Produktas | Techninės priežiūros pabaiga |
 | --- | --- |
+| [„PowerShell“, „PowerShell Core 6.0“](/lifecycle/products/powershell?branch=live)<br> | 2019 m. vasario 13 d., trečiadienis |
 | [„Visual Studio for Mac“, „Visual Studio 2017 for Mac“](/lifecycle/products/visual-studio-for-mac?branch=live)<br> | 2019 m. kovo 8 d. |
 | [„Windows 10 Enterprise and Education“, 1607 versija](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[„Windows 10 Home“ ir „Pro“, 1709 versija](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[„Windows 10 IoT Core“, 1709 versija](/lifecycle/products/windows-10-iot-core?branch=live)<br>[„Windows 10 IoT Enterprise“, 1607 versija](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[„Windows Server“, 1709 versija](/lifecycle/products/windows-server?branch=live)<br> | 2019 m. balandžio 9 d. |
 | [„Microsoft Endpoint Configuration Manager“, 1710 versija](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2019 m. gegužės 20 d. |

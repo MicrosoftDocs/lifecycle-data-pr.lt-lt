@@ -2,14 +2,14 @@
 metadata:
   title: Klasikinis „Azure“ informacijos apsaugos klientas
   description: „Azure“ informacijos apsaugos klientas atitinka šiuolaikinę ciklo palaikymo strategiją.
-  ms.date: 11/17/2021
+  ms.date: 2022/05/27
   keywords: 
-  ms.openlocfilehash: 440c0337f73f25c109b206264547034b1a4ece68
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: d316768b36d12f3ce3e4b70bcc7d0e26d4b432ca
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: lt-LT
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4157250"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518646"
 name: Klasikinis „Azure“ informacijos apsaugos klientas
 summary: >+
   Klasikinis „Azure“ informacijos apsaugos klientas atitinka [šiuolaikinę](/lifecycle/policies/modern) ciklo palaikymo strategiją.

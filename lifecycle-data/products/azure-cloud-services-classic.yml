@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: „Azure Cloud Services“ (klasikinė)
+  description: „Azure Cloud Services“ (klasikinė) atitinka šiuolaikinę ciklo palaikymo strategiją.
+  ms.date: 08/09/2022
+  keywords: 
+  ms.openlocfilehash: 6eed4e17d48daaee89fe1a21a0997e090b36523c
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+  ms.translationtype: HT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4519349"
+name: „Azure Cloud Services“ (klasikinė)
+summary: >+
+  „Azure Cloud Services“ (klasikinė) atitinka [šiuolaikinę](/lifecycle/policies/modern) ciklo palaikymo strategiją.
+
+
+
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 2008-10-27T00:00:00.000-08:00
+  end: 2024-08-31T22:59:59.999-08:00
+releases:
+- version: Original Release
+  startDate: 2008-10-27T00:00:00.000-08:00
+  endDate: 2024-08-31T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo informacija: debesies paslaugos (papildomas palaikymas)](/azure/cloud-services-extended-support/in-place-migration-overview)\n* [„Azure Guest OS“ palaikomumo ir išėmimo iš prekybos strategija](/azure/cloud-services/cloud-services-guestos-retirement-policy)"

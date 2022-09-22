@@ -1,0 +1,35 @@
+### YamlMime:Lifecycle
+metadata:
+  title: „Internet Explorer 11“, skirta „Windows 10“ pusmetiniame kanale (SAC)
+  description: „Internet Explorer 11“, esanti „Windows 10“ pusmetiniame kanale (SAC), atitinka komponento ciklo palaikymo strategiją.
+  ms.date: 2022/06/23
+  keywords: browser,ie,IE11,sac,semi-annual channel
+  ms.openlocfilehash: 345e9952b9b3e16724e8e13bc928eb50605e031f
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+  ms.translationtype: HT
+  ms.contentlocale: lt-LT
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4519127"
+name: „Internet Explorer 11“, skirta „Windows 10“ pusmetiniame kanale (SAC)
+summary: >+
+  „Internet Explorer 11“, esanti „Windows 10“ pusmetiniame kanale (SAC), atitinka [komponento](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) ciklo palaikymo strategiją.
+
+
+
+
+
+  > [!IMPORTANT]
+
+  > „Internet Explorer 11“ (IE) darbalaukio programa nustos palaikyti „Windows 10“ pusmetinius kanalus nuo 2022 m. birželio 15 d. Klientai raginami pereiti į „Microsoft Edge“ su IE režimu. IE režimas įgalina atgalinį suderinamumą ir bus palaikomas mažiausiai iki 2029 m. Be to, „Microsoft“ praneš apie tai likus metams iki IE režimo panaikinimo. Eikite [čia](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer) norėdami peržiūrėti „Internet Explorer“ palaikančių operacinių sistemų sąrašą, įskaitant versijas, susijusias su šiuo pranešimu.
+
+products:
+- internet-explorer
+policyType: component
+supportDates:
+  start: 2013-11-13T00:00:00.000-08:00
+  end: 2022-06-14T22:59:59.999-08:00
+releases:
+- version: Original Release
+  startDate: 2013-11-13T00:00:00.000-08:00
+  endDate: 2022-06-14T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Saitai \n* [Perkėlimo našumo rekomendacijos](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [DUK apie „Internet Explorer“ ir „Microsoft Edge“ gyvavimo ciklą](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [„Internet Explorer“ palaikomos operacinės sistemos](/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)\n* [„Microsoft Edge“ palaikomos operacinės sistemos](/deployedge/microsoft-edge-supported-operating-systems)"

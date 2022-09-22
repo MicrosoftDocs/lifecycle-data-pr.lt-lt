@@ -1,13 +1,13 @@
 ---
 title: Produktai, kurių palaikymas baigiasi 2020 m.
 description: Sužinokite, kurie produktai 2020 m. bus išimti iš prekybos, pasieks palaikymo pabaigą arba pereis nuo pagrindinio palaikymo į išplėstinį palaikymą.
-ms.date: 02/22/2022
-ms.openlocfilehash: e427619e7015e375d7ec11cfe3f5b87fc4d6a0ec
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 07/26/2022
+ms.openlocfilehash: 5e9fe15375b61f659076f10221d48d7b144b3ebe
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117598"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518202"
 ---
 # <a name="products-ending-support-in-2020"></a>Produktai, kurių palaikymas baigiasi 2020 m.
 
@@ -38,7 +38,7 @@ Toliau nurodytų produktų, kuriems taikoma [modernioji strategija](/lifecycle/p
 | --- | --- |
 | [„Microsoft Endpoint Configuration Manager“, 1806 versija](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2020 m. sausio 31 d. |
 | [„.NET Core 3.0“](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | 2020 m. kovo 3 d. |
-| [„PowerShell“, „PowerShell 6.x“](/lifecycle/products/powershell?branch=live)<br>[„PowerShell“, „PowerShell Core 6.2“](/lifecycle/products/powershell?branch=live)<br> | 2020 m. rugsėjo 4 d. |
+| [„PowerShell“, „PowerShell Core 6.2“](/lifecycle/products/powershell?branch=live)<br> | 2020 m. rugsėjo 4 d. |
 | [„Microsoft Endpoint Configuration Manager“, 1902 versija](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2020 m. rugsėjo 27 d. |
 | [„Visio Services“, skirta „SharePoint“ (esanti „Microsoft 365“)](/lifecycle/products/visio-services-in-sharepoint-in-microsoft-365?branch=live)<br> | 2020 m. rugsėjo 30 d. |
 | [„Windows 10 Enterprise and Education“, 1709 versija](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[„Windows 10 IoT Enterprise“, 1709 versija](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 2020 m. spalio 13 d.  |
