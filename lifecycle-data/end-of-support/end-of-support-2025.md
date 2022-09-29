@@ -1,13 +1,13 @@
 ---
 title: Produktai, kurių palaikymas baigiasi 2025 m.
 description: Sužinokite, kurie produktai 2025 m. pasieks palaikymo pabaigą arba pereis nuo pagrindinio palaikymo į išplėstinį palaikymą.
-ms.date: 07/26/2022
-ms.openlocfilehash: e8838567dcbd55799be4036be1031dcb5181caab
-ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+ms.date: 09/20/2022
+ms.openlocfilehash: f4b77006c5c2f23c9f624de090a371da2fceeb2c
+ms.sourcegitcommit: 271be77bfed364b789251cdc113296e7e7842cbb
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/09/2022
-ms.locfileid: "4517928"
+ms.lasthandoff: 09/20/2022
+ms.locfileid: "4526164"
 ---
 # <a name="products-ending-support-in-2025"></a>Produktų, kurių palaikymas baigiasi 2025 m.
 
@@ -27,6 +27,13 @@ Jei turite klausimų, susijusių su produkto palaikymu, kreipkitės į savo „M
 | [„Windows 10 Enterprise and Education“](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[„Windows 10 Home“ ir „Pro“](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[„Windows 10 IoT Enterprise“](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 2025 m. spalio 14 d. |
 
 
+## <a name="release-end-of-servicing"></a>Techninės priežiūros pabaiga
+
+Toliau nurodytų produktų, kuriems taikoma [šiuolaikinė palaikymo ciklo strategija](/lifecycle/policies/modern), palaikymas baigsis 2025 m.
+
+| Produktas | Techninės priežiūros pabaiga |
+| --- | --- |
+| [„Windows 11 Enterprise“ ir „Education“ 22H2 versija](/lifecycle/products/windows-11-enterprise-and-education?branch=live)<br>[„Windows 11 IoT Enterprise“ 22H2 versija](/lifecycle/products/windows-11-iot-enterprise?branch=live)<br> | 2025 m. spalio 14 d. |
 
 
 ## <a name="products-reaching-end-of-support"></a>Palaikymo pabaigos data

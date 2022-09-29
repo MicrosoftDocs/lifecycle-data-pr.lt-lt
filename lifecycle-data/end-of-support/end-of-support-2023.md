@@ -1,13 +1,13 @@
 ---
 title: Produktai, kurių palaikymas baigiasi 2023 m.
 description: Sužinokite, kurie produktai 2023 m. pasieks palaikymo pabaigą arba pereis nuo pagrindinio palaikymo į išplėstinį palaikymą.
-ms.date: 09/13/2022
-ms.openlocfilehash: 14252d5922ab850dbdc90c4ef3a8d58cad40892f
-ms.sourcegitcommit: b88b4db4bcd8ffe5d63ffa23a2a518ac25a4f635
+ms.date: 09/21/2022
+ms.openlocfilehash: facaf412f81123ef165642fd5c6692dc121fe123
+ms.sourcegitcommit: 369efbff28148903c4c47e5d1ae453fcc2cc9ae6
 ms.translationtype: HT
 ms.contentlocale: lt-LT
-ms.lasthandoff: 09/13/2022
-ms.locfileid: "4521067"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "4526875"
 ---
 # <a name="products-ending-support-in-2023"></a>Produktai, kurių palaikymas baigiasi 2023 m.
 
@@ -36,13 +36,12 @@ Toliau nurodytų produktų, kuriems taikoma [modernioji strategija](/lifecycle/p
 | Produktas | Techninės priežiūros pabaiga |
 | --- | --- |
 | [„Microsoft Endpoint Configuration Manager“, 2107 versija](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2023 m. vasario 2 d. |
-| [„Microsoft Endpoint Configuration Manager“ 2207 versija](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2023 m. vasario 12 d., sekmadienis |
 | [„Dynamics 365 Business Central“ vietinė versija (modernioji strategija), 2021 leidimo 2 banga, 19.x versija](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 2023 m. balandžio 12 d. |
 | [„Windows 10 Enterprise and Education“, 20H2 versija](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[„Windows 10 IoT Enterprise“, 20H2 versija](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 2023 m. gegužės 9 d. |
 | [„Microsoft Endpoint Configuration Manager“ 2111 versija](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2023 m. birželio 1 d., ketvirtadienis |
 | [„Windows 10 Home“ ir „Pro“ (21H2 versija)](/lifecycle/products/windows-10-home-and-pro?branch=live)<br> | 2023 m. birželio 13 d., antradienis |
 | [„Microsoft Endpoint Configuration Manager“ 2203 versija](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2023 m. spalio 6 d., penktadienis |
-| [„Dynamics 365 Business Central“ vietinė versija (šiuolaikinė strategija), 2022 leidimo 1 banga, 20.x versija](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[„Windows 11 Home“ ir „Pro“ (21H2 versija), pradinis leidimas (21H2 versija)](/lifecycle/products/windows-11-home-and-pro-version-21h2?branch=live)<br> | 2023 m. spalio 10 d. |
+| [„Dynamics 365 Business Central“ vietinė versija (šiuolaikinė strategija), 2022 leidimo 1 banga, 20.x versija](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[„Windows 11 Home“ ir „Pro“ 21H2 versija](/lifecycle/products/windows-11-home-and-pro?branch=live)<br> | 2023 m. spalio 10 d. |
 
 
 ## <a name="products-reaching-end-of-support"></a>Palaikymo pabaigos data
